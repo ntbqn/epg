@@ -2218,7 +2218,7 @@
     <display-name lang="vi">ABC Australia</display-name>
     <url>http://www.tivis.101vn.com</url>
   </channel>
-  <programme start="20190519000000 +0100" stop="20190519235900 +0100" channel="Example">
+  <programme start="20190520000000 +0100" stop="20190520235900 +0100" channel="Example">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
   </programme>
@@ -4885,7 +4885,7 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ISEKJ.jpg" />
     <episode-num system="xmltv_ns">.94.</episode-num>
   </programme>
-  <programme start="20190520060000 +0700" stop="20190520083000 +0700" channel="Astro SuperSport 2">
+  <programme start="20190520060000 +0700" stop="20190520080000 +0700" channel="Astro SuperSport 2">
     <title lang="en">WTA: Internazionali BNL d'Italia</title>
     <desc lang="en">Tennis: WTA Internazionali BNL d'Italia 2019: Semi Final 2, from Foro Italico, Rome, Italy.(n)</desc>
     <category lang="en">Sports</category>
@@ -4893,13 +4893,27 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ISEKJ.jpg" />
     <episode-num system="xmltv_ns">.95.</episode-num>
   </programme>
-  <programme start="20190520083000 +0700" stop="20190520110000 +0700" channel="Astro SuperSport 2">
+  <programme start="20190520080000 +0700" stop="20190520083000 +0700" channel="Astro SuperSport 2">
+    <title lang="en">PL Legends: Pires</title>
+    <desc lang="en">It's a documentary series that delves intimately into the careers of the cult heroes that have helped make the Premier League the success it is today.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20190520083000 +0700" stop="20190520103000 +0700" channel="Astro SuperSport 2">
     <title lang="en">WTA: Internazionali BNL d'Italia</title>
     <desc lang="en">Tennis: WTA Internazionali BNL d'Italia 2019: Final, from Foro Italico, Rome, Italy.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ISEKJ.jpg" />
     <episode-num system="xmltv_ns">.96.</episode-num>
+  </programme>
+  <programme start="20190520103000 +0700" stop="20190520110000 +0700" channel="Astro SuperSport 2">
+    <title lang="en">PL Legends: Shearer</title>
+    <desc lang="en">It's a documentary series that delves intimately into the careers of the cult heroes that have helped make the Premier League the success it is today.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <episode-num system="xmltv_ns">.1.</episode-num>
   </programme>
   <programme start="20190520110000 +0700" stop="20190520120000 +0700" channel="Astro SuperSport 2">
     <title lang="en">Trans World Sports 2019</title>
@@ -4925,13 +4939,20 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ISUOF.jpg" />
     <episode-num system="xmltv_ns">.88.</episode-num>
   </programme>
-  <programme start="20190520160000 +0700" stop="20190520183000 +0700" channel="Astro SuperSport 2">
+  <programme start="20190520160000 +0700" stop="20190520180000 +0700" channel="Astro SuperSport 2">
     <title lang="en">WTA: Internazionali BNL d'Italia</title>
     <desc lang="en">Tennis: WTA Internazionali BNL d'Italia 2019: Final, from Foro Italico, Rome, Italy.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ISEKJ.jpg" />
     <episode-num system="xmltv_ns">.96.</episode-num>
+  </programme>
+  <programme start="20190520180000 +0700" stop="20190520183000 +0700" channel="Astro SuperSport 2">
+    <title lang="en">PL Legends: Shearer</title>
+    <desc lang="en">It's a documentary series that delves intimately into the careers of the cult heroes that have helped make the Premier League the success it is today.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <episode-num system="xmltv_ns">.1.</episode-num>
   </programme>
   <programme start="20190520183000 +0700" stop="20190520220000 +0700" channel="Astro SuperSport 2">
     <title lang="en">ONE FC 2019</title>
@@ -5094,7 +5115,7 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ISKMU.jpg" />
     <episode-num system="xmltv_ns">.36.</episode-num>
   </programme>
-  <programme start="20190520024500 +0700" stop="20190520034000 +0700" channel="Astro SuperSport">
+  <programme start="20190520025800 +0700" stop="20190520034000 +0700" channel="Astro SuperSport">
     <title lang="en">Paris Marathon 2019 - Highlights</title>
     <desc lang="en">Highlights of the Schneider Electric Paris International Marathon 2019 held in Paris, France.(n)</desc>
     <category lang="en">Sports</category>
@@ -5193,7 +5214,7 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ISEKJ.jpg" />
     <episode-num system="xmltv_ns">.94.</episode-num>
   </programme>
-  <programme start="20190520060000 +0700" stop="20190520083000 +0700" channel="Astro SuperSport 2 HD">
+  <programme start="20190520060000 +0700" stop="20190520080000 +0700" channel="Astro SuperSport 2 HD">
     <title lang="en">WTA: Internazionali BNL d'Italia</title>
     <desc lang="en">Tennis: WTA Internazionali BNL d'Italia 2019: Semi Final 2, from Foro Italico, Rome, Italy.(n)</desc>
     <category lang="en">Sports</category>
@@ -5201,13 +5222,27 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ISEKJ.jpg" />
     <episode-num system="xmltv_ns">.95.</episode-num>
   </programme>
-  <programme start="20190520083000 +0700" stop="20190520110000 +0700" channel="Astro SuperSport 2 HD">
+  <programme start="20190520080000 +0700" stop="20190520083000 +0700" channel="Astro SuperSport 2 HD">
+    <title lang="en">PL Legends: Pires</title>
+    <desc lang="en">It's a documentary series that delves intimately into the careers of the cult heroes that have helped make the Premier League the success it is today.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20190520083000 +0700" stop="20190520103000 +0700" channel="Astro SuperSport 2 HD">
     <title lang="en">WTA: Internazionali BNL d'Italia</title>
     <desc lang="en">Tennis: WTA Internazionali BNL d'Italia 2019: Final, from Foro Italico, Rome, Italy.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ISEKJ.jpg" />
     <episode-num system="xmltv_ns">.96.</episode-num>
+  </programme>
+  <programme start="20190520103000 +0700" stop="20190520110000 +0700" channel="Astro SuperSport 2 HD">
+    <title lang="en">PL Legends: Shearer</title>
+    <desc lang="en">It's a documentary series that delves intimately into the careers of the cult heroes that have helped make the Premier League the success it is today.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <episode-num system="xmltv_ns">.1.</episode-num>
   </programme>
   <programme start="20190520110000 +0700" stop="20190520120000 +0700" channel="Astro SuperSport 2 HD">
     <title lang="en">Trans World Sports 2019</title>
@@ -5233,13 +5268,20 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ISUOF.jpg" />
     <episode-num system="xmltv_ns">.88.</episode-num>
   </programme>
-  <programme start="20190520160000 +0700" stop="20190520183000 +0700" channel="Astro SuperSport 2 HD">
+  <programme start="20190520160000 +0700" stop="20190520180000 +0700" channel="Astro SuperSport 2 HD">
     <title lang="en">WTA: Internazionali BNL d'Italia</title>
     <desc lang="en">Tennis: WTA Internazionali BNL d'Italia 2019: Final, from Foro Italico, Rome, Italy.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ISEKJ.jpg" />
     <episode-num system="xmltv_ns">.96.</episode-num>
+  </programme>
+  <programme start="20190520180000 +0700" stop="20190520183000 +0700" channel="Astro SuperSport 2 HD">
+    <title lang="en">PL Legends: Shearer</title>
+    <desc lang="en">It's a documentary series that delves intimately into the careers of the cult heroes that have helped make the Premier League the success it is today.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <episode-num system="xmltv_ns">.1.</episode-num>
   </programme>
   <programme start="20190520183000 +0700" stop="20190520220000 +0700" channel="Astro SuperSport 2 HD">
     <title lang="en">ONE FC 2019</title>
@@ -5834,6 +5876,135 @@
     <title lang="en">At the Cricket World Cup</title>
     <desc lang="en">Cricket Magazine Show - New Zealand At The Cricket World Cup.(n)</desc>
     <category lang="en">Sports</category>
+  </programme>
+  <programme start="20190520000000 +0700" stop="20190520001500 +0700" channel="VTV1">
+    <title lang="vi">Thời sự 0h</title>
+  </programme>
+  <programme start="20190520001500 +0700" stop="20190520003000 +0700" channel="VTV1">
+    <title lang="vi">Cựu chiến binh Việt Nam: Vì hạnh phúc mọi nhà</title>
+  </programme>
+  <programme start="20190520003000 +0700" stop="20190520010000 +0700" channel="VTV1">
+    <title lang="vi">Sự kiện và bình luận</title>
+  </programme>
+  <programme start="20190520010000 +0700" stop="20190520011000 +0700" channel="VTV1">
+    <title lang="vi">Thời sự 1h</title>
+  </programme>
+  <programme start="20190520011000 +0700" stop="20190520020000 +0700" channel="VTV1">
+    <title lang="vi">Chìa khoá thành công: Giấc mơ bao đồng</title>
+  </programme>
+  <programme start="20190520020000 +0700" stop="20190520021000 +0700" channel="VTV1">
+    <title lang="vi">Thời sự 2h</title>
+  </programme>
+  <programme start="20190520021000 +0700" stop="20190520030000 +0700" channel="VTV1">
+    <title lang="vi">Phim truyện: Dù ghét vẫn yêu - Tập 4</title>
+  </programme>
+  <programme start="20190520030000 +0700" stop="20190520031000 +0700" channel="VTV1">
+    <title lang="vi">Thời sự 3h</title>
+  </programme>
+  <programme start="20190520031000 +0700" stop="20190520040000 +0700" channel="VTV1">
+    <title lang="vi">Không gian văn hóa nghệ thuật: Số 20</title>
+  </programme>
+  <programme start="20190520040000 +0700" stop="20190520041000 +0700" channel="VTV1">
+    <title lang="vi">Thời sự 4h</title>
+  </programme>
+  <programme start="20190520041000 +0700" stop="20190520051000 +0700" channel="VTV1">
+    <title lang="vi">Khám phá thế giới: Thế giới nguyên liệu - Tập 1</title>
+  </programme>
+  <programme start="20190520051000 +0700" stop="20190520053000 +0700" channel="VTV1">
+    <title lang="vi">Hành trình hy vọng: Số 10</title>
+  </programme>
+  <programme start="20190520053000 +0700" stop="20190520070000 +0700" channel="VTV1">
+    <title lang="vi">Chào buổi sáng</title>
+  </programme>
+  <programme start="20190520070000 +0700" stop="20190520073000 +0700" channel="VTV1">
+    <title lang="vi">Tài chính - Kinh doanh</title>
+  </programme>
+  <programme start="20190520073000 +0700" stop="20190520080500 +0700" channel="VTV1">
+    <title lang="vi">Phim tài liệu: Đường Trường Sơn tuyến hậu cần huyền thoại - Tập 3</title>
+  </programme>
+  <programme start="20190520080500 +0700" stop="20190520090000 +0700" channel="VTV1">
+    <title lang="vi">Phim truyện: Mộng phù hoa - Tập 7</title>
+  </programme>
+  <programme start="20190520090000 +0700" stop="20190520113000 +0700" channel="VTV1">
+    <title lang="vi">Truyền hình trực tiếp: Khai mạc Kỳ họp thứ 7, Quốc hội khóa XIV</title>
+  </programme>
+  <programme start="20190520113000 +0700" stop="20190520120000 +0700" channel="VTV1">
+    <title lang="vi">Chuyển động 24h</title>
+  </programme>
+  <programme start="20190520120000 +0700" stop="20190520124000 +0700" channel="VTV1">
+    <title lang="vi">Thời sự 12h</title>
+  </programme>
+  <programme start="20190520124000 +0700" stop="20190520131000 +0700" channel="VTV1">
+    <title lang="vi">Tài chính - Kinh doanh</title>
+  </programme>
+  <programme start="20190520131000 +0700" stop="20190520140000 +0700" channel="VTV1">
+    <title lang="vi">Phim truyện: Dù ghét vẫn yêu - Tập 5</title>
+  </programme>
+  <programme start="20190520140000 +0700" stop="20190520141000 +0700" channel="VTV1">
+    <title lang="vi">Trái đất xanh</title>
+  </programme>
+  <programme start="20190520141000 +0700" stop="20190520151000 +0700" channel="VTV1">
+    <title lang="vi">Sống mới</title>
+  </programme>
+  <programme start="20190520151000 +0700" stop="20190520153000 +0700" channel="VTV1">
+    <title lang="vi">Doanh nghiệp - Doanh nhân: Thanh toán điện tử - Phần 1: Thách thức của doanh nghiệp Fintech</title>
+  </programme>
+  <programme start="20190520153000 +0700" stop="20190520160000 +0700" channel="VTV1">
+    <title lang="vi">Phim tài liệu: Đi tìm chiếc chìa khóa vàng cho nông nghiệp Việt Nam</title>
+  </programme>
+  <programme start="20190520160000 +0700" stop="20190520161500 +0700" channel="VTV1">
+    <title lang="vi">Thời sự 16h</title>
+  </programme>
+  <programme start="20190520161500 +0700" stop="20190520163000 +0700" channel="VTV1">
+    <title lang="vi">Nhân đạo: Triển khai Tháng nhân đạo 2019</title>
+  </programme>
+  <programme start="20190520163000 +0700" stop="20190520170500 +0700" channel="VTV1">
+    <title lang="vi">Việc tử tế</title>
+  </programme>
+  <programme start="20190520170500 +0700" stop="20190520173000 +0700" channel="VTV1">
+    <title lang="vi">Cải cách hành chính: Cải cách thủ tục hành chính trong ngành xây dựng</title>
+  </programme>
+  <programme start="20190520173000 +0700" stop="20190520182000 +0700" channel="VTV1">
+    <title lang="vi">Việt Nam hôm nay</title>
+  </programme>
+  <programme start="20190520182000 +0700" stop="20190520183000 +0700" channel="VTV1">
+    <title lang="vi">Nông nghiệp sạch</title>
+  </programme>
+  <programme start="20190520183000 +0700" stop="20190520190000 +0700" channel="VTV1">
+    <title lang="vi">Chuyển động 24h</title>
+  </programme>
+  <programme start="20190520190000 +0700" stop="20190520194000 +0700" channel="VTV1">
+    <title lang="vi">Thời sự 19h</title>
+  </programme>
+  <programme start="20190520194000 +0700" stop="20190520201000 +0700" channel="VTV1">
+    <title lang="vi">Thể thao 24/7</title>
+  </programme>
+  <programme start="20190520201000 +0700" stop="20190520203000 +0700" channel="VTV1">
+    <title lang="vi">Quốc hội với cử tri</title>
+  </programme>
+  <programme start="20190520203000 +0700" stop="20190520210000 +0700" channel="VTV1">
+    <title lang="vi">Phim tài liệu: Hàng Việt - 10 năm chắp cánh tự hào</title>
+  </programme>
+  <programme start="20190520210000 +0700" stop="20190520213000 +0700" channel="VTV1">
+    <title lang="vi">Phim truyện: Về nhà đi con - Tập 27</title>
+  </programme>
+  <programme start="20190520213000 +0700" stop="20190520220000 +0700" channel="VTV1">
+    <title lang="vi">Tài chính - Kinh doanh</title>
+  </programme>
+  <programme start="20190520220000 +0700" stop="20190520221500 +0700" channel="VTV1">
+    <title lang="vi">Thế giới hôm nay</title>
+  </programme>
+  <programme start="20190520221500 +0700" stop="20190520223500 +0700" channel="VTV1">
+    <title lang="vi">Vấn đề hôm nay</title>
+  </programme>
+  <programme start="20190520223500 +0700" stop="20190520230000 +0700" channel="VTV1">
+    <title lang="vi">Cửa sổ ASEAN</title>
+  </programme>
+  <programme start="20190520230000 +0700" stop="20190520231500 +0700" channel="VTV1">
+    <title lang="vi">Thời sự 23h</title>
+  </programme>
+  <programme start="20190520231500 +0700" stop="20190520233000 +0700" channel="VTV1">
+    <title lang="vi">VTV kết nối</title>
   </programme>
   <programme start="20190520000000 +0700" stop="20190520003000 +0700" channel="VTV2">
     <title lang="vi">Pháp luật và Cuộc sống</title>
@@ -6473,6 +6644,135 @@
   </programme>
   <programme start="20190520223000 +0700" stop="20190520230000 +0700" channel="VTV6">
     <title lang="vi">Bản tin thế hệ số</title>
+  </programme>
+  <programme start="20190520000000 +0700" stop="20190520001500 +0700" channel="VTV1 HD">
+    <title lang="vi">Thời sự 0h</title>
+  </programme>
+  <programme start="20190520001500 +0700" stop="20190520003000 +0700" channel="VTV1 HD">
+    <title lang="vi">Cựu chiến binh Việt Nam: Vì hạnh phúc mọi nhà</title>
+  </programme>
+  <programme start="20190520003000 +0700" stop="20190520010000 +0700" channel="VTV1 HD">
+    <title lang="vi">Sự kiện và bình luận</title>
+  </programme>
+  <programme start="20190520010000 +0700" stop="20190520011000 +0700" channel="VTV1 HD">
+    <title lang="vi">Thời sự 1h</title>
+  </programme>
+  <programme start="20190520011000 +0700" stop="20190520020000 +0700" channel="VTV1 HD">
+    <title lang="vi">Chìa khoá thành công: Giấc mơ bao đồng</title>
+  </programme>
+  <programme start="20190520020000 +0700" stop="20190520021000 +0700" channel="VTV1 HD">
+    <title lang="vi">Thời sự 2h</title>
+  </programme>
+  <programme start="20190520021000 +0700" stop="20190520030000 +0700" channel="VTV1 HD">
+    <title lang="vi">Phim truyện: Dù ghét vẫn yêu - Tập 4</title>
+  </programme>
+  <programme start="20190520030000 +0700" stop="20190520031000 +0700" channel="VTV1 HD">
+    <title lang="vi">Thời sự 3h</title>
+  </programme>
+  <programme start="20190520031000 +0700" stop="20190520040000 +0700" channel="VTV1 HD">
+    <title lang="vi">Không gian văn hóa nghệ thuật: Số 20</title>
+  </programme>
+  <programme start="20190520040000 +0700" stop="20190520041000 +0700" channel="VTV1 HD">
+    <title lang="vi">Thời sự 4h</title>
+  </programme>
+  <programme start="20190520041000 +0700" stop="20190520051000 +0700" channel="VTV1 HD">
+    <title lang="vi">Khám phá thế giới: Thế giới nguyên liệu - Tập 1</title>
+  </programme>
+  <programme start="20190520051000 +0700" stop="20190520053000 +0700" channel="VTV1 HD">
+    <title lang="vi">Hành trình hy vọng: Số 10</title>
+  </programme>
+  <programme start="20190520053000 +0700" stop="20190520070000 +0700" channel="VTV1 HD">
+    <title lang="vi">Chào buổi sáng</title>
+  </programme>
+  <programme start="20190520070000 +0700" stop="20190520073000 +0700" channel="VTV1 HD">
+    <title lang="vi">Tài chính - Kinh doanh</title>
+  </programme>
+  <programme start="20190520073000 +0700" stop="20190520080500 +0700" channel="VTV1 HD">
+    <title lang="vi">Phim tài liệu: Đường Trường Sơn tuyến hậu cần huyền thoại - Tập 3</title>
+  </programme>
+  <programme start="20190520080500 +0700" stop="20190520090000 +0700" channel="VTV1 HD">
+    <title lang="vi">Phim truyện: Mộng phù hoa - Tập 7</title>
+  </programme>
+  <programme start="20190520090000 +0700" stop="20190520113000 +0700" channel="VTV1 HD">
+    <title lang="vi">Truyền hình trực tiếp: Khai mạc Kỳ họp thứ 7, Quốc hội khóa XIV</title>
+  </programme>
+  <programme start="20190520113000 +0700" stop="20190520120000 +0700" channel="VTV1 HD">
+    <title lang="vi">Chuyển động 24h</title>
+  </programme>
+  <programme start="20190520120000 +0700" stop="20190520124000 +0700" channel="VTV1 HD">
+    <title lang="vi">Thời sự 12h</title>
+  </programme>
+  <programme start="20190520124000 +0700" stop="20190520131000 +0700" channel="VTV1 HD">
+    <title lang="vi">Tài chính - Kinh doanh</title>
+  </programme>
+  <programme start="20190520131000 +0700" stop="20190520140000 +0700" channel="VTV1 HD">
+    <title lang="vi">Phim truyện: Dù ghét vẫn yêu - Tập 5</title>
+  </programme>
+  <programme start="20190520140000 +0700" stop="20190520141000 +0700" channel="VTV1 HD">
+    <title lang="vi">Trái đất xanh</title>
+  </programme>
+  <programme start="20190520141000 +0700" stop="20190520151000 +0700" channel="VTV1 HD">
+    <title lang="vi">Sống mới</title>
+  </programme>
+  <programme start="20190520151000 +0700" stop="20190520153000 +0700" channel="VTV1 HD">
+    <title lang="vi">Doanh nghiệp - Doanh nhân: Thanh toán điện tử - Phần 1: Thách thức của doanh nghiệp Fintech</title>
+  </programme>
+  <programme start="20190520153000 +0700" stop="20190520160000 +0700" channel="VTV1 HD">
+    <title lang="vi">Phim tài liệu: Đi tìm chiếc chìa khóa vàng cho nông nghiệp Việt Nam</title>
+  </programme>
+  <programme start="20190520160000 +0700" stop="20190520161500 +0700" channel="VTV1 HD">
+    <title lang="vi">Thời sự 16h</title>
+  </programme>
+  <programme start="20190520161500 +0700" stop="20190520163000 +0700" channel="VTV1 HD">
+    <title lang="vi">Nhân đạo: Triển khai Tháng nhân đạo 2019</title>
+  </programme>
+  <programme start="20190520163000 +0700" stop="20190520170500 +0700" channel="VTV1 HD">
+    <title lang="vi">Việc tử tế</title>
+  </programme>
+  <programme start="20190520170500 +0700" stop="20190520173000 +0700" channel="VTV1 HD">
+    <title lang="vi">Cải cách hành chính: Cải cách thủ tục hành chính trong ngành xây dựng</title>
+  </programme>
+  <programme start="20190520173000 +0700" stop="20190520182000 +0700" channel="VTV1 HD">
+    <title lang="vi">Việt Nam hôm nay</title>
+  </programme>
+  <programme start="20190520182000 +0700" stop="20190520183000 +0700" channel="VTV1 HD">
+    <title lang="vi">Nông nghiệp sạch</title>
+  </programme>
+  <programme start="20190520183000 +0700" stop="20190520190000 +0700" channel="VTV1 HD">
+    <title lang="vi">Chuyển động 24h</title>
+  </programme>
+  <programme start="20190520190000 +0700" stop="20190520194000 +0700" channel="VTV1 HD">
+    <title lang="vi">Thời sự 19h</title>
+  </programme>
+  <programme start="20190520194000 +0700" stop="20190520201000 +0700" channel="VTV1 HD">
+    <title lang="vi">Thể thao 24/7</title>
+  </programme>
+  <programme start="20190520201000 +0700" stop="20190520203000 +0700" channel="VTV1 HD">
+    <title lang="vi">Quốc hội với cử tri</title>
+  </programme>
+  <programme start="20190520203000 +0700" stop="20190520210000 +0700" channel="VTV1 HD">
+    <title lang="vi">Phim tài liệu: Hàng Việt - 10 năm chắp cánh tự hào</title>
+  </programme>
+  <programme start="20190520210000 +0700" stop="20190520213000 +0700" channel="VTV1 HD">
+    <title lang="vi">Phim truyện: Về nhà đi con - Tập 27</title>
+  </programme>
+  <programme start="20190520213000 +0700" stop="20190520220000 +0700" channel="VTV1 HD">
+    <title lang="vi">Tài chính - Kinh doanh</title>
+  </programme>
+  <programme start="20190520220000 +0700" stop="20190520221500 +0700" channel="VTV1 HD">
+    <title lang="vi">Thế giới hôm nay</title>
+  </programme>
+  <programme start="20190520221500 +0700" stop="20190520223500 +0700" channel="VTV1 HD">
+    <title lang="vi">Vấn đề hôm nay</title>
+  </programme>
+  <programme start="20190520223500 +0700" stop="20190520230000 +0700" channel="VTV1 HD">
+    <title lang="vi">Cửa sổ ASEAN</title>
+  </programme>
+  <programme start="20190520230000 +0700" stop="20190520231500 +0700" channel="VTV1 HD">
+    <title lang="vi">Thời sự 23h</title>
+  </programme>
+  <programme start="20190520231500 +0700" stop="20190520233000 +0700" channel="VTV1 HD">
+    <title lang="vi">VTV kết nối</title>
   </programme>
   <programme start="20190520000000 +0700" stop="20190520005000 +0700" channel="VTV3 HD">
     <title lang="vi">Phim truyện : Thế lực cạnh tranh - Tập 56</title>
@@ -13638,7 +13938,7 @@
     <category lang="en">Sports General</category>
   </programme>
   <programme start="20190520000000 +0700" stop="20190520020000 +0700" channel="HD2">
-    <title lang="en">Bursaspor vs Göztepe</title>
+    <title lang="en">Galatasaray vs Istanbul Basaksehir</title>
     <sub-title lang="en">Turkish Super League 2018/2019</sub-title>
     <category lang="en">Football</category>
   </programme>
@@ -13677,22 +13977,22 @@
     <category lang="en">English Premier League</category>
   </programme>
   <programme start="20190520110000 +0700" stop="20190520124500 +0700" channel="HD2">
-    <title lang="en">Bursaspor vs Göztepe</title>
+    <title lang="en">Galatasaray vs Istanbul Basaksehir</title>
     <sub-title lang="en">Turkish Super League 2018/2019</sub-title>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20190520124500 +0700" stop="20190520143000 +0700" channel="HD2">
+  <programme start="20190520124500 +0700" stop="20190520143200 +0700" channel="HD2">
     <title lang="en">Leeds United vs Derby County</title>
     <sub-title lang="en">Playoff Semi-Final (Match B) - 2nd Leg - EFL-English Football League</sub-title>
     <category lang="en">English League - Championship</category>
   </programme>
-  <programme start="20190520143000 +0700" stop="20190520150000 +0700" channel="HD2">
+  <programme start="20190520143200 +0700" stop="20190520150000 +0700" channel="HD2">
     <title lang="en">Best of AFC Champions League 2019</title>
     <sub-title lang="en">MD 5</sub-title>
     <category lang="en">Leagues Summary</category>
   </programme>
   <programme start="20190520150000 +0700" stop="20190520153000 +0700" channel="HD2">
-    <title lang="en">Ajax Vs Tottenham Mini Match</title>
+    <title lang="en">Ajax vs Tottenham Mini Match</title>
     <sub-title lang="en">UEFA Champions League -  2018/2019</sub-title>
     <category lang="en">Mini Matches</category>
   </programme>
@@ -14235,7 +14535,7 @@
     <sub-title lang="en">Game 3 - NBA Eastern Conference Finals 2019</sub-title>
     <category lang="en">Basketball - NBA</category>
   </programme>
-  <programme start="20190520010000 +0700" stop="20190520033000 +0700" channel="HD9">
+  <programme start="20190520004500 +0700" stop="20190520033000 +0700" channel="HD9">
     <title lang="en">Novak Djokovic or Diego Schwartzman vs Rafael Nadal</title>
     <sub-title lang="en">ATP 1000  Rome 2019 - Final</sub-title>
     <category lang="en">Sports General</category>
@@ -14249,12 +14549,16 @@
     <title lang="en">Best of Roland Garros 2018</title>
     <category lang="en">Leagues Summary</category>
   </programme>
-  <programme start="20190520050000 +0700" stop="20190520080000 +0700" channel="HD9">
+  <programme start="20190520050000 +0700" stop="20190520064500 +0700" channel="HD9">
     <title lang="en">Johanna Konta vs Karolina Pliskova</title>
     <sub-title lang="en">Tennis WTA Rome, 2019 - Premier - Final</sub-title>
     <category lang="en">Tennis - WTA</category>
   </programme>
-  <programme start="20190520080000 +0700" stop="20190520103000 +0700" channel="HD9">
+  <programme start="20190520064500 +0700" stop="20190520074500 +0700" channel="HD9">
+    <title lang="en">ATP 1000 Madrid Open 2019 Review</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20190520074500 +0700" stop="20190520103000 +0700" channel="HD9">
     <title lang="en">Novak Djokovic or Diego Schwartzman vs Rafael Nadal</title>
     <sub-title lang="en">ATP 1000  Rome 2019 - Final</sub-title>
     <category lang="en">Sports General</category>
@@ -14279,12 +14583,16 @@
     <sub-title lang="en">Mini Match ATP 1000 Madrid - 2019</sub-title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20190520153000 +0700" stop="20190520183000 +0700" channel="HD9">
+  <programme start="20190520153000 +0700" stop="20190520171500 +0700" channel="HD9">
     <title lang="en">Johanna Konta vs Karolina Pliskova</title>
     <sub-title lang="en">Tennis WTA Rome, 2019 - Premier - Final</sub-title>
     <category lang="en">Tennis - WTA</category>
   </programme>
-  <programme start="20190520183000 +0700" stop="20190520210000 +0700" channel="HD9">
+  <programme start="20190520171500 +0700" stop="20190520181500 +0700" channel="HD9">
+    <title lang="en">ATP 1000 Madrid Open 2019 Review</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20190520181500 +0700" stop="20190520210000 +0700" channel="HD9">
     <title lang="en">Novak Djokovic or Diego Schwartzman vs Rafael Nadal</title>
     <sub-title lang="en">ATP 1000  Rome 2019 - Final</sub-title>
     <category lang="en">Sports General</category>
@@ -14342,12 +14650,12 @@
     <title lang="en">Unforgettable Olympic Moments Young Achievers</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20190520110000 +0700" stop="20190520130000 +0700" channel="HD10">
+  <programme start="20190520110000 +0700" stop="20190520130400 +0700" channel="HD10">
     <title lang="en">Anadolu Istanbul vs  CSKA Moscow</title>
     <sub-title lang="en">EuroLeague Basketball 2018/2019 - Final's</sub-title>
     <category lang="en">Basketball - Euroleague - (Women)</category>
   </programme>
-  <programme start="20190520130000 +0700" stop="20190520140000 +0700" channel="HD10">
+  <programme start="20190520130400 +0700" stop="20190520140000 +0700" channel="HD10">
     <title lang="en">Olympic / Classical Finals  P09</title>
     <category lang="en">Sports General</category>
     <episode-num system="onscreen">S01</episode-num>
@@ -14376,10 +14684,14 @@
     <title lang="en">Arab Stars Ghada Shoaa</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20190520183000 +0700" stop="20190520200000 +0700" channel="HD10">
+  <programme start="20190520183000 +0700" stop="20190520193000 +0700" channel="HD10">
     <title lang="en">Olympic / Classical Finals  EP20</title>
     <category lang="en">Sports General</category>
     <episode-num system="onscreen">S01</episode-num>
+  </programme>
+  <programme start="20190520193000 +0700" stop="20190520200000 +0700" channel="HD10">
+    <title lang="en">Unforgettable Olympic Moments Young Achievers</title>
+    <category lang="en">Sports General</category>
   </programme>
   <programme start="20190520200000 +0700" stop="20190520210000 +0700" channel="HD10">
     <title lang="en">The Olympic Series Olympic peaks</title>
@@ -23161,55 +23473,6 @@
     <title lang="en">St Etienne vs Nice</title>
     <category lang="en">Mini Match - Ligue 1 2018/19</category>
   </programme>
-  <programme start="20190520010000 +0700" stop="20190520011000 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">Thời sự 1h</title>
-  </programme>
-  <programme start="20190520011000 +0700" stop="20190520020000 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">Chìa khoá thành công</title>
-    <desc lang="vi">Giấc mơ “bao đồng”.(n)</desc>
-  </programme>
-  <programme start="20190520020000 +0700" stop="20190520021000 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">Thời sự 2h</title>
-  </programme>
-  <programme start="20190520021000 +0700" stop="20190520030000 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">Phim truyện</title>
-    <desc lang="vi">Dù ghét vẫn yêu - Tập 4.(n)</desc>
-  </programme>
-  <programme start="20190520030000 +0700" stop="20190520031000 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">Thời sự 3h</title>
-  </programme>
-  <programme start="20190520031000 +0700" stop="20190520040000 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">Không gian văn hóa nghệ thuật</title>
-    <desc lang="vi">Số 20.(n)</desc>
-  </programme>
-  <programme start="20190520040000 +0700" stop="20190520041000 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">Thời sự 4h</title>
-  </programme>
-  <programme start="20190520041000 +0700" stop="20190520051000 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">Khám phá thế giới</title>
-    <desc lang="vi">Thế giới nguyên liệu - Tập 1.(n)</desc>
-  </programme>
-  <programme start="20190520051000 +0700" stop="20190520052500 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">Hành trình hy vọng</title>
-    <desc lang="vi">Số 10.(n)</desc>
-  </programme>
-  <programme start="20190520052500 +0700" stop="20190520053000 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">S - Việt Nam</title>
-    <desc lang="vi">Tột cùng cảm xúc.(n)</desc>
-  </programme>
-  <programme start="20190520053000 +0700" stop="20190520065500 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">Chào buổi sáng</title>
-  </programme>
-  <programme start="20190520065500 +0700" stop="20190520065800 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">Cà phê khởi nghiệp</title>
-  </programme>
-  <programme start="20190520065800 +0700" stop="20190520070000 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">V - Việt Nam</title>
-    <desc lang="vi">Mùa thu hoạch điều.(n)</desc>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520073000 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">Tài chính - Kinh doanh</title>
-  </programme>
   <programme start="20190520073000 +0700" stop="20190520080000 +0700" channel="VTV1 HD-ClipTV">
     <title lang="vi">Ký sự</title>
     <desc lang="vi">Đường Trường Sơn tuyến hậu cần huyền thoại - Tập 3.(n)</desc>
@@ -23347,45 +23610,6 @@
   <programme start="20190520231500 +0700" stop="20190520233000 +0700" channel="VTV1 HD-ClipTV">
     <title lang="vi">VTV kết nối</title>
   </programme>
-  <programme start="20190520013000 +0700" stop="20190520021500 +0700" channel="VTV2 HD-ClipTV">
-    <title lang="vi">Phim truyện</title>
-    <desc lang="vi">Long môn phi giáp - Tập 35.(n)</desc>
-  </programme>
-  <programme start="20190520021500 +0700" stop="20190520030000 +0700" channel="VTV2 HD-ClipTV">
-    <title lang="vi">Khám phá thế giới</title>
-    <desc lang="vi">Một ngày khám phá – Tập 5.(n)</desc>
-  </programme>
-  <programme start="20190520030000 +0700" stop="20190520034500 +0700" channel="VTV2 HD-ClipTV">
-    <title lang="vi">Bạn của nhà nông</title>
-  </programme>
-  <programme start="20190520034500 +0700" stop="20190520043000 +0700" channel="VTV2 HD-ClipTV">
-    <title lang="vi">Chuyến xe buýt kỳ thú</title>
-    <desc lang="vi">Đường qua danh thắng Tràng An.(n)</desc>
-  </programme>
-  <programme start="20190520043000 +0700" stop="20190520050000 +0700" channel="VTV2 HD-ClipTV">
-    <title lang="vi">Khám phá thế giới</title>
-    <desc lang="vi">Những con tàu hạng sang - Tập 1.(n)</desc>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520053000 +0700" channel="VTV2 HD-ClipTV">
-    <title lang="vi">Phim tài liệu khoa học</title>
-    <desc lang="vi">Horasis và cơ hội xây dựng thành phố thông minh tại Bình Dương.(n)</desc>
-  </programme>
-  <programme start="20190520053000 +0700" stop="20190520054500 +0700" channel="VTV2 HD-ClipTV">
-    <title lang="vi">Kỹ năng thoát hiểm</title>
-    <desc lang="vi">Nguy hiểm khi sửa nhà.(n)</desc>
-  </programme>
-  <programme start="20190520054500 +0700" stop="20190520063000 +0700" channel="VTV2 HD-ClipTV">
-    <title lang="vi">Người nông dân hiện đại</title>
-    <desc lang="vi">Phú Lộc, điểm sáng một miền quê.(n)</desc>
-  </programme>
-  <programme start="20190520063000 +0700" stop="20190520064500 +0700" channel="VTV2 HD-ClipTV">
-    <title lang="vi">Phát triển bền vững</title>
-    <desc lang="vi">Chuyển đổi xanh cho an ninh năng lượng và nguồn nước tiểu vùng sông Mê Kông.(n)</desc>
-  </programme>
-  <programme start="20190520064500 +0700" stop="20190520073000 +0700" channel="VTV2 HD-ClipTV">
-    <title lang="vi">Sống khỏe mỗi ngày</title>
-    <desc lang="vi">Giải pháp bổ xương khớp từ tuổi trung niên.(n)</desc>
-  </programme>
   <programme start="20190520073000 +0700" stop="20190520080000 +0700" channel="VTV2 HD-ClipTV">
     <title lang="vi">Khám phá thế giới</title>
     <desc lang="vi">Những con tàu hạng sang - Tập 2.(n)</desc>
@@ -23509,36 +23733,6 @@
     <title lang="vi">Khám phá thế giới</title>
     <desc lang="vi">Một ngày khám phá – Tập 4.(n)</desc>
   </programme>
-  <programme start="20190520012000 +0700" stop="20190520021000 +0700" channel="VTV3 HD-ClipTV">
-    <title lang="vi">Úm ba la ra chữ gì</title>
-  </programme>
-  <programme start="20190520021000 +0700" stop="20190520030000 +0700" channel="VTV3 HD-ClipTV">
-    <title lang="vi">Bí mật của tạo hóa</title>
-    <desc lang="vi">Bí ẩn các nhóm máu.(n)</desc>
-  </programme>
-  <programme start="20190520030000 +0700" stop="20190520043000 +0700" channel="VTV3 HD-ClipTV">
-    <title lang="vi">Phim truyện</title>
-    <desc lang="vi">Anh hùng Phương Thế Ngọc - Tập 3, 4.(n)</desc>
-  </programme>
-  <programme start="20190520043000 +0700" stop="20190520051000 +0700" channel="VTV3 HD-ClipTV">
-    <title lang="vi">Hãy chọn giá đúng</title>
-  </programme>
-  <programme start="20190520051000 +0700" stop="20190520060000 +0700" channel="VTV3 HD-ClipTV">
-    <title lang="vi">Vui - khỏe - có ích</title>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520064500 +0700" channel="VTV3 HD-ClipTV">
-    <title lang="vi">Nhịp đập 360° thể thao</title>
-  </programme>
-  <programme start="20190520064500 +0700" stop="20190520065500 +0700" channel="VTV3 HD-ClipTV">
-    <title lang="vi">S- Việt Nam</title>
-    <desc lang="vi">Tột cùng cảm xúc.(n)</desc>
-  </programme>
-  <programme start="20190520065500 +0700" stop="20190520070000 +0700" channel="VTV3 HD-ClipTV">
-    <title lang="vi">Sống chậm</title>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520075000 +0700" channel="VTV3 HD-ClipTV">
-    <title lang="vi">Cà phê sáng</title>
-  </programme>
   <programme start="20190520075000 +0700" stop="20190520075800 +0700" channel="VTV3 HD-ClipTV">
     <title lang="vi">Mỗi ngày một niềm vui</title>
   </programme>
@@ -23652,61 +23846,6 @@
   <programme start="20190520223000 +0700" stop="20190520232000 +0700" channel="VTV3 HD-ClipTV">
     <title lang="vi">Phim truyện</title>
     <desc lang="vi">Vỏ bọc - Tập 23.(n)</desc>
-  </programme>
-  <programme start="20190520011500 +0700" stop="20190520013000 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Người Việt bốn phương</title>
-  </programme>
-  <programme start="20190520013000 +0700" stop="20190520021500 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Phim truyện</title>
-    <desc lang="vi">Cung đường trắng - Tập 42.(n)</desc>
-  </programme>
-  <programme start="20190520021500 +0700" stop="20190520023000 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Tinh hoa võ thuật</title>
-  </programme>
-  <programme start="20190520023000 +0700" stop="20190520025500 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Giai điệu cuộc sống</title>
-    <desc lang="vi">Thanh âm cuộc sống: Gửi người thương.(n)</desc>
-  </programme>
-  <programme start="20190520025500 +0700" stop="20190520030000 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Nét đẹp dân gian</title>
-    <desc lang="vi">Đến Thổ Hà tìm lại dấu ấn làng quê xưa.(n)</desc>
-  </programme>
-  <programme start="20190520030000 +0700" stop="20190520033000 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Bản tin tiếng Pháp</title>
-  </programme>
-  <programme start="20190520033000 +0700" stop="20190520040000 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Góc nhìn</title>
-  </programme>
-  <programme start="20190520040000 +0700" stop="20190520041500 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Khoảnh khắc</title>
-    <desc lang="vi">Số 7.(n)</desc>
-  </programme>
-  <programme start="20190520041500 +0700" stop="20190520043000 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Ký sự</title>
-    <desc lang="vi">Vượt qua bão tuyết - tập 1.(n)</desc>
-  </programme>
-  <programme start="20190520043000 +0700" stop="20190520050000 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Phim tài liệu</title>
-    <desc lang="vi">Sông Gianh thương nhớ.(n)</desc>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520054500 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Phim truyện</title>
-    <desc lang="vi">Hoa cỏ may - Tập 24.(n)</desc>
-  </programme>
-  <programme start="20190520054500 +0700" stop="20190520055000 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Thời tiết du lịch</title>
-  </programme>
-  <programme start="20190520055000 +0700" stop="20190520060000 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Trái tim cho em</title>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520061500 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Người Việt bốn phương</title>
-  </programme>
-  <programme start="20190520061500 +0700" stop="20190520070000 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Vui sống mỗi ngày</title>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520080000 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Cà phê sáng</title>
   </programme>
   <programme start="20190520080000 +0700" stop="20190520081500 +0700" channel="VTV4 HD-ClipTV">
     <title lang="vi">Bản tin tiếng Anh</title>
@@ -23837,52 +23976,123 @@
   <programme start="20190520230000 +0700" stop="20190520233000 +0700" channel="VTV4 HD-ClipTV">
     <title lang="vi">Bản tin tiếng Nga</title>
   </programme>
-  <programme start="20190520010000 +0700" stop="20190520014500 +0700" channel="VTV6 HD-ClipTV">
-    <title lang="vi">Phim truyện</title>
-    <desc lang="vi">Yêu thì ghét thôi - Tập 7.(n)</desc>
-  </programme>
-  <programme start="20190520014500 +0700" stop="20190520021500 +0700" channel="VTV6 HD-ClipTV">
-    <title lang="vi">Hôm nay ai đến</title>
-    <desc lang="vi">Số 58.(n)</desc>
-  </programme>
-  <programme start="20190520021500 +0700" stop="20190520030000 +0700" channel="VTV6 HD-ClipTV">
+  <programme start="20190520073000 +0700" stop="20190520080000 +0700" channel="VTV5 HD-ClipTV">
     <title lang="vi">Khám phá thế giới</title>
-    <desc lang="vi">Thưởng thức bữa ăn như Giáo hoàng.(n)</desc>
+    <desc lang="vi">Giải cứu gấu hoang dã - Tập 18.(n)</desc>
   </programme>
-  <programme start="20190520030000 +0700" stop="20190520033000 +0700" channel="VTV6 HD-ClipTV">
-    <title lang="vi">Ghế không tựa</title>
-    <desc lang="vi">Số 15.(n)</desc>
+  <programme start="20190520080000 +0700" stop="20190520083000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Bạn của nhà nông</title>
+    <desc lang="vi">Mô hình trồng rừng theo hướng bền vững.(n)</desc>
   </programme>
-  <programme start="20190520033000 +0700" stop="20190520040000 +0700" channel="VTV6 HD-ClipTV">
-    <title lang="vi">Thể thao</title>
-    <desc lang="vi">Tạp chí thể thao thế giới.(n)</desc>
+  <programme start="20190520083000 +0700" stop="20190520090000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Ca nhạc</title>
   </programme>
-  <programme start="20190520040000 +0700" stop="20190520044500 +0700" channel="VTV6 HD-ClipTV">
+  <programme start="20190520090000 +0700" stop="20190520094500 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Vui sống mỗi ngày</title>
+  </programme>
+  <programme start="20190520094500 +0700" stop="20190520100000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Góc nhìn cuộc sống</title>
+  </programme>
+  <programme start="20190520100000 +0700" stop="20190520103000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Phim tài liệu</title>
+    <desc lang="vi">Chuyện làng Nôm.(n)</desc>
+  </programme>
+  <programme start="20190520103000 +0700" stop="20190520111500 +0700" channel="VTV5 HD-ClipTV">
     <title lang="vi">Phim truyện</title>
-    <desc lang="vi">Yêu thì ghét thôi - Tập 8.(n)</desc>
+    <desc lang="vi">Bước nhảy hoàn vũ - Tập 21.(n)</desc>
   </programme>
-  <programme start="20190520044500 +0700" stop="20190520050000 +0700" channel="VTV6 HD-ClipTV">
-    <title lang="vi">Khám phá Việt Nam</title>
-    <desc lang="vi">Đền ông Trần ở Long Sơn.(n)</desc>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520053000 +0700" channel="VTV6 HD-ClipTV">
-    <title lang="vi">Khám phá thế giới</title>
-    <desc lang="vi">Giải cứu gấu hoang - Tập 13.(n)</desc>
-  </programme>
-  <programme start="20190520053000 +0700" stop="20190520060000 +0700" channel="VTV6 HD-ClipTV">
-    <title lang="vi">Trên từng cây số</title>
-    <desc lang="vi">Số 20.(n)</desc>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520063000 +0700" channel="VTV6 HD-ClipTV">
-    <title lang="vi">Hôm nay ai đến</title>
-    <desc lang="vi">Số 59.(n)</desc>
-  </programme>
-  <programme start="20190520063000 +0700" stop="20190520070000 +0700" channel="VTV6 HD-ClipTV">
+  <programme start="20190520111500 +0700" stop="20190520114500 +0700" channel="VTV5 HD-ClipTV">
     <title lang="vi">Phim hoạt hình</title>
-    <desc lang="vi">Đi tìm công lý - Tập 2.(n)</desc>
+    <desc lang="vi">Yahoo và những người bạn - Con chim non - Tập 101, 102.(n)</desc>
   </programme>
-  <programme start="20190520070000 +0700" stop="20190520083000 +0700" channel="VTV6 HD-ClipTV">
-    <title lang="vi">Giải Bóng Đá V-League 2019: Quảng Nam - Nam Định</title>
+  <programme start="20190520114500 +0700" stop="20190520115500 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20190520115500 +0700" stop="20190520120000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Bản tin thể thao</title>
+  </programme>
+  <programme start="20190520120000 +0700" stop="20190520133000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Con gái chồng tôi - Tập 7, 8.(n)</desc>
+  </programme>
+  <programme start="20190520133000 +0700" stop="20190520140000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Chương trình tiếng Mông</title>
+  </programme>
+  <programme start="20190520140000 +0700" stop="20190520143000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Chương trình tiếng Dao</title>
+  </programme>
+  <programme start="20190520143000 +0700" stop="20190520150000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Chương trình tiếng Thái</title>
+  </programme>
+  <programme start="20190520150000 +0700" stop="20190520153000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Phim hoạt hình</title>
+    <desc lang="vi">Leon và những người bạn - Tập 21, 22.(n)</desc>
+  </programme>
+  <programme start="20190520153000 +0700" stop="20190520154500 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Phim tài liệu</title>
+    <desc lang="vi">Xứ Thanh - Tập 3: Vang vọng Đông Sơn.(n)</desc>
+  </programme>
+  <programme start="20190520154500 +0700" stop="20190520160000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Xả xì chét</title>
+    <desc lang="vi">Người giúp việc.(n)</desc>
+  </programme>
+  <programme start="20190520160000 +0700" stop="20190520163000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20190520163000 +0700" stop="20190520170000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Mùa vụ bội thu</title>
+    <desc lang="vi">Nâng cao năng suất và chất lượng cho cây sầu riêng.(n)</desc>
+  </programme>
+  <programme start="20190520170000 +0700" stop="20190520174500 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Bước nhày hoàn vũ - Tập 21.(n)</desc>
+  </programme>
+  <programme start="20190520174500 +0700" stop="20190520180000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Khám phá Việt Nam</title>
+    <desc lang="vi">Nét đẹp nguyên sơ bản Cỏi.(n)</desc>
+  </programme>
+  <programme start="20190520180000 +0700" stop="20190520182000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Bản tin thời sự</title>
+  </programme>
+  <programme start="20190520182000 +0700" stop="20190520182300 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Bản tin thời tiết</title>
+  </programme>
+  <programme start="20190520182300 +0700" stop="20190520182800 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Bản tin thị trường</title>
+  </programme>
+  <programme start="20190520182800 +0700" stop="20190520184000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Chuyện gia đình vàng</title>
+    <desc lang="vi">Đau nhức khớp tay là dấu hiệu của bệnh gì.(n)</desc>
+  </programme>
+  <programme start="20190520184000 +0700" stop="20190520190000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Phim hoạt hình</title>
+    <desc lang="vi">Yahoo và những người bạn - Con chim non - Tập 101, 102.(n)</desc>
+  </programme>
+  <programme start="20190520190000 +0700" stop="20190520203000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Cung bậc tình yêu - Tập 73, 74.(n)</desc>
+  </programme>
+  <programme start="20190520203000 +0700" stop="20190520210000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Phim tài liệu</title>
+    <desc lang="vi">Lão gàn Hồ Mơ.(n)</desc>
+  </programme>
+  <programme start="20190520210000 +0700" stop="20190520211500 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Kiến thức và cuộc sống</title>
+  </programme>
+  <programme start="20190520211500 +0700" stop="20190520213000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Sitcom</title>
+    <desc lang="vi">Nhật ký vợ chồng son - Tập 75.(n)</desc>
+  </programme>
+  <programme start="20190520213000 +0700" stop="20190520220000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Sắc màu các dân tộc</title>
+  </programme>
+  <programme start="20190520220000 +0700" stop="20190520224500 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Thời khắc hôn nhân - Tập 34.(n)</desc>
+  </programme>
+  <programme start="20190520224500 +0700" stop="20190520233000 +0700" channel="VTV5 HD-ClipTV">
+    <title lang="vi">Khám phá thế giới</title>
+    <desc lang="vi">Bảo tồn loài hươu cao cổ trắng.(n)</desc>
   </programme>
   <programme start="20190520083000 +0700" stop="20190520091500 +0700" channel="VTV6 HD-ClipTV">
     <title lang="vi">Yêu Thì Ghét Thôi (Tập 8)</title>
@@ -23928,8 +24138,12 @@
     <title lang="vi">Hôm nay ai đến</title>
     <desc lang="vi">Số 61.(n)</desc>
   </programme>
-  <programme start="20190520153000 +0700" stop="20190520163000 +0700" channel="VTV6 HD-ClipTV">
+  <programme start="20190520153000 +0700" stop="20190520160000 +0700" channel="VTV6 HD-ClipTV">
     <title lang="vi">Đại Tiệc FA</title>
+  </programme>
+  <programme start="20190520160000 +0700" stop="20190520163000 +0700" channel="VTV6 HD-ClipTV">
+    <title lang="vi">Biển Đông du ký</title>
+    <desc lang="vi">Số 2.(n)</desc>
   </programme>
   <programme start="20190520163000 +0700" stop="20190520170000 +0700" channel="VTV6 HD-ClipTV">
     <title lang="vi">Khám phá thế giới</title>
@@ -23980,78 +24194,6 @@
   </programme>
   <programme start="20190520223000 +0700" stop="20190520230000 +0700" channel="VTV6 HD-ClipTV">
     <title lang="vi">Bản tin thế hệ số</title>
-  </programme>
-  <programme start="20190520010000 +0700" stop="20190520012000 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Nhìn thẳng</title>
-    <desc lang="vi">Rừng mất vì đâu.(n)</desc>
-  </programme>
-  <programme start="20190520012000 +0700" stop="20190520013000 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Khỏe Vui</title>
-    <desc lang="vi">Thèm mặn.(n)</desc>
-  </programme>
-  <programme start="20190520013000 +0700" stop="20190520013500 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Camera 8</title>
-  </programme>
-  <programme start="20190520013500 +0700" stop="20190520022000 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Phim truyện</title>
-    <desc lang="vi">Dã tâm thiên thần - Tập 18.(n)</desc>
-  </programme>
-  <programme start="20190520022000 +0700" stop="20190520023000 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Phim Sitcom</title>
-    <desc lang="vi">Nhật ký vợ chồng son - Tập 13.(n)</desc>
-  </programme>
-  <programme start="20190520023000 +0700" stop="20190520031500 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Tình ca bất hủ</title>
-    <desc lang="vi">Tập 20: Tình mẹ.(n)</desc>
-  </programme>
-  <programme start="20190520031500 +0700" stop="20190520040000 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Chuyến xe buýt kỳ thú</title>
-    <desc lang="vi">Quy Nhơn - Thành phố biển.(n)</desc>
-  </programme>
-  <programme start="20190520040000 +0700" stop="20190520043000 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Phim truyện</title>
-    <desc lang="vi">Giá của nụ cười - Tập 55.(n)</desc>
-  </programme>
-  <programme start="20190520043000 +0700" stop="20190520050000 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Khám phá thế giới</title>
-    <desc lang="vi">Vùng đất Tây Papua - Tập 3.(n)</desc>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520051500 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Ký sự</title>
-    <desc lang="vi">Nơi tôi sống - Tập 11.(n)</desc>
-  </programme>
-  <programme start="20190520051500 +0700" stop="20190520052500 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Phim Sitcom</title>
-    <desc lang="vi">Nhật ký vợ chồng son - Tập 13.(n)</desc>
-  </programme>
-  <programme start="20190520052500 +0700" stop="20190520053500 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Camera 8</title>
-  </programme>
-  <programme start="20190520053500 +0700" stop="20190520060000 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Nhìn thẳng</title>
-    <desc lang="vi">Rừng mất vì đâu.(n)</desc>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520062500 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Chào ngày mới</title>
-  </programme>
-  <programme start="20190520062500 +0700" stop="20190520063000 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">VTV8 Special</title>
-    <desc lang="vi">Phản hồi.(n)</desc>
-  </programme>
-  <programme start="20190520063000 +0700" stop="20190520063500 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Thông tin - Thông báo</title>
-  </programme>
-  <programme start="20190520063500 +0700" stop="20190520070000 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Nhìn thẳng</title>
-    <desc lang="vi">Rừng mất vì đâu.(n)</desc>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520071500 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Ngày mới tươi đẹp</title>
-    <desc lang="vi">Tập 8: Mỗi ngày một thông điệp.(n)</desc>
-  </programme>
-  <programme start="20190520071500 +0700" stop="20190520072500 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Phim Sitcom</title>
-    <desc lang="vi">Nhật ký vợ chồng son - Tập 13.(n)</desc>
   </programme>
   <programme start="20190520072500 +0700" stop="20190520081000 +0700" channel="VTV8 HD-ClipTV">
     <title lang="vi">Phim truyện</title>
@@ -24245,47 +24387,6 @@
     <title lang="vi">Phim Sitcom</title>
     <desc lang="vi">Ngôi nhà vui nhộn - Tập 37.(n)</desc>
   </programme>
-  <programme start="20190520012500 +0700" stop="20190520013500 +0700" channel="VTV9 HD-ClipTV">
-    <title lang="vi">Chuyện của sao</title>
-  </programme>
-  <programme start="20190520013500 +0700" stop="20190520024000 +0700" channel="VTV9 HD-ClipTV">
-    <title lang="vi">Sài Gòn đêm thứ Bảy</title>
-  </programme>
-  <programme start="20190520024000 +0700" stop="20190520033000 +0700" channel="VTV9 HD-ClipTV">
-    <title lang="vi">Vitamin cười</title>
-    <desc lang="vi">Gián điệp bị giật dây.(n)</desc>
-  </programme>
-  <programme start="20190520033000 +0700" stop="20190520040000 +0700" channel="VTV9 HD-ClipTV">
-    <title lang="vi">Phim tài liệu</title>
-    <desc lang="vi">Đi ra từ nhân loại.(n)</desc>
-  </programme>
-  <programme start="20190520040000 +0700" stop="20190520050000 +0700" channel="VTV9 HD-ClipTV">
-    <title lang="vi">Như chưa hề có cuộc chia ly</title>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520051000 +0700" channel="VTV9 HD-ClipTV">
-    <title lang="vi">Cơm ấm nhà mình</title>
-  </programme>
-  <programme start="20190520051000 +0700" stop="20190520053000 +0700" channel="VTV9 HD-ClipTV">
-    <title lang="vi">Chuyện bác Ba Phi - Xưa và nay</title>
-    <desc lang="vi">Cái tĩn Nam Vang lẻ bạn.(n)</desc>
-  </programme>
-  <programme start="20190520053000 +0700" stop="20190520060000 +0700" channel="VTV9 HD-ClipTV">
-    <title lang="vi">Chào buổi sáng</title>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520061500 +0700" channel="VTV9 HD-ClipTV">
-    <title lang="vi">Ký sự</title>
-    <desc lang="vi">Láng lung giữa đồng bằng.(n)</desc>
-  </programme>
-  <programme start="20190520061500 +0700" stop="20190520063000 +0700" channel="VTV9 HD-ClipTV">
-    <title lang="vi">Dạo quanh thị trường</title>
-  </programme>
-  <programme start="20190520063000 +0700" stop="20190520070000 +0700" channel="VTV9 HD-ClipTV">
-    <title lang="vi">Sáng Phương Nam</title>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520073000 +0700" channel="VTV9 HD-ClipTV">
-    <title lang="vi">Ca nhạc</title>
-    <desc lang="vi">Ký ức sân trường.(n)</desc>
-  </programme>
   <programme start="20190520073000 +0700" stop="20190520075000 +0700" channel="VTV9 HD-ClipTV">
     <title lang="vi">Món ngon Phương Nam</title>
     <desc lang="vi">Trà Vinh - một xứ đặc sản.(n)</desc>
@@ -24418,18 +24519,6 @@
     <title lang="vi">Vitamin cười</title>
     <desc lang="vi">Xe vua.(n)</desc>
   </programme>
-  <programme start="20190520020000 +0700" stop="20190520041000 +0700" channel="Fox Movies HD-ClipTV">
-    <title lang="vi">Người Sắt</title>
-    <desc lang="vi">Iron Man.(n)</desc>
-  </programme>
-  <programme start="20190520041000 +0700" stop="20190520063500 +0700" channel="Fox Movies HD-ClipTV">
-    <title lang="vi">Thành Phố Vàng Đã Mất</title>
-    <desc lang="vi">The Lost City Of Z.(n)</desc>
-  </programme>
-  <programme start="20190520063500 +0700" stop="20190520083500 +0700" channel="Fox Movies HD-ClipTV">
-    <title lang="vi">Sự Nổi Loạn Hoàn Hảo 2</title>
-    <desc lang="vi">Pitch Perfect 2.(n)</desc>
-  </programme>
   <programme start="20190520083500 +0700" stop="20190520103500 +0700" channel="Fox Movies HD-ClipTV">
     <title lang="vi">Đại Chiến Thế Giới</title>
     <desc lang="vi">War Of The Worlds.(n)</desc>
@@ -24461,22 +24550,6 @@
   <programme start="20190520214000 +0700" stop="20190520234500 +0700" channel="Fox Movies HD-ClipTV">
     <title lang="vi">Thế Giới Khủng Long</title>
     <desc lang="vi">Jurassic World.(n)</desc>
-  </programme>
-  <programme start="20190520011000 +0700" stop="20190520030000 +0700" channel="Fox Family Movies HD-ClipTV">
-    <title lang="vi">Muốn Được Gần Cha</title>
-    <desc lang="vi">Getting Even With Dad.(n)</desc>
-  </programme>
-  <programme start="20190520030000 +0700" stop="20190520044000 +0700" channel="Fox Family Movies HD-ClipTV">
-    <title lang="vi">Miền Đất Hứa</title>
-    <desc lang="vi">Austenland.(n)</desc>
-  </programme>
-  <programme start="20190520044000 +0700" stop="20190520062500 +0700" channel="Fox Family Movies HD-ClipTV">
-    <title lang="vi">Cô Vợ Phù Thủy</title>
-    <desc lang="vi">Bewitched.(n)</desc>
-  </programme>
-  <programme start="20190520062500 +0700" stop="20190520075500 +0700" channel="Fox Family Movies HD-ClipTV">
-    <title lang="vi">3 Ninja Siêu Quậy</title>
-    <desc lang="vi">3 Ninjas Knuckle Up.(n)</desc>
   </programme>
   <programme start="20190520075500 +0700" stop="20190520093000 +0700" channel="Fox Family Movies HD-ClipTV">
     <title lang="vi">Nhân Chứng Nhí</title>
@@ -24517,50 +24590,6 @@
   <programme start="20190520220000 +0700" stop="20190520235000 +0700" channel="Fox Family Movies HD-ClipTV">
     <title lang="vi">Như Đại Dương Sâu Thẳm</title>
     <desc lang="vi">The Deep End Of The Ocean.(n)</desc>
-  </programme>
-  <programme start="20190520014000 +0700" stop="20190520020500 +0700" channel="Fox Life HD-ClipTV">
-    <title lang="vi">Tuổi Trẻ Và Khao Khát (phần 5 - Tập 13)</title>
-    <desc lang="vi">Young &amp; Hungry S5 Ep13.(n)</desc>
-  </programme>
-  <programme start="20190520020500 +0700" stop="20190520023500 +0700" channel="Fox Life HD-ClipTV">
-    <title lang="vi">Tuổi Trẻ Và Khao Khát (phần 5 - Tập 14)</title>
-    <desc lang="vi">Young &amp; Hungry S5 Ep14.(n)</desc>
-  </programme>
-  <programme start="20190520023500 +0700" stop="20190520030000 +0700" channel="Fox Life HD-ClipTV">
-    <title lang="vi">Tuổi Trẻ Và Khao Khát (phần 5 - Tập 15)</title>
-    <desc lang="vi">Young &amp; Hungry S5 Ep15.(n)</desc>
-  </programme>
-  <programme start="20190520030000 +0700" stop="20190520033000 +0700" channel="Fox Life HD-ClipTV">
-    <title lang="vi">Tuổi Trẻ Và Khao Khát (phần 5 - Tập 16)</title>
-    <desc lang="vi">Young &amp; Hungry S5 Ep16.(n)</desc>
-  </programme>
-  <programme start="20190520033000 +0700" stop="20190520035500 +0700" channel="Fox Life HD-ClipTV">
-    <title lang="vi">Hội Hưu Trí Bá đạo (tập 3)</title>
-    <desc lang="vi">The Cool Kids Ep3.(n)</desc>
-  </programme>
-  <programme start="20190520035500 +0700" stop="20190520042500 +0700" channel="Fox Life HD-ClipTV">
-    <title lang="vi">Cha Mẹ đơn Thân (tập 13)</title>
-    <desc lang="vi">Single Parents Ep13.(n)</desc>
-  </programme>
-  <programme start="20190520042500 +0700" stop="20190520052000 +0700" channel="Fox Life HD-ClipTV">
-    <title lang="vi">Bệnh Viện New Amsterdam (tập 22)</title>
-    <desc lang="vi">New Amsterdam Ep22.(n)</desc>
-  </programme>
-  <programme start="20190520052000 +0700" stop="20190520061500 +0700" channel="Fox Life HD-ClipTV">
-    <title lang="vi">Công Ty Emprite (phần 5 - Tập 18)</title>
-    <desc lang="vi">Empire S5 Ep18.(n)</desc>
-  </programme>
-  <programme start="20190520061500 +0700" stop="20190520064000 +0700" channel="Fox Life HD-ClipTV">
-    <title lang="vi">Street To Kitchen Asia Ep1</title>
-    <desc lang="vi">Street To Kitchen Asia, 1.(n)</desc>
-  </programme>
-  <programme start="20190520064000 +0700" stop="20190520071000 +0700" channel="Fox Life HD-ClipTV">
-    <title lang="vi">Chuyện Nhà Dimeo (phần 3 - Tập 7)</title>
-    <desc lang="vi">Speechless S3 Ep7.(n)</desc>
-  </programme>
-  <programme start="20190520071000 +0700" stop="20190520073500 +0700" channel="Fox Life HD-ClipTV">
-    <title lang="vi">Kevin Can Wait S2 Ep1</title>
-    <desc lang="vi">Civil Ceremony.(n)</desc>
   </programme>
   <programme start="20190520073500 +0700" stop="20190520080000 +0700" channel="Fox Life HD-ClipTV">
     <title lang="vi">Kevin Can Wait S2 Ep2</title>
@@ -24654,38 +24683,6 @@
     <title lang="vi">Mistresses S4 Ep13</title>
     <desc lang="vi">The Show Must Go On.(n)</desc>
   </programme>
-  <programme start="20190520012500 +0700" stop="20190520015000 +0700" channel="Fox HD-ClipTV">
-    <title lang="vi">World's Funniest Videos: Top 10 Countdown S3 Ep43</title>
-    <desc lang="vi">Enjoy The Ride.(n)</desc>
-  </programme>
-  <programme start="20190520015000 +0700" stop="20190520024000 +0700" channel="Fox HD-ClipTV">
-    <title lang="vi">đội đặc Nhiệm S.w.a.t. (phần 2 - Tập 22)</title>
-    <desc lang="vi">S.w.a.t. S2 Ep22.(n)</desc>
-  </programme>
-  <programme start="20190520024000 +0700" stop="20190520033500 +0700" channel="Fox HD-ClipTV">
-    <title lang="vi">Đội Đặc Nhiệm S.W.A.T (Phần 2 - Tập 23)</title>
-    <desc lang="vi">S.W.A.T.(n)</desc>
-  </programme>
-  <programme start="20190520033500 +0700" stop="20190520042500 +0700" channel="Fox HD-ClipTV">
-    <title lang="vi">Thiên Bẩm (phần 1 - Tập 9)</title>
-    <desc lang="vi">The Gifted S1 Ep9.(n)</desc>
-  </programme>
-  <programme start="20190520042500 +0700" stop="20190520045500 +0700" channel="Fox HD-ClipTV">
-    <title lang="vi">World's Funniest Videos: Top 10 Countdown S3 Ep43</title>
-    <desc lang="vi">Enjoy The Ride.(n)</desc>
-  </programme>
-  <programme start="20190520045500 +0700" stop="20190520054500 +0700" channel="Fox HD-ClipTV">
-    <title lang="vi">Bọ Cạp (phần 4 - Tập 11)</title>
-    <desc lang="vi">Scorpion S4 Ep11.(n)</desc>
-  </programme>
-  <programme start="20190520054500 +0700" stop="20190520064000 +0700" channel="Fox HD-ClipTV">
-    <title lang="vi">Bọ Cạp (Phần 4 - Tập 12)</title>
-    <desc lang="vi">Scorpion.(n)</desc>
-  </programme>
-  <programme start="20190520064000 +0700" stop="20190520073000 +0700" channel="Fox HD-ClipTV">
-    <title lang="vi">Cuộc Gọi Khẩn Cấp 9-1-1 (phần 2 - Tập 17)</title>
-    <desc lang="vi">9-1-1 S2 Ep17.(n)</desc>
-  </programme>
   <programme start="20190520073000 +0700" stop="20190520082500 +0700" channel="Fox HD-ClipTV">
     <title lang="vi">Cuộc Gọi Khẩn Cấp 9-1-1 (Phần 2 - Tập 18)</title>
     <desc lang="vi">9-1-1.(n)</desc>
@@ -24770,21 +24767,6 @@
     <title lang="vi">Thiên Bẩm (Phần 1 - Tập 9)</title>
     <desc lang="vi">The Gifted.(n)</desc>
   </programme>
-  <programme start="20190520013500 +0700" stop="20190520031000 +0700" channel="KBS World-ClipTV">
-    <title lang="vi">The Return of Superman</title>
-  </programme>
-  <programme start="20190520031000 +0700" stop="20190520040000 +0700" channel="KBS World-ClipTV">
-    <title lang="vi">Yu Huiyeol's Sketchbook</title>
-  </programme>
-  <programme start="20190520040000 +0700" stop="20190520043000 +0700" channel="KBS World-ClipTV">
-    <title lang="vi">Yu Huiyeol's Sketchbook</title>
-  </programme>
-  <programme start="20190520043000 +0700" stop="20190520055000 +0700" channel="KBS World-ClipTV">
-    <title lang="vi">Mother of Mine</title>
-  </programme>
-  <programme start="20190520055000 +0700" stop="20190520073500 +0700" channel="KBS World-ClipTV">
-    <title lang="vi">Immortal Songs</title>
-  </programme>
   <programme start="20190520073500 +0700" stop="20190520090000 +0700" channel="KBS World-ClipTV">
     <title lang="vi">Battle Trip</title>
   </programme>
@@ -24829,58 +24811,6 @@
   </programme>
   <programme start="20190520212000 +0700" stop="20190520225000 +0700" channel="KBS World-ClipTV">
     <title lang="vi">Hello, Counselor</title>
-  </programme>
-  <programme start="20190520010000 +0700" stop="20190520013000 +0700" channel="Baby TV HD-ClipTV">
-    <title lang="vi">Babytv's Night Time Melodies</title>
-    <desc lang="vi">Ocean.(n)</desc>
-  </programme>
-  <programme start="20190520013000 +0700" stop="20190520020000 +0700" channel="Baby TV HD-ClipTV">
-    <title lang="vi">Sweet Dreams</title>
-    <desc lang="vi">Flowers.(n)</desc>
-  </programme>
-  <programme start="20190520020000 +0700" stop="20190520023000 +0700" channel="Baby TV HD-ClipTV">
-    <title lang="vi">Good Night Hugs</title>
-    <desc lang="vi">Night Sky.(n)</desc>
-  </programme>
-  <programme start="20190520023000 +0700" stop="20190520030000 +0700" channel="Baby TV HD-ClipTV">
-    <title lang="vi">Dreamy Nights</title>
-    <desc lang="vi">Songs &amp; Rhymes.(n)</desc>
-  </programme>
-  <programme start="20190520030000 +0700" stop="20190520033000 +0700" channel="Baby TV HD-ClipTV">
-    <title lang="vi">Moon And Stars</title>
-    <desc lang="vi">Songs &amp; Rhymes.(n)</desc>
-  </programme>
-  <programme start="20190520033000 +0700" stop="20190520040000 +0700" channel="Baby TV HD-ClipTV">
-    <title lang="vi">Soothing Sounds</title>
-    <desc lang="vi">Starry Nights.(n)</desc>
-  </programme>
-  <programme start="20190520040000 +0700" stop="20190520043000 +0700" channel="Baby TV HD-ClipTV">
-    <title lang="vi">From Night To Day</title>
-    <desc lang="vi">Songs &amp; Rhymes.(n)</desc>
-  </programme>
-  <programme start="20190520043000 +0700" stop="20190520050000 +0700" channel="Baby TV HD-ClipTV">
-    <title lang="vi">From Night To Day</title>
-    <desc lang="vi">Dream With Kim.(n)</desc>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520053000 +0700" channel="Baby TV HD-ClipTV">
-    <title lang="vi">Rise &amp; Shine With Babytv Friends</title>
-    <desc lang="vi">Songs &amp; Rhymes.(n)</desc>
-  </programme>
-  <programme start="20190520053000 +0700" stop="20190520060000 +0700" channel="Baby TV HD-ClipTV">
-    <title lang="vi">Rise &amp; Shine With Babytv Friends</title>
-    <desc lang="vi">Songs &amp; Rhymes.(n)</desc>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520063000 +0700" channel="Baby TV HD-ClipTV">
-    <title lang="vi">Good-morning Stretch</title>
-    <desc lang="vi">Happy Birthday To You.(n)</desc>
-  </programme>
-  <programme start="20190520063000 +0700" stop="20190520070000 +0700" channel="Baby TV HD-ClipTV">
-    <title lang="vi">Good-morning Stretch</title>
-    <desc lang="vi">Puzzle Games.(n)</desc>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520073000 +0700" channel="Baby TV HD-ClipTV">
-    <title lang="vi">Start Your Day With Babytv's Friends</title>
-    <desc lang="vi">Lale Ki Lolu.(n)</desc>
   </programme>
   <programme start="20190520073000 +0700" stop="20190520080000 +0700" channel="Baby TV HD-ClipTV">
     <title lang="vi">Animal Party And Other Stories</title>
@@ -25010,41 +24940,6 @@
     <title lang="vi">Dreamy Nights</title>
     <desc lang="vi">Flowers.(n)</desc>
   </programme>
-  <programme start="20190520010500 +0700" stop="20190520020000 +0700" channel="AXN-ClipTV">
-    <title lang="vi">Biệt đội Tinh Nhuệ L.a. (phần 1)</title>
-    <desc lang="vi">Tập 2.(n)</desc>
-  </programme>
-  <programme start="20190520020000 +0700" stop="20190520025000 +0700" channel="AXN-ClipTV">
-    <title lang="vi">Biệt đội Tinh Nhuệ L.a. (phần 1)</title>
-    <desc lang="vi">Tập 3.(n)</desc>
-  </programme>
-  <programme start="20190520025000 +0700" stop="20190520034000 +0700" channel="AXN-ClipTV">
-    <title lang="vi">Biệt đội Seal (phần 2)</title>
-    <desc lang="vi">Tập 19.(n)</desc>
-  </programme>
-  <programme start="20190520034000 +0700" stop="20190520043000 +0700" channel="AXN-ClipTV">
-    <title lang="vi">Tư Duy Tội Phạm: Hành Vi đáng Ngờ</title>
-    <desc lang="vi">Tập 1.(n)</desc>
-  </programme>
-  <programme start="20190520043000 +0700" stop="20190520050000 +0700" channel="AXN-ClipTV">
-    <title lang="vi">Cyril: ảo Thuật đơn Giản</title>
-    <desc lang="vi">Tập 1.(n)</desc>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520053000 +0700" channel="AXN-ClipTV">
-    <title lang="vi">Rude(ish) Tube</title>
-    <desc lang="vi">Tập 13.(n)</desc>
-  </programme>
-  <programme start="20190520053000 +0700" stop="20190520060000 +0700" channel="AXN-ClipTV">
-    <title lang="vi">Rude(ish) Tube</title>
-    <desc lang="vi">Tập 14.(n)</desc>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520065000 +0700" channel="AXN-ClipTV">
-    <title lang="vi">Bí Danh (phần 3)</title>
-    <desc lang="vi">Tập 15.(n)</desc>
-  </programme>
-  <programme start="20190520065000 +0700" stop="20190520074000 +0700" channel="AXN-ClipTV">
-    <title lang="vi">Macgyver (Phần 2 - Tập 2)</title>
-  </programme>
   <programme start="20190520074000 +0700" stop="20190520083000 +0700" channel="AXN-ClipTV">
     <title lang="vi">Chiến Binh Ninja Mỹ (phần 8)</title>
     <desc lang="vi">Tập 30.(n)</desc>
@@ -25075,30 +24970,6 @@
   </programme>
   <programme start="20190520210500 +0700" stop="20190520215500 +0700" channel="AXN-ClipTV">
     <title lang="vi">Đặc Nhiệm Hawaii (Phần 9 - Tập 25)</title>
-  </programme>
-  <programme start="20190520010000 +0700" stop="20190520012500 +0700" channel="WARNER TV">
-    <title lang="vi">Những Người Bạn (Phần 10 - Tập 4)</title>
-  </programme>
-  <programme start="20190520012500 +0700" stop="20190520021500 +0700" channel="WARNER TV">
-    <title lang="vi">Sự Lừa Gạt (Phần 1 - Tập 9)</title>
-  </programme>
-  <programme start="20190520021500 +0700" stop="20190520030500 +0700" channel="WARNER TV">
-    <title lang="vi">Sự Lừa Gạt (Phần 1 - Tập 10)</title>
-  </programme>
-  <programme start="20190520030500 +0700" stop="20190520040000 +0700" channel="WARNER TV">
-    <title lang="vi">Sự Lừa Gạt (Phần 1 - Tập 11)</title>
-  </programme>
-  <programme start="20190520040000 +0700" stop="20190520050000 +0700" channel="WARNER TV">
-    <title lang="vi">Sự Lừa Gạt (Phần 1 - Tập 12)</title>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520060000 +0700" channel="WARNER TV">
-    <title lang="vi">Sự Lừa Gạt (Phần 1 - Tập 13)</title>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520065000 +0700" channel="WARNER TV">
-    <title lang="vi">Vũ Khí Chết Người (Phần 4 - Tập 5)</title>
-  </programme>
-  <programme start="20190520065000 +0700" stop="20190520074000 +0700" channel="WARNER TV">
-    <title lang="vi">Nhà Ngoại Cảm (Tập 20)</title>
   </programme>
   <programme start="20190520074000 +0700" stop="20190520083000 +0700" channel="WARNER TV">
     <title lang="vi">Điểm Mù (Phần 4 - Tập 1)</title>
@@ -25162,38 +25033,6 @@
   </programme>
   <programme start="20190520232500 +0700" stop="20190520235500 +0700" channel="WARNER TV">
     <title lang="vi">Những Người Bạn (Phần 10 - Tập 5)</title>
-  </programme>
-  <programme start="20190520010000 +0700" stop="20190520020000 +0700" channel="CARTOON NETWORK">
-    <title lang="vi">Giờ Phiêu Lưu</title>
-    <desc lang="vi">Tập 60B\/Tập 61A\/Tập 61B\/Tập 62A\/Tập 62B.(n)</desc>
-  </programme>
-  <programme start="20190520020000 +0700" stop="20190520030000 +0700" channel="CARTOON NETWORK">
-    <title lang="vi">Những Siêu Nhân Nghiệp Dư</title>
-    <desc lang="vi">Tập 8B\/Tập 9A\/Tập 9B\/Tập 10A\/Tập 10B.(n)</desc>
-  </programme>
-  <programme start="20190520030000 +0700" stop="20190520040000 +0700" channel="CARTOON NETWORK">
-    <title lang="vi">Thế Giới Kì Diệu Của Gumball</title>
-    <desc lang="vi">Tập 51B\/Tập 52A\/Tập 52B\/Tập 53A\/Tập 53B.(n)</desc>
-  </programme>
-  <programme start="20190520040000 +0700" stop="20190520050000 +0700" channel="CARTOON NETWORK">
-    <title lang="vi">Chúng Tôi đơn Giản Là Gấu</title>
-    <desc lang="vi">Tập 63\/Tập 65\/Tập 66\/Tập 67\/Tập 68.(n)</desc>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520060000 +0700" channel="CARTOON NETWORK">
-    <title lang="vi">Gấu Xám Và Những Chú Chuột Lemmut</title>
-    <desc lang="vi">Tập 15\/Tập 16\/Tập 17\/Tập 18\/Tập 19\/Tập 20\/Tập 21.(n)</desc>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520063000 +0700" channel="CARTOON NETWORK">
-    <title lang="vi">Oggy Và Những Chú Gián</title>
-    <desc lang="vi">Tập 631\/Tập 632\/Tập 633.(n)</desc>
-  </programme>
-  <programme start="20190520063000 +0700" stop="20190520070000 +0700" channel="CARTOON NETWORK">
-    <title lang="vi">Cuộc Đua Của Các Tuyển Thủ</title>
-    <desc lang="vi">Tập 23\/Tập 24.(n)</desc>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520073000 +0700" channel="CARTOON NETWORK">
-    <title lang="vi">Chú Mèo Kì Lân</title>
-    <desc lang="vi">Tập 30\/Tập 31.(n)</desc>
   </programme>
   <programme start="20190520073000 +0700" stop="20190520080000 +0700" channel="CARTOON NETWORK">
     <title lang="vi">Những Siêu Nhân Nghiệp Dư</title>
@@ -25287,33 +25126,6 @@
     <title lang="vi">Chú Mèo Kì Lân</title>
     <desc lang="vi">Tập 41\/Tập 42.(n)</desc>
   </programme>
-  <programme start="20190520010000 +0700" stop="20190520020000 +0700" channel="BLOOMBERG">
-    <title lang="vi">Bloomberg Businessweek</title>
-  </programme>
-  <programme start="20190520020000 +0700" stop="20190520023000 +0700" channel="BLOOMBERG">
-    <title lang="vi">High Flyers</title>
-  </programme>
-  <programme start="20190520023000 +0700" stop="20190520030000 +0700" channel="BLOOMBERG">
-    <title lang="vi">Bloomberg Markets: Rules &amp; Returns</title>
-  </programme>
-  <programme start="20190520030000 +0700" stop="20190520033000 +0700" channel="BLOOMBERG">
-    <title lang="vi">Bloomberg Etf Iq</title>
-  </programme>
-  <programme start="20190520033000 +0700" stop="20190520040000 +0700" channel="BLOOMBERG">
-    <title lang="vi">The David Rubenstein Show</title>
-  </programme>
-  <programme start="20190520040000 +0700" stop="20190520050000 +0700" channel="BLOOMBERG">
-    <title lang="vi">Bloomberg Best</title>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520060000 +0700" channel="BLOOMBERG">
-    <title lang="vi">Bloomberg Businessweek</title>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520070000 +0700" channel="BLOOMBERG">
-    <title lang="vi">Bloomberg Daybreak: Australia</title>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520090000 +0700" channel="BLOOMBERG">
-    <title lang="vi">Bloomberg Daybreak: Asia</title>
-  </programme>
   <programme start="20190520090000 +0700" stop="20190520100000 +0700" channel="BLOOMBERG">
     <title lang="vi">Bloomberg Markets: China Open</title>
   </programme>
@@ -25341,15 +25153,6 @@
   <programme start="20190520220000 +0700" stop="20190520230000 +0700" channel="BLOOMBERG">
     <title lang="vi">Bloomberg Markets: The Open</title>
   </programme>
-  <programme start="20190520023000 +0700" stop="20190520041000 +0700" channel="CINEMA WORLD">
-    <title lang="vi">Khao Khát Có Con</title>
-  </programme>
-  <programme start="20190520041000 +0700" stop="20190520060000 +0700" channel="CINEMA WORLD">
-    <title lang="vi">Người Palestin Trên đất Mỹ</title>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520074000 +0700" channel="CINEMA WORLD">
-    <title lang="vi">Anh Chàng Người đức Bảnh Bao</title>
-  </programme>
   <programme start="20190520074000 +0700" stop="20190520091000 +0700" channel="CINEMA WORLD">
     <title lang="vi">Gia đình O'brien</title>
   </programme>
@@ -25376,51 +25179,6 @@
   </programme>
   <programme start="20190520210000 +0700" stop="20190520223500 +0700" channel="CINEMA WORLD">
     <title lang="vi">Năm ánh Sáng</title>
-  </programme>
-  <programme start="20190520010000 +0700" stop="20190520013000 +0700" channel="FASHION TV">
-    <title lang="vi">Top Photoshoots</title>
-  </programme>
-  <programme start="20190520013000 +0700" stop="20190520020000 +0700" channel="FASHION TV">
-    <title lang="vi">Top Photoshoots</title>
-  </programme>
-  <programme start="20190520020000 +0700" stop="20190520023000 +0700" channel="FASHION TV">
-    <title lang="vi">Fashion Films</title>
-  </programme>
-  <programme start="20190520023000 +0700" stop="20190520030000 +0700" channel="FASHION TV">
-    <title lang="vi">Fashion Films</title>
-  </programme>
-  <programme start="20190520030000 +0700" stop="20190520033000 +0700" channel="FASHION TV">
-    <title lang="vi">Top Models</title>
-  </programme>
-  <programme start="20190520033000 +0700" stop="20190520040000 +0700" channel="FASHION TV">
-    <title lang="vi">Top Models</title>
-  </programme>
-  <programme start="20190520040000 +0700" stop="20190520043000 +0700" channel="FASHION TV">
-    <title lang="vi">Designers</title>
-  </programme>
-  <programme start="20190520043000 +0700" stop="20190520050000 +0700" channel="FASHION TV">
-    <title lang="vi">Designers</title>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520053000 +0700" channel="FASHION TV">
-    <title lang="vi">Hairstyles</title>
-  </programme>
-  <programme start="20190520053000 +0700" stop="20190520055500 +0700" channel="FASHION TV">
-    <title lang="vi">Model Talks</title>
-  </programme>
-  <programme start="20190520055500 +0700" stop="20190520060000 +0700" channel="FASHION TV">
-    <title lang="vi">F-people</title>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520063000 +0700" channel="FASHION TV">
-    <title lang="vi">Fashion &amp; Sports</title>
-  </programme>
-  <programme start="20190520063000 +0700" stop="20190520065500 +0700" channel="FASHION TV">
-    <title lang="vi">Fitness</title>
-  </programme>
-  <programme start="20190520065500 +0700" stop="20190520070000 +0700" channel="FASHION TV">
-    <title lang="vi">Fashion Week</title>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520073000 +0700" channel="FASHION TV">
-    <title lang="vi">Make-up</title>
   </programme>
   <programme start="20190520073000 +0700" stop="20190520075500 +0700" channel="FASHION TV">
     <title lang="vi">Make-up</title>
@@ -25560,45 +25318,6 @@
   <programme start="20190520230000 +0700" stop="20190520233000 +0700" channel="FASHION TV">
     <title lang="vi">Fashion Films</title>
   </programme>
-  <programme start="20190520011000 +0700" stop="20190520014000 +0700" channel="CNN-ClipTV">
-    <title lang="vi">May 20 Reliable Sources</title>
-  </programme>
-  <programme start="20190520014000 +0700" stop="20190520021000 +0700" channel="CNN-ClipTV">
-    <title lang="vi">May 20 Reliable Sources</title>
-  </programme>
-  <programme start="20190520021000 +0700" stop="20190520024000 +0700" channel="CNN-ClipTV">
-    <title lang="vi">May 20 African Voices</title>
-  </programme>
-  <programme start="20190520024000 +0700" stop="20190520031000 +0700" channel="CNN-ClipTV">
-    <title lang="vi">May 20 Quest's World Of Wonder</title>
-  </programme>
-  <programme start="20190520031000 +0700" stop="20190520034000 +0700" channel="CNN-ClipTV">
-    <title lang="vi">May 20 Fareed Zakaria Gps: May 18, 2019</title>
-  </programme>
-  <programme start="20190520034000 +0700" stop="20190520041000 +0700" channel="CNN-ClipTV">
-    <title lang="vi">May 20 Fareed Zakaria Gps: May 18, 2019</title>
-  </programme>
-  <programme start="20190520041000 +0700" stop="20190520044000 +0700" channel="CNN-ClipTV">
-    <title lang="vi">May 20 Cnn Newsroom (cnn us): Cnn Newsroom</title>
-  </programme>
-  <programme start="20190520044000 +0700" stop="20190520051000 +0700" channel="CNN-ClipTV">
-    <title lang="vi">May 20 World Sport</title>
-  </programme>
-  <programme start="20190520051000 +0700" stop="20190520054000 +0700" channel="CNN-ClipTV">
-    <title lang="vi">May 20 Cnn Today</title>
-  </programme>
-  <programme start="20190520054000 +0700" stop="20190520061000 +0700" channel="CNN-ClipTV">
-    <title lang="vi">May 20 Winning Post</title>
-  </programme>
-  <programme start="20190520061000 +0700" stop="20190520064000 +0700" channel="CNN-ClipTV">
-    <title lang="vi">May 20 Cnn Today (with World Sport)</title>
-  </programme>
-  <programme start="20190520064000 +0700" stop="20190520071000 +0700" channel="CNN-ClipTV">
-    <title lang="vi">May 20 Cnn Today (with World Sport)</title>
-  </programme>
-  <programme start="20190520071000 +0700" stop="20190520074000 +0700" channel="CNN-ClipTV">
-    <title lang="vi">May 20 Cnn Today (with World Sport)</title>
-  </programme>
   <programme start="20190520074000 +0700" stop="20190520081000 +0700" channel="CNN-ClipTV">
     <title lang="vi">May 20 Cnn Today (with World Sport)</title>
   </programme>
@@ -25694,96 +25413,6 @@
   </programme>
   <programme start="20190520231000 +0700" stop="20190520234000 +0700" channel="CNN-ClipTV">
     <title lang="vi">May 20 Connect The World With Becky Anderson</title>
-  </programme>
-  <programme start="20190520010000 +0700" stop="20190520011500 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">News</title>
-  </programme>
-  <programme start="20190520011500 +0700" stop="20190520012000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">Business</title>
-  </programme>
-  <programme start="20190520012000 +0700" stop="20190520013000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">Sports</title>
-  </programme>
-  <programme start="20190520013000 +0700" stop="20190520014500 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">News</title>
-  </programme>
-  <programme start="20190520014500 +0700" stop="20190520015300 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">Encore! In Cannes</title>
-  </programme>
-  <programme start="20190520015300 +0700" stop="20190520020000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">Focus</title>
-  </programme>
-  <programme start="20190520020000 +0700" stop="20190520021500 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">News</title>
-  </programme>
-  <programme start="20190520021500 +0700" stop="20190520023000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">The Europe Report</title>
-  </programme>
-  <programme start="20190520023000 +0700" stop="20190520024500 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">News</title>
-  </programme>
-  <programme start="20190520024500 +0700" stop="20190520030000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">Eye On Africa</title>
-  </programme>
-  <programme start="20190520030000 +0700" stop="20190520031100 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">News</title>
-  </programme>
-  <programme start="20190520031100 +0700" stop="20190520033200 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">The Debate</title>
-  </programme>
-  <programme start="20190520033200 +0700" stop="20190520040000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">The Debate</title>
-  </programme>
-  <programme start="20190520040000 +0700" stop="20190520041000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">News</title>
-  </programme>
-  <programme start="20190520041000 +0700" stop="20190520041500 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">Focus</title>
-  </programme>
-  <programme start="20190520041500 +0700" stop="20190520043000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">Inside The Americas</title>
-  </programme>
-  <programme start="20190520043000 +0700" stop="20190520044000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">News</title>
-  </programme>
-  <programme start="20190520044000 +0700" stop="20190520050000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">Revisited</title>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520051500 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">News</title>
-  </programme>
-  <programme start="20190520051500 +0700" stop="20190520053000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">Eye On Africa</title>
-  </programme>
-  <programme start="20190520053000 +0700" stop="20190520054500 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">News</title>
-  </programme>
-  <programme start="20190520054500 +0700" stop="20190520060000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">Encore! In Cannes</title>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520062000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">News</title>
-  </programme>
-  <programme start="20190520062000 +0700" stop="20190520062500 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">More News</title>
-  </programme>
-  <programme start="20190520062500 +0700" stop="20190520063000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">In The Press</title>
-  </programme>
-  <programme start="20190520063000 +0700" stop="20190520064600 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">News</title>
-  </programme>
-  <programme start="20190520064600 +0700" stop="20190520065100 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">Focus</title>
-  </programme>
-  <programme start="20190520065100 +0700" stop="20190520070000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">Sports</title>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520072200 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">News</title>
-  </programme>
-  <programme start="20190520072200 +0700" stop="20190520073000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">In The Press</title>
   </programme>
   <programme start="20190520073000 +0700" stop="20190520074600 +0700" channel="France 24 English-ClipTV">
     <title lang="vi">News</title>
@@ -26007,87 +25636,6 @@
   <programme start="20190520234600 +0700" stop="20190520235100 +0700" channel="France 24 English-ClipTV">
     <title lang="vi">Sports</title>
   </programme>
-  <programme start="20190520010000 +0700" stop="20190520011500 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal</title>
-  </programme>
-  <programme start="20190520011500 +0700" stop="20190520013000 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal De L'afrique</title>
-  </programme>
-  <programme start="20190520013000 +0700" stop="20190520014500 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal</title>
-  </programme>
-  <programme start="20190520014500 +0700" stop="20190520020000 +0700" channel="France 24-ClipTV">
-    <title lang="vi">· L'affiche … Cannes</title>
-  </programme>
-  <programme start="20190520020000 +0700" stop="20190520021500 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal</title>
-  </programme>
-  <programme start="20190520021500 +0700" stop="20190520023000 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Face … Face</title>
-  </programme>
-  <programme start="20190520023000 +0700" stop="20190520024500 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal</title>
-  </programme>
-  <programme start="20190520024500 +0700" stop="20190520030000 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Cap Am‚riques</title>
-  </programme>
-  <programme start="20190520030000 +0700" stop="20190520031100 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal</title>
-  </programme>
-  <programme start="20190520031100 +0700" stop="20190520033200 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le D‚bat</title>
-  </programme>
-  <programme start="20190520033200 +0700" stop="20190520040000 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le D‚bat</title>
-  </programme>
-  <programme start="20190520040000 +0700" stop="20190520041500 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal</title>
-  </programme>
-  <programme start="20190520041500 +0700" stop="20190520043000 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Face … Face</title>
-  </programme>
-  <programme start="20190520043000 +0700" stop="20190520044500 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal</title>
-  </programme>
-  <programme start="20190520044500 +0700" stop="20190520050000 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Campagne Officielle - lections Europ‚ennes 2019</title>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520051500 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal</title>
-  </programme>
-  <programme start="20190520051500 +0700" stop="20190520053000 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Cap Am‚riques</title>
-  </programme>
-  <programme start="20190520053000 +0700" stop="20190520054500 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal</title>
-  </programme>
-  <programme start="20190520054500 +0700" stop="20190520060000 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal De L'afrique</title>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520062000 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal</title>
-  </programme>
-  <programme start="20190520062000 +0700" stop="20190520063000 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Info ‚co</title>
-  </programme>
-  <programme start="20190520063000 +0700" stop="20190520065000 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal</title>
-  </programme>
-  <programme start="20190520065000 +0700" stop="20190520065500 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Sports</title>
-  </programme>
-  <programme start="20190520065500 +0700" stop="20190520070000 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Rappel Des Titres</title>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520071600 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal</title>
-  </programme>
-  <programme start="20190520071600 +0700" stop="20190520072100 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Dans La Presse</title>
-  </programme>
-  <programme start="20190520072100 +0700" stop="20190520073000 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Extrait Magazine</title>
-  </programme>
   <programme start="20190520073000 +0700" stop="20190520074000 +0700" channel="France 24-ClipTV">
     <title lang="vi">Le Journal</title>
   </programme>
@@ -26310,36 +25858,6 @@
   <programme start="20190520234600 +0700" stop="20190520235100 +0700" channel="France 24-ClipTV">
     <title lang="vi">Chronique Sports</title>
   </programme>
-  <programme start="20190520013000 +0700" stop="20190520015500 +0700" channel="BBC EARTH">
-    <title lang="vi">Travel Man - 48 Hours In</title>
-    <desc lang="vi">Tập 3.(n)</desc>
-  </programme>
-  <programme start="20190520015500 +0700" stop="20190520022500 +0700" channel="BBC EARTH">
-    <title lang="vi">Travel Man - 48 Hours In</title>
-    <desc lang="vi">Tập 4.(n)</desc>
-  </programme>
-  <programme start="20190520022500 +0700" stop="20190520032000 +0700" channel="BBC EARTH">
-    <title lang="vi">Secret Cities</title>
-    <desc lang="vi">Tập 1.(n)</desc>
-  </programme>
-  <programme start="20190520032000 +0700" stop="20190520041000 +0700" channel="BBC EARTH">
-    <title lang="vi">Stephen Fry ở Trung Mỹ</title>
-    <desc lang="vi">Tập 2.(n)</desc>
-  </programme>
-  <programme start="20190520041000 +0700" stop="20190520050500 +0700" channel="BBC EARTH">
-    <title lang="vi">Khám Phá Nước Nga Cùng Simon Reeve (Tập 2)</title>
-  </programme>
-  <programme start="20190520050500 +0700" stop="20190520060000 +0700" channel="BBC EARTH">
-    <title lang="vi">Khám Phá Australia Với Simon Reeve (Tập 2)</title>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520063000 +0700" channel="BBC EARTH">
-    <title lang="vi">Trái đất Tròn</title>
-    <desc lang="vi">Tập 7.(n)</desc>
-  </programme>
-  <programme start="20190520063000 +0700" stop="20190520073000 +0700" channel="BBC EARTH">
-    <title lang="vi">Chí Tuyến Bắc</title>
-    <desc lang="vi">Tập 3.(n)</desc>
-  </programme>
   <programme start="20190520073000 +0700" stop="20190520080000 +0700" channel="BBC EARTH">
     <title lang="vi">Travel Man - 48 Hours In</title>
     <desc lang="vi">Tập 3.(n)</desc>
@@ -26419,34 +25937,6 @@
   <programme start="20190520224000 +0700" stop="20190520234000 +0700" channel="BBC EARTH">
     <title lang="vi">Sự Thật Về Thuốc Kháng Sinh</title>
     <desc lang="vi">Tập 1.(n)</desc>
-  </programme>
-  <programme start="20190520010000 +0700" stop="20190520020000 +0700" channel="Boomerang-ClipTV">
-    <title lang="vi">Chú Chó Pat</title>
-    <desc lang="vi">Tập 54\/Tập 2\/Tập 45\/Tập 14\/Tập 25\/Tập 77\/Tập 34\/Tập 64.(n)</desc>
-  </programme>
-  <programme start="20190520020000 +0700" stop="20190520030000 +0700" channel="Boomerang-ClipTV">
-    <title lang="vi">Gấu Xám Và Những Chú Chuột Lemmut</title>
-    <desc lang="vi">Tập 71\/Tập 2\/Tập 64\/Tập 14\/Tập 45\/Tập 25\/Tập 55\/Tập 35.(n)</desc>
-  </programme>
-  <programme start="20190520030000 +0700" stop="20190520040000 +0700" channel="Boomerang-ClipTV">
-    <title lang="vi">Chương Trình Tom Và Jerry</title>
-    <desc lang="vi">Tập 113\/Tập 104\/Tập 73\/Tập 119\/Tập 89\/Tập 64\/Tập 59\/Tập 82.(n)</desc>
-  </programme>
-  <programme start="20190520040000 +0700" stop="20190520050000 +0700" channel="Boomerang-ClipTV">
-    <title lang="vi">Chú Chó Pat</title>
-    <desc lang="vi">Tập 53\/Tập 3\/Tập 46\/Tập 13\/Tập 26\/Tập 76\/Tập 33\/Tập 63.(n)</desc>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520060000 +0700" channel="Boomerang-ClipTV">
-    <title lang="vi">Gấu Xám Và Những Chú Chuột Lemmut</title>
-    <desc lang="vi">Tập 72\/Tập 3\/Tập 63\/Tập 13\/Tập 46\/Tập 26\/Tập 56\/Tập 36.(n)</desc>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520070000 +0700" channel="Boomerang-ClipTV">
-    <title lang="vi">Tom Và Jerry</title>
-    <desc lang="vi">Tập 112\/Tập 103\/Tập 74\/Tập 118\/Tập 90\/Tập 65\/Tập 58\/Tập 83.(n)</desc>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520080000 +0700" channel="Boomerang-ClipTV">
-    <title lang="vi">Chú Chó Pat</title>
-    <desc lang="vi">Tập 52\/Tập 4\/Tập 47\/Tập 12\/Tập 27\/Tập 75\/Tập 32\/Tập 62.(n)</desc>
   </programme>
   <programme start="20190520080000 +0700" stop="20190520090000 +0700" channel="Boomerang-ClipTV">
     <title lang="vi">Gấu Xám Và Những Chú Chuột Lemmut</title>
@@ -26544,21 +26034,6 @@
     <title lang="vi">Gia đình Hà Mã</title>
     <desc lang="vi">Tập 1.(n)</desc>
   </programme>
-  <programme start="20190520010000 +0700" stop="20190520013000 +0700" channel="ABC AUSTRALIA">
-    <title lang="vi">The Breakfast Couch</title>
-  </programme>
-  <programme start="20190520013000 +0700" stop="20190520020000 +0700" channel="ABC AUSTRALIA">
-    <title lang="vi">The Drum Weekly</title>
-  </programme>
-  <programme start="20190520020000 +0700" stop="20190520030000 +0700" channel="ABC AUSTRALIA">
-    <title lang="vi">Landline</title>
-  </programme>
-  <programme start="20190520030000 +0700" stop="20190520060000 +0700" channel="ABC AUSTRALIA">
-    <title lang="vi">News Breakfast: Early</title>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520090000 +0700" channel="ABC AUSTRALIA">
-    <title lang="vi">Abc News Mornings</title>
-  </programme>
   <programme start="20190520090000 +0700" stop="20190520100000 +0700" channel="ABC AUSTRALIA">
     <title lang="vi">Abc News At Noon</title>
   </programme>
@@ -26634,36 +26109,6 @@
   <programme start="20190520233000 +0700" stop="20190520234500 +0700" channel="ABC AUSTRALIA">
     <title lang="vi">Abc News Overnight</title>
   </programme>
-  <programme start="20190520012500 +0700" stop="20190520015000 +0700" channel="BBC LIFESTYLE">
-    <title lang="vi">The Chronicles Of Nadiya</title>
-  </programme>
-  <programme start="20190520015000 +0700" stop="20190520022000 +0700" channel="BBC LIFESTYLE">
-    <title lang="vi">Grand Designs</title>
-  </programme>
-  <programme start="20190520022000 +0700" stop="20190520024500 +0700" channel="BBC LIFESTYLE">
-    <title lang="vi">The Great British Bake Off</title>
-  </programme>
-  <programme start="20190520024500 +0700" stop="20190520031500 +0700" channel="BBC LIFESTYLE">
-    <title lang="vi">Masterchef</title>
-  </programme>
-  <programme start="20190520031500 +0700" stop="20190520041000 +0700" channel="BBC LIFESTYLE">
-    <title lang="vi">Hemsley + Hemsley - Healthy And Delicious</title>
-  </programme>
-  <programme start="20190520041000 +0700" stop="20190520050000 +0700" channel="BBC LIFESTYLE">
-    <title lang="vi">The Great British Sewing Bee</title>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520055500 +0700" channel="BBC LIFESTYLE">
-    <title lang="vi">Hairy Bikers' Chicken And Egg</title>
-  </programme>
-  <programme start="20190520055500 +0700" stop="20190520065000 +0700" channel="BBC LIFESTYLE">
-    <title lang="vi">Bill's Kitchen: Notting Hill</title>
-  </programme>
-  <programme start="20190520065000 +0700" stop="20190520072000 +0700" channel="BBC LIFESTYLE">
-    <title lang="vi">Masterchef</title>
-  </programme>
-  <programme start="20190520072000 +0700" stop="20190520081500 +0700" channel="BBC LIFESTYLE">
-    <title lang="vi">Inventing The Impossible: The Big Life Fix</title>
-  </programme>
   <programme start="20190520081500 +0700" stop="20190520091000 +0700" channel="BBC LIFESTYLE">
     <title lang="vi">Hairy Bikers' Chicken And Egg</title>
   </programme>
@@ -26723,66 +26168,6 @@
   </programme>
   <programme start="20190520231000 +0700" stop="20190520234000 +0700" channel="BBC LIFESTYLE">
     <title lang="vi">Masterchef</title>
-  </programme>
-  <programme start="20190520010000 +0700" stop="20190520010200 +0700" channel="DW-ClipTV">
-    <title lang="vi">Dw News</title>
-  </programme>
-  <programme start="20190520010200 +0700" stop="20190520011500 +0700" channel="DW-ClipTV">
-    <title lang="vi">World Stories</title>
-  </programme>
-  <programme start="20190520011500 +0700" stop="20190520020000 +0700" channel="DW-ClipTV">
-    <title lang="vi">Docfilm</title>
-  </programme>
-  <programme start="20190520020000 +0700" stop="20190520020200 +0700" channel="DW-ClipTV">
-    <title lang="vi">Dw News</title>
-  </programme>
-  <programme start="20190520020200 +0700" stop="20190520023000 +0700" channel="DW-ClipTV">
-    <title lang="vi">Eco India</title>
-  </programme>
-  <programme start="20190520023000 +0700" stop="20190520030000 +0700" channel="DW-ClipTV">
-    <title lang="vi">In Good Shape</title>
-  </programme>
-  <programme start="20190520030000 +0700" stop="20190520030200 +0700" channel="DW-ClipTV">
-    <title lang="vi">Dw News</title>
-  </programme>
-  <programme start="20190520030200 +0700" stop="20190520031500 +0700" channel="DW-ClipTV">
-    <title lang="vi">The Bundesliga</title>
-  </programme>
-  <programme start="20190520031500 +0700" stop="20190520033000 +0700" channel="DW-ClipTV">
-    <title lang="vi">Shift</title>
-  </programme>
-  <programme start="20190520033000 +0700" stop="20190520040000 +0700" channel="DW-ClipTV">
-    <title lang="vi">Global 3000</title>
-  </programme>
-  <programme start="20190520040000 +0700" stop="20190520040200 +0700" channel="DW-ClipTV">
-    <title lang="vi">Dw News</title>
-  </programme>
-  <programme start="20190520040200 +0700" stop="20190520043000 +0700" channel="DW-ClipTV">
-    <title lang="vi">Docfilm</title>
-  </programme>
-  <programme start="20190520043000 +0700" stop="20190520050000 +0700" channel="DW-ClipTV">
-    <title lang="vi">Tomorrow Today</title>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520050200 +0700" channel="DW-ClipTV">
-    <title lang="vi">Dw News</title>
-  </programme>
-  <programme start="20190520050200 +0700" stop="20190520051500 +0700" channel="DW-ClipTV">
-    <title lang="vi">Reporter</title>
-  </programme>
-  <programme start="20190520051500 +0700" stop="20190520060000 +0700" channel="DW-ClipTV">
-    <title lang="vi">Docfilm</title>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520063000 +0700" channel="DW-ClipTV">
-    <title lang="vi">Dw News</title>
-  </programme>
-  <programme start="20190520063000 +0700" stop="20190520064500 +0700" channel="DW-ClipTV">
-    <title lang="vi">The Bundesliga</title>
-  </programme>
-  <programme start="20190520064500 +0700" stop="20190520070000 +0700" channel="DW-ClipTV">
-    <title lang="vi">Reporter</title>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520073000 +0700" channel="DW-ClipTV">
-    <title lang="vi">Dw News</title>
   </programme>
   <programme start="20190520073000 +0700" stop="20190520080000 +0700" channel="DW-ClipTV">
     <title lang="vi">Tomorrow Today</title>
@@ -26919,15 +26304,6 @@
   <programme start="20190520233000 +0700" stop="20190520234500 +0700" channel="DW-ClipTV">
     <title lang="vi">Business</title>
   </programme>
-  <programme start="20190520060000 +0700" stop="20190520063000 +0700" channel="FOX SPORTS-ClipTV">
-    <title lang="vi">AFC Cup 2019 Highlights</title>
-  </programme>
-  <programme start="20190520063000 +0700" stop="20190520070000 +0700" channel="FOX SPORTS-ClipTV">
-    <title lang="vi">Racemax</title>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520080000 +0700" channel="FOX SPORTS-ClipTV">
-    <title lang="vi">Bundesliga 2018 19</title>
-  </programme>
   <programme start="20190520080000 +0700" stop="20190520100000 +0700" channel="FOX SPORTS-ClipTV">
     <title lang="vi">Moto GP: Races - Shark Helmets Grand Prix Of France</title>
   </programme>
@@ -26967,15 +26343,6 @@
   <programme start="20190520223000 +0700" stop="20190520230000 +0700" channel="FOX SPORTS-ClipTV">
     <title lang="vi">AFC Champions League 2019 Highlights</title>
   </programme>
-  <programme start="20190520020000 +0700" stop="20190520043000 +0700" channel="FOX SPORTS 2-ClipTV">
-    <title lang="vi">MLB Regular Season 2019</title>
-  </programme>
-  <programme start="20190520043000 +0700" stop="20190520060000 +0700" channel="FOX SPORTS 2-ClipTV">
-    <title lang="vi">Global Rapid Rugby 2019 Showcase Series</title>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520090000 +0700" channel="FOX SPORTS 2-ClipTV">
-    <title lang="vi">MLB Regular Season 2019</title>
-  </programme>
   <programme start="20190520090000 +0700" stop="20190520110000 +0700" channel="FOX SPORTS 2-ClipTV">
     <title lang="vi">US Senior Womens Open 2019: Day 2</title>
   </programme>
@@ -27002,18 +26369,6 @@
   </programme>
   <programme start="20190520210000 +0700" stop="20190520230000 +0700" channel="FOX SPORTS 2-ClipTV">
     <title lang="vi">Moto GP: Races - Shark Helmets Grand Prix Of France</title>
-  </programme>
-  <programme start="20190520020000 +0700" stop="20190520040000 +0700" channel="FOX SPORTS 3-ClipTV">
-    <title lang="vi">Us Senior Womens Open 2019 Day 2</title>
-  </programme>
-  <programme start="20190520040000 +0700" stop="20190520050000 +0700" channel="FOX SPORTS 3-ClipTV">
-    <title lang="vi">Supercars Championship 2019 Highlights : Pirtek Perth Supernight</title>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520070000 +0700" channel="FOX SPORTS 3-ClipTV">
-    <title lang="vi">Bundesliga 2018 19</title>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520090000 +0700" channel="FOX SPORTS 3-ClipTV">
-    <title lang="vi">Abb Fia Formula E C'ship 2018 19 : Race - Monaco E-prix</title>
   </programme>
   <programme start="20190520090000 +0700" stop="20190520110000 +0700" channel="FOX SPORTS 3-ClipTV">
     <title lang="vi">Indycar Series 2019 : Indianapolis 500 Qualifying Day 2</title>
@@ -27056,33 +26411,6 @@
   </programme>
   <programme start="20190520225900 +0700" stop="20190520230000 +0700" channel="FOX SPORTS 3-ClipTV">
     <title lang="vi">Fox Sports News Update 2019 1min</title>
-  </programme>
-  <programme start="20190520010000 +0700" stop="20190520020000 +0700" channel="Channel V HD-ClipTV">
-    <title lang="vi">Vcd</title>
-  </programme>
-  <programme start="20190520020000 +0700" stop="20190520023000 +0700" channel="Channel V HD-ClipTV">
-    <title lang="vi">Double Shot</title>
-  </programme>
-  <programme start="20190520023000 +0700" stop="20190520033000 +0700" channel="Channel V HD-ClipTV">
-    <title lang="vi">Xo</title>
-  </programme>
-  <programme start="20190520033000 +0700" stop="20190520043000 +0700" channel="Channel V HD-ClipTV">
-    <title lang="vi">[v] Loop</title>
-  </programme>
-  <programme start="20190520043000 +0700" stop="20190520050000 +0700" channel="Channel V HD-ClipTV">
-    <title lang="vi">The Playlist</title>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520053000 +0700" channel="Channel V HD-ClipTV">
-    <title lang="vi">[v] Top 5</title>
-  </programme>
-  <programme start="20190520053000 +0700" stop="20190520063000 +0700" channel="Channel V HD-ClipTV">
-    <title lang="vi">Vcd</title>
-  </programme>
-  <programme start="20190520063000 +0700" stop="20190520070000 +0700" channel="Channel V HD-ClipTV">
-    <title lang="vi">Double Shot</title>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520080000 +0700" channel="Channel V HD-ClipTV">
-    <title lang="vi">[v] Loop</title>
   </programme>
   <programme start="20190520080000 +0700" stop="20190520083000 +0700" channel="Channel V HD-ClipTV">
     <title lang="vi">The Playlist</title>
@@ -27140,42 +26468,6 @@
   </programme>
   <programme start="20190520210000 +0700" stop="20190520220000 +0700" channel="Channel V HD-ClipTV">
     <title lang="vi">Xo</title>
-  </programme>
-  <programme start="20190520010000 +0700" stop="20190520015000 +0700" channel="National Geographic HD-ClipTV">
-    <title lang="vi">Wicked Tuna E10</title>
-    <desc lang="vi">Blood In The Water.(n)</desc>
-  </programme>
-  <programme start="20190520015000 +0700" stop="20190520024000 +0700" channel="National Geographic HD-ClipTV">
-    <title lang="vi">Locked Up Abroad E2</title>
-    <desc lang="vi">The Real Argo.(n)</desc>
-  </programme>
-  <programme start="20190520024000 +0700" stop="20190520033000 +0700" channel="National Geographic HD-ClipTV">
-    <title lang="vi">Apocalypse World War I E1</title>
-    <desc lang="vi">Fury.(n)</desc>
-  </programme>
-  <programme start="20190520033000 +0700" stop="20190520042000 +0700" channel="National Geographic HD-ClipTV">
-    <title lang="vi">Hostile Planet E2</title>
-    <desc lang="vi">Grasslands.(n)</desc>
-  </programme>
-  <programme start="20190520042000 +0700" stop="20190520044500 +0700" channel="National Geographic HD-ClipTV">
-    <title lang="vi">Money Meltdown E3</title>
-    <desc lang="vi">Bite The Bullet.(n)</desc>
-  </programme>
-  <programme start="20190520044500 +0700" stop="20190520051000 +0700" channel="National Geographic HD-ClipTV">
-    <title lang="vi">Money Meltdown E4</title>
-    <desc lang="vi">Break The Bank.(n)</desc>
-  </programme>
-  <programme start="20190520051000 +0700" stop="20190520060000 +0700" channel="National Geographic HD-ClipTV">
-    <title lang="vi">Wicked Tuna E10</title>
-    <desc lang="vi">Blood In The Water.(n)</desc>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520070000 +0700" channel="National Geographic HD-ClipTV">
-    <title lang="vi">Locked Up Abroad E2</title>
-    <desc lang="vi">The Real Argo.(n)</desc>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520080000 +0700" channel="National Geographic HD-ClipTV">
-    <title lang="vi">Apocalypse World War I E1</title>
-    <desc lang="vi">Fury.(n)</desc>
   </programme>
   <programme start="20190520080000 +0700" stop="20190520090000 +0700" channel="National Geographic HD-ClipTV">
     <title lang="vi">Hostile Planet E2</title>
@@ -27253,34 +26545,6 @@
     <title lang="vi">Monster Fish E2</title>
     <desc lang="vi">World's Biggest Sting Ray.(n)</desc>
   </programme>
-  <programme start="20190520013000 +0700" stop="20190520023000 +0700" channel="Nat Geo Wild HD-ClipTV">
-    <title lang="vi">Savage Kingdom: Uprising Ep4</title>
-    <desc lang="vi">Reign Of Traitors.(n)</desc>
-  </programme>
-  <programme start="20190520023000 +0700" stop="20190520033000 +0700" channel="Nat Geo Wild HD-ClipTV">
-    <title lang="vi">Monster Fish S4 Ep2</title>
-    <desc lang="vi">River Shark!(n)</desc>
-  </programme>
-  <programme start="20190520033000 +0700" stop="20190520043000 +0700" channel="Nat Geo Wild HD-ClipTV">
-    <title lang="vi">Wild Hunters Ep1</title>
-    <desc lang="vi">Cats.(n)</desc>
-  </programme>
-  <programme start="20190520043000 +0700" stop="20190520053000 +0700" channel="Nat Geo Wild HD-ClipTV">
-    <title lang="vi">World's Weirdest Brains And Babies Ep1</title>
-    <desc lang="vi">Bizarre Babies.(n)</desc>
-  </programme>
-  <programme start="20190520053000 +0700" stop="20190520060000 +0700" channel="Nat Geo Wild HD-ClipTV">
-    <title lang="vi">America's Wild Spaces Ep3</title>
-    <desc lang="vi">Jewels Of The Canyonlands.(n)</desc>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520063000 +0700" channel="Nat Geo Wild HD-ClipTV">
-    <title lang="vi">Man Vs Animal (cutdowns) Ep5</title>
-    <desc lang="vi">Python Wars.(n)</desc>
-  </programme>
-  <programme start="20190520063000 +0700" stop="20190520073000 +0700" channel="Nat Geo Wild HD-ClipTV">
-    <title lang="vi">Wild Little Cats Ep1</title>
-    <desc lang="vi">Wild Little Cats.(n)</desc>
-  </programme>
   <programme start="20190520073000 +0700" stop="20190520083000 +0700" channel="Nat Geo Wild HD-ClipTV">
     <title lang="vi">Wild Indonesia (2015) Ep1</title>
     <desc lang="vi">Papua's Lost Worlds.(n)</desc>
@@ -27345,32 +26609,6 @@
     <title lang="vi">Dr. K's Exotic Animal Er S4 Ep9</title>
     <desc lang="vi">Ferret Freak Out!(n)</desc>
   </programme>
-  <programme start="20190520013500 +0700" stop="20190520020000 +0700" channel="Animal Planet-ClipTV">
-    <title lang="vi">Tại Sao động Vật Lại Thế</title>
-    <desc lang="vi">Tập 9.(n)</desc>
-  </programme>
-  <programme start="20190520020000 +0700" stop="20190520023000 +0700" channel="Animal Planet-ClipTV">
-    <title lang="vi">Tại Sao động Vật Lại Thế</title>
-    <desc lang="vi">Tập 10.(n)</desc>
-  </programme>
-  <programme start="20190520023000 +0700" stop="20190520032500 +0700" channel="Animal Planet-ClipTV">
-    <title lang="vi">Sát Thủ Trong Thế Giới Bầy Đàn (Tập 5)</title>
-  </programme>
-  <programme start="20190520032500 +0700" stop="20190520042000 +0700" channel="Animal Planet-ClipTV">
-    <title lang="vi">Cuộc Chiến Cá Voi (Phần 30 - Tập 4)</title>
-  </programme>
-  <programme start="20190520042000 +0700" stop="20190520051500 +0700" channel="Animal Planet-ClipTV">
-    <title lang="vi">Châu Phi Hoang Dã (Tập 3)</title>
-  </programme>
-  <programme start="20190520051500 +0700" stop="20190520061500 +0700" channel="Animal Planet-ClipTV">
-    <title lang="vi">Evan Vào Nơi Hoang Dã (Tập 1)</title>
-  </programme>
-  <programme start="20190520061500 +0700" stop="20190520071500 +0700" channel="Animal Planet-ClipTV">
-    <title lang="vi">Cuộc Chiến Ngà Voi (Tập 2)</title>
-  </programme>
-  <programme start="20190520071500 +0700" stop="20190520081000 +0700" channel="Animal Planet-ClipTV">
-    <title lang="vi">Sói Và Chiến Binh (Tập 8)</title>
-  </programme>
   <programme start="20190520081000 +0700" stop="20190520090500 +0700" channel="Animal Planet-ClipTV">
     <title lang="vi">Tiến Vào Alaska (Tập 10)</title>
   </programme>
@@ -27427,24 +26665,6 @@
   </programme>
   <programme start="20190520225000 +0700" stop="20190520234500 +0700" channel="Animal Planet-ClipTV">
     <title lang="vi">Quỷ Núi (Phần 2 - Tập 1)</title>
-  </programme>
-  <programme start="20190520010000 +0700" stop="20190520012500 +0700" channel="Travel - Living (TLC)">
-    <title lang="vi">Say Yes To The Dress: Uk (s3)</title>
-  </programme>
-  <programme start="20190520012500 +0700" stop="20190520021500 +0700" channel="Travel - Living (TLC)">
-    <title lang="vi">Counting On (s3)</title>
-  </programme>
-  <programme start="20190520021500 +0700" stop="20190520024000 +0700" channel="Travel - Living (TLC)">
-    <title lang="vi">Buddy's Big Bakedown (s1)</title>
-  </programme>
-  <programme start="20190520024000 +0700" stop="20190520030500 +0700" channel="Travel - Living (TLC)">
-    <title lang="vi">Buddy's Big Bakedown (s1)</title>
-  </programme>
-  <programme start="20190520030500 +0700" stop="20190520035500 +0700" channel="Travel - Living (TLC)">
-    <title lang="vi">Playhouse Masters (s1)</title>
-  </programme>
-  <programme start="20190520035500 +0700" stop="20190520042000 +0700" channel="Travel - Living (TLC)">
-    <title lang="vi">Say Yes To The Dress: Big Bliss (s2)</title>
   </programme>
   <programme start="20190520042000 +0700" stop="20190520044500 +0700" channel="Travel - Living (TLC)">
     <title lang="vi">Say Yes To The Dress: Big Bliss (s2)</title>
@@ -27533,40 +26753,6 @@
   <programme start="20190520231500 +0700" stop="20190520234500 +0700" channel="Travel - Living (TLC)">
     <title lang="vi">Bizarre Foods: Delicious Destinations (s7)</title>
   </programme>
-  <programme start="20190520011000 +0700" stop="20190520020000 +0700" channel="Discovery Asia-ClipTV">
-    <title lang="vi">Trung Hoa Hoang Dã Với Nidel Marven</title>
-    <desc lang="vi">Tập 1.(n)</desc>
-  </programme>
-  <programme start="20190520020000 +0700" stop="20190520025000 +0700" channel="Discovery Asia-ClipTV">
-    <title lang="vi">Bậc Thầy Về Rắn</title>
-    <desc lang="vi">Tập 8.(n)</desc>
-  </programme>
-  <programme start="20190520025000 +0700" stop="20190520031500 +0700" channel="Discovery Asia-ClipTV">
-    <title lang="vi">Cận Cảnh Trung Hoa (phần 2)</title>
-    <desc lang="vi">Tập 7.(n)</desc>
-  </programme>
-  <programme start="20190520031500 +0700" stop="20190520034000 +0700" channel="Discovery Asia-ClipTV">
-    <title lang="vi">Cận Cảnh Trung Hoa (phần 2)</title>
-    <desc lang="vi">Tập 8.(n)</desc>
-  </programme>
-  <programme start="20190520034000 +0700" stop="20190520043000 +0700" channel="Discovery Asia-ClipTV">
-    <title lang="vi">Những Bí ẩn Của Sông Mê Kông</title>
-    <desc lang="vi">Tập 10.(n)</desc>
-  </programme>
-  <programme start="20190520043000 +0700" stop="20190520053000 +0700" channel="Discovery Asia-ClipTV">
-    <title lang="vi">Người Ý Gốc Ấn (Tập 6)</title>
-  </programme>
-  <programme start="20190520053000 +0700" stop="20190520060000 +0700" channel="Discovery Asia-ClipTV">
-    <title lang="vi">đảo đười ươi (phần 2)</title>
-    <desc lang="vi">Tập 11.(n)</desc>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520065000 +0700" channel="Discovery Asia-ClipTV">
-    <title lang="vi">Các đế Chế Bạc</title>
-    <desc lang="vi">Tập 2.(n)</desc>
-  </programme>
-  <programme start="20190520065000 +0700" stop="20190520074000 +0700" channel="Discovery Asia-ClipTV">
-    <title lang="vi">Những Thành Phố Bên Mép Nước (Tập 6)</title>
-  </programme>
   <programme start="20190520074000 +0700" stop="20190520083100 +0700" channel="Discovery Asia-ClipTV">
     <title lang="vi">Vòng Quanh Thế Giới (Phần 16 - Tập 7)</title>
   </programme>
@@ -27647,34 +26833,6 @@
     <title lang="vi">Chào Mừng đến</title>
     <desc lang="vi">Tập 7.(n)</desc>
   </programme>
-  <programme start="20190520012500 +0700" stop="20190520021500 +0700" channel="Discovery Channel-ClipTV">
-    <title lang="vi">Chế Tạo Chiếc Suv đỉnh Cao</title>
-    <desc lang="vi">Tập 9.(n)</desc>
-  </programme>
-  <programme start="20190520021500 +0700" stop="20190520030500 +0700" channel="Discovery Channel-ClipTV">
-    <title lang="vi">Bị Bỏ Rơi Cùng Ed Stafford (Tập 7)</title>
-  </programme>
-  <programme start="20190520030500 +0700" stop="20190520035500 +0700" channel="Discovery Channel-ClipTV">
-    <title lang="vi">American Chopper (phần 2)</title>
-    <desc lang="vi">Tập 4.(n)</desc>
-  </programme>
-  <programme start="20190520035500 +0700" stop="20190520044500 +0700" channel="Discovery Channel-ClipTV">
-    <title lang="vi">Xe Độ Của Kindig (Phần 5 - Tập 10)</title>
-  </programme>
-  <programme start="20190520044500 +0700" stop="20190520053500 +0700" channel="Discovery Channel-ClipTV">
-    <title lang="vi">Cơ Thể Kỳ Lạ (phần 6)</title>
-    <desc lang="vi">Tập 9.(n)</desc>
-  </programme>
-  <programme start="20190520053500 +0700" stop="20190520063500 +0700" channel="Discovery Channel-ClipTV">
-    <title lang="vi">Đội Khám Phá Bí Ẩn Nhí (Tập 5)</title>
-  </programme>
-  <programme start="20190520063500 +0700" stop="20190520070000 +0700" channel="Discovery Channel-ClipTV">
-    <title lang="vi">Họ Làm Như Thế Nào? (Phần 11 - Tập 18)</title>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520072500 +0700" channel="Discovery Channel-ClipTV">
-    <title lang="vi">Cách Thức Chế Tạo (phần 14)</title>
-    <desc lang="vi">Tập 22.(n)</desc>
-  </programme>
   <programme start="20190520072500 +0700" stop="20190520081500 +0700" channel="Discovery Channel-ClipTV">
     <title lang="vi">Những Bậc Thầy Làm Nhà Trên Cây (Phần 4 - Tập 1)</title>
   </programme>
@@ -27747,43 +26905,6 @@
   </programme>
   <programme start="20190520225000 +0700" stop="20190520234500 +0700" channel="Discovery Channel-ClipTV">
     <title lang="vi">Tìm Vàng (Phần 9 - Tập 20)</title>
-  </programme>
-  <programme start="20190520014500 +0700" stop="20190520024500 +0700" channel="VTC1-ClipTV">
-    <title lang="vi">ĐƯỜNG DÂY NÓNG</title>
-  </programme>
-  <programme start="20190520024500 +0700" stop="20190520030000 +0700" channel="VTC1-ClipTV">
-    <title lang="vi">Phim tài liệu KH</title>
-    <desc lang="vi">Bí ẩn đại dương - Ấn Độ Dương.(n)</desc>
-  </programme>
-  <programme start="20190520030000 +0700" stop="20190520033000 +0700" channel="VTC1-ClipTV">
-    <title lang="vi">THẾ GIỚI ĐỘNG VẬT</title>
-    <desc lang="vi">Chiến thuật săn mồi Phần 11.(n)</desc>
-  </programme>
-  <programme start="20190520033000 +0700" stop="20190520040000 +0700" channel="VTC1-ClipTV">
-    <title lang="vi">GÓC NHÌN</title>
-    <desc lang="vi">Chiến thuật săn mồi Phần 11.(n)</desc>
-  </programme>
-  <programme start="20190520040000 +0700" stop="20190520043000 +0700" channel="VTC1-ClipTV">
-    <title lang="vi">Bản tin tối</title>
-  </programme>
-  <programme start="20190520043000 +0700" stop="20190520044500 +0700" channel="VTC1-ClipTV">
-    <title lang="vi">Sống kết nối</title>
-  </programme>
-  <programme start="20190520044500 +0700" stop="20190520050000 +0700" channel="VTC1-ClipTV">
-    <title lang="vi">22 + II</title>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520051500 +0700" channel="VTC1-ClipTV">
-    <title lang="vi">Thế Giới Nghiêng</title>
-  </programme>
-  <programme start="20190520051500 +0700" stop="20190520060500 +0700" channel="VTC1-ClipTV">
-    <title lang="vi">PHIM TRUYỆN BỘ</title>
-    <desc lang="vi">Ký ức lọ lem Tập 3.(n)</desc>
-  </programme>
-  <programme start="20190520060500 +0700" stop="20190520071000 +0700" channel="VTC1-ClipTV">
-    <title lang="vi">Cuộc sống 24h</title>
-  </programme>
-  <programme start="20190520071000 +0700" stop="20190520073000 +0700" channel="VTC1-ClipTV">
-    <title lang="vi">SỐNG KẾT NỐI</title>
   </programme>
   <programme start="20190520073000 +0700" stop="20190520080500 +0700" channel="VTC1-ClipTV">
     <title lang="vi">Góc nhìn khán giả</title>
@@ -27901,68 +27022,261 @@
   <programme start="20190520233000 +0700" stop="20190520234500 +0700" channel="VTC1-ClipTV">
     <title lang="vi">Đường dây nóng</title>
   </programme>
-  <programme start="20190520010000 +0700" stop="20190520012500 +0700" channel="HTV2-ClipTV">
-    <title lang="vi">Khám Phá Malaysia Cùng Martin Yan - Phần 2 (Tập 7)</title>
-    <desc lang="vi">Giải trí Malaysia (13T).(n)</desc>
+  <programme start="20190520075500 +0700" stop="20190520084000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Thế giới 7 ngày</title>
+    <desc lang="vi">Thế giới 7 ngày.(n)</desc>
   </programme>
-  <programme start="20190520012500 +0700" stop="20190520014500 +0700" channel="HTV2-ClipTV">
-    <title lang="vi">Sao Và Sự Kiện (Tập 358)</title>
-    <desc lang="vi">Giải trí VN.(n)</desc>
+  <programme start="20190520084000 +0700" stop="20190520090000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">114</title>
+    <desc lang="vi">Hướng dẫn trẻ kỹ năng thoát hiểm khi xảy ra cháy nổ.(n)</desc>
   </programme>
-  <programme start="20190520014500 +0700" stop="20190520023000 +0700" channel="HTV2-ClipTV">
-    <title lang="vi">Vitamin Cười 2018 (Tập 3)</title>
-    <desc lang="vi">Giải trí VN.(n)</desc>
+  <programme start="20190520090000 +0700" stop="20190520095000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Sự trở về của Lucas - Tập 12.(n)</desc>
   </programme>
-  <programme start="20190520023000 +0700" stop="20190520040000 +0700" channel="HTV2-ClipTV">
-    <title lang="vi">Tìm Kiếm Tài Năng Mỹ - Mùa Đặc Biệt (Tập 2,3)</title>
-    <desc lang="vi">Giải trí Mỹ (14T).(n)</desc>
+  <programme start="20190520095000 +0700" stop="20190520101000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">115</title>
+    <desc lang="vi">Đuối nước do điện giật - Cách xử trí kịp thời.(n)</desc>
   </programme>
-  <programme start="20190520040000 +0700" stop="20190520042000 +0700" channel="HTV2-ClipTV">
-    <title lang="vi">Sợi Mì Và Những Huyền Thoại (Tập 7)</title>
-    <desc lang="vi">Phim tài liệu HQ.(n)</desc>
+  <programme start="20190520101000 +0700" stop="20190520104500 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Cuộc chiến ung thư</title>
+    <desc lang="vi">Cuộc chiến ung thư.(n)</desc>
   </programme>
-  <programme start="20190520042000 +0700" stop="20190520044500 +0700" channel="HTV2-ClipTV">
-    <title lang="vi">Congo - Di Sản Cuối Cùng Của Hành Tinh Xanh (Tập 7)</title>
-    <desc lang="vi">Phim tài liệu HQ.(n)</desc>
+  <programme start="20190520104500 +0700" stop="20190520110000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Ngon và lành</title>
+    <desc lang="vi">Ngon và lành.(n)</desc>
   </programme>
-  <programme start="20190520044500 +0700" stop="20190520050500 +0700" channel="HTV2-ClipTV">
-    <title lang="vi">Kiến Tạo Nhịp Cầu - Mùa 5 (Tập 1)</title>
-    <desc lang="vi">Giải trí VN.(n)</desc>
+  <programme start="20190520110000 +0700" stop="20190520120000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Bản tin Cuộc sống 24h</title>
+    <desc lang="vi">Bản tin Cuộc sống 24h.(n)</desc>
   </programme>
-  <programme start="20190520013000 +0700" stop="20190520021500 +0700" channel="HTV7 HD-ClipTV">
-    <title lang="vi">Chiếu phim</title>
-    <desc lang="vi">PTVN: Muôn mặt cuộc đời.(n)</desc>
+  <programme start="20190520120000 +0700" stop="20190520121500 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Bản tin thời tiết</title>
+    <desc lang="vi">Bản tin thời tiết.(n)</desc>
   </programme>
-  <programme start="20190520021500 +0700" stop="20190520023000 +0700" channel="HTV7 HD-ClipTV">
-    <title lang="vi">Trong thế giới xe</title>
+  <programme start="20190520121500 +0700" stop="20190520130500 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Chuyện của tôi - Tập 27.(n)</desc>
   </programme>
-  <programme start="20190520023000 +0700" stop="20190520031500 +0700" channel="HTV7 HD-ClipTV">
-    <title lang="vi">Chiếu phim</title>
-    <desc lang="vi">PTVN: Tìm cha.(n)</desc>
+  <programme start="20190520130500 +0700" stop="20190520134000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Biển đảo Việt Nam</title>
+    <desc lang="vi">Biển Tân Phụng - Hoang sơ đầu Mũi Vi Rồng.(n)</desc>
   </programme>
-  <programme start="20190520031500 +0700" stop="20190520034000 +0700" channel="HTV7 HD-ClipTV">
-    <title lang="vi">Xe và xu hướng</title>
+  <programme start="20190520134000 +0700" stop="20190520141000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Góc nhìn cuộc sống</title>
+    <desc lang="vi">Xuyên tàu đêm.(n)</desc>
   </programme>
-  <programme start="20190520034000 +0700" stop="20190520050500 +0700" channel="HTV7 HD-ClipTV">
-    <title lang="vi">Xu hướng và phong cách</title>
+  <programme start="20190520141000 +0700" stop="20190520143000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Tri thức người xưa</title>
+    <desc lang="vi">Chua me đất - Vị thuốc quí trong dân gian.(n)</desc>
   </programme>
-  <programme start="20190520050500 +0700" stop="20190520053500 +0700" channel="HTV7 HD-ClipTV">
-    <title lang="vi">Thể dục Aerobic</title>
+  <programme start="20190520143000 +0700" stop="20190520150000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Tình huống nguy hiểm</title>
+    <desc lang="vi">Xử trí khi bị lật kayak và thuyền hơi.(n)</desc>
   </programme>
-  <programme start="20190520053500 +0700" stop="20190520060000 +0700" channel="HTV7 HD-ClipTV">
-    <title lang="vi">Nhật ký thể thao</title>
+  <programme start="20190520150000 +0700" stop="20190520150500 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Bản tin thời tiết Biển</title>
+    <desc lang="vi">Bản tin thời tiết Biển.(n)</desc>
   </programme>
-  <programme start="20190520060000 +0700" stop="20190520061500 +0700" channel="HTV7 HD-ClipTV">
-    <title lang="vi">Mua gì ? Ở đâu</title>
+  <programme start="20190520150500 +0700" stop="20190520160000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Thế giới 7 ngày</title>
+    <desc lang="vi">Thế giới 7 ngày.(n)</desc>
   </programme>
-  <programme start="20190520061500 +0700" stop="20190520063000 +0700" channel="HTV7 HD-ClipTV">
-    <title lang="vi">Thảnh thơi vui sống</title>
+  <programme start="20190520160000 +0700" stop="20190520163000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Ngon và lành</title>
+    <desc lang="vi">Ngon và lành.(n)</desc>
   </programme>
-  <programme start="20190520063000 +0700" stop="20190520070000 +0700" channel="HTV7 HD-ClipTV">
-    <title lang="vi">60 Giây</title>
+  <programme start="20190520163000 +0700" stop="20190520170000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Hồ sơ X</title>
+    <desc lang="vi">Cuộc chạm trán trên hành lang MIG - Phần 2.(n)</desc>
   </programme>
-  <programme start="20190520070000 +0700" stop="20190520072000 +0700" channel="HTV7 HD-ClipTV">
-    <title lang="vi">Thời trang cuộc sống</title>
+  <programme start="20190520170000 +0700" stop="20190520174000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Nhịp sống đỏ</title>
+    <desc lang="vi">Bảo vệ tim lúc giao mùa.(n)</desc>
+  </programme>
+  <programme start="20190520174000 +0700" stop="20190520175500 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Giao thông an toàn</title>
+    <desc lang="vi">Giao thông an toàn.(n)</desc>
+  </programme>
+  <programme start="20190520175500 +0700" stop="20190520180000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Thời tiết Nông vụ</title>
+    <desc lang="vi">Thời tiết Nông vụ.(n)</desc>
+  </programme>
+  <programme start="20190520180000 +0700" stop="20190520183000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Chào buổi tối</title>
+    <desc lang="vi">Chào buổi tối.(n)</desc>
+  </programme>
+  <programme start="20190520183000 +0700" stop="20190520184500 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Chuyện Đông chuyện Tây</title>
+    <desc lang="vi">Chuyện Đông chuyện Tây.(n)</desc>
+  </programme>
+  <programme start="20190520184500 +0700" stop="20190520190000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Ngon và lành</title>
+    <desc lang="vi">Ngon và lành.(n)</desc>
+  </programme>
+  <programme start="20190520190000 +0700" stop="20190520193000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Nhật Ký cuộc sống</title>
+    <desc lang="vi">Nhật Ký cuộc sống.(n)</desc>
+  </programme>
+  <programme start="20190520193000 +0700" stop="20190520193500 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Bản tin thời tiết Tổng hợp</title>
+    <desc lang="vi">Bản tin thời tiết Tổng hợp.(n)</desc>
+  </programme>
+  <programme start="20190520193500 +0700" stop="20190520200000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Góc nhìn khán giả</title>
+    <desc lang="vi">Góc nhìn khán giả.(n)</desc>
+  </programme>
+  <programme start="20190520200000 +0700" stop="20190520210000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Cô dâu thời hiện đại - Tập 77.(n)</desc>
+  </programme>
+  <programme start="20190520210000 +0700" stop="20190520210500 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Bản tin thời tiết Du lịch</title>
+    <desc lang="vi">Bản tin thời tiết Du lịch.(n)</desc>
+  </programme>
+  <programme start="20190520210500 +0700" stop="20190520214000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Cận cảnh</title>
+    <desc lang="vi">Chủ động vắc-xin.(n)</desc>
+  </programme>
+  <programme start="20190520214000 +0700" stop="20190520224000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Thế giới 7 ngày</title>
+    <desc lang="vi">Thế giới 7 ngày.(n)</desc>
+  </programme>
+  <programme start="20190520224000 +0700" stop="20190520225500 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Chuyện Đông chuyện Tây</title>
+    <desc lang="vi">Chuyện Đông chuyện Tây.(n)</desc>
+  </programme>
+  <programme start="20190520225500 +0700" stop="20190520230000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Bản tin thời tiết Cuối ngày</title>
+    <desc lang="vi">Bản tin thời tiết Cuối ngày.(n)</desc>
+  </programme>
+  <programme start="20190520230000 +0700" stop="20190520233000 +0700" channel="VTC14-ClipTV">
+    <title lang="vi">Nhật Ký cuộc sống</title>
+    <desc lang="vi">Nhật Ký cuộc sống.(n)</desc>
+  </programme>
+  <programme start="20190520073000 +0700" stop="20190520080000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Phim tài liệu</title>
+    <desc lang="vi">Định Hóa - An toàn khu giữa lòng dân.(n)</desc>
+  </programme>
+  <programme start="20190520080000 +0700" stop="20190520084500 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Tình thù hai mặt - Tập 32.(n)</desc>
+  </programme>
+  <programme start="20190520084500 +0700" stop="20190520092000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Đi và trải nghiệm</title>
+    <desc lang="vi">Thiên đường trong mơ - P8.(n)</desc>
+  </programme>
+  <programme start="20190520092000 +0700" stop="20190520095000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Cuộc sống nhà nông</title>
+    <desc lang="vi">Cuộc sống ở động Thiên Hà kỳ bí.(n)</desc>
+  </programme>
+  <programme start="20190520095000 +0700" stop="20190520102500 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Cuộc sống quanh ta</title>
+    <desc lang="vi">Hành trình khám phá Nam Phi.(n)</desc>
+  </programme>
+  <programme start="20190520102500 +0700" stop="20190520110000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Nông thôn mới</title>
+    <desc lang="vi">Giải pháp xử lý nạn cát tặc.(n)</desc>
+  </programme>
+  <programme start="20190520110000 +0700" stop="20190520113000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Hỏi đáp trong ngày</title>
+    <desc lang="vi">Hỏi đáp trong ngày.(n)</desc>
+  </programme>
+  <programme start="20190520113000 +0700" stop="20190520120000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Cuộc sống nhà nông</title>
+    <desc lang="vi">Mùa cá giòn trên sông Kinh Thầy.(n)</desc>
+  </programme>
+  <programme start="20190520120000 +0700" stop="20190520124500 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Tình thù hai mặt - Tập 33.(n)</desc>
+  </programme>
+  <programme start="20190520124500 +0700" stop="20190520130000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Ca nhạc</title>
+    <desc lang="vi">Khúc hát quê hương - P9.(n)</desc>
+  </programme>
+  <programme start="20190520130000 +0700" stop="20190520131500 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Sao thần nông</title>
+    <desc lang="vi">Tay trắng nuôi gà thành tỷ phú.(n)</desc>
+  </programme>
+  <programme start="20190520131500 +0700" stop="20190520140000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Đi qua ngày biển động - Tập 32.(n)</desc>
+  </programme>
+  <programme start="20190520140000 +0700" stop="20190520141000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Bản tin 3 SẠCH</title>
+    <desc lang="vi">Bản tin 3 SẠCH.(n)</desc>
+  </programme>
+  <programme start="20190520141000 +0700" stop="20190520141500 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Dự báo thời tiết</title>
+    <desc lang="vi">Dự báo thời tiết.(n)</desc>
+  </programme>
+  <programme start="20190520141500 +0700" stop="20190520144500 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Nông thôn chuyển động</title>
+    <desc lang="vi">Nông thôn chuyển động.(n)</desc>
+  </programme>
+  <programme start="20190520144500 +0700" stop="20190520153000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Hoa lưỡng sinh - Tập 24.(n)</desc>
+  </programme>
+  <programme start="20190520153000 +0700" stop="20190520160000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Khởi nghiệp</title>
+    <desc lang="vi">Khởi nghiệp.(n)</desc>
+  </programme>
+  <programme start="20190520160000 +0700" stop="20190520163500 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Cẩm nang nội trợ</title>
+    <desc lang="vi">Ốc Sài Gòn.(n)</desc>
+  </programme>
+  <programme start="20190520163500 +0700" stop="20190520172500 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Hạnh phúc duyên đưa - Tập 27.(n)</desc>
+  </programme>
+  <programme start="20190520172500 +0700" stop="20190520174000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Nhà nông làm giàu</title>
+    <desc lang="vi">Nhà nông làm giàu.(n)</desc>
+  </programme>
+  <programme start="20190520174000 +0700" stop="20190520180000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Khoa học và nông nghiệp</title>
+    <desc lang="vi">Giải pháp kỹ thuật canh tác lúa tiên tiến.(n)</desc>
+  </programme>
+  <programme start="20190520180000 +0700" stop="20190520184500 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Thời sự Nông thôn</title>
+    <desc lang="vi">Thời sự Nông thôn.(n)</desc>
+  </programme>
+  <programme start="20190520184500 +0700" stop="20190520185000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Sắc màu cuộc sống</title>
+    <desc lang="vi">Đến với các em nhỏ vùng cao.(n)</desc>
+  </programme>
+  <programme start="20190520185000 +0700" stop="20190520194500 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Phim truyện nước ngoài</title>
+    <desc lang="vi">Hoa lưỡng sinh - Tập 25.(n)</desc>
+  </programme>
+  <programme start="20190520194500 +0700" stop="20190520200000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Ca nhạc</title>
+    <desc lang="vi">Làn điệu Việt - P1.(n)</desc>
+  </programme>
+  <programme start="20190520200000 +0700" stop="20190520210000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Hãy hỏi để biết</title>
+    <desc lang="vi">Hãy hỏi để biết.(n)</desc>
+  </programme>
+  <programme start="20190520210000 +0700" stop="20190520211000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Bản tin ba sạch</title>
+    <desc lang="vi">Bản tin ba sạch.(n)</desc>
+  </programme>
+  <programme start="20190520211000 +0700" stop="20190520214000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Từ nông thôn nhìn ra thế giới</title>
+    <desc lang="vi">Thị trường Nhật Bản và cơ hội mới của thủy sản Việt Nam.(n)</desc>
+  </programme>
+  <programme start="20190520214000 +0700" stop="20190520221000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Nông thôn chuyển động</title>
+    <desc lang="vi">Nông thôn chuyển động.(n)</desc>
+  </programme>
+  <programme start="20190520221000 +0700" stop="20190520222500 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Nhà nông làm giàu</title>
+    <desc lang="vi">Nhà nông làm giàu.(n)</desc>
+  </programme>
+  <programme start="20190520222500 +0700" stop="20190520231000 +0700" channel="VTC16-ClipTV">
+    <title lang="vi">Thời sự Nông thôn</title>
+    <desc lang="vi">Thời sự Nông thôn.(n)</desc>
   </programme>
   <programme start="20190520072000 +0700" stop="20190520073000 +0700" channel="HTV7 HD-ClipTV">
     <title lang="vi">Khỏe đẹp hoàn hảo</title>
@@ -28056,44 +27370,6 @@
   </programme>
   <programme start="20190520225000 +0700" stop="20190520232000 +0700" channel="HTV7 HD-ClipTV">
     <title lang="vi">Bạn Muốn Hẹn Hò</title>
-  </programme>
-  <programme start="20190520020000 +0700" stop="20190520024500 +0700" channel="HTV9 HD-ClipTV">
-    <title lang="vi">Ca nhạc</title>
-    <desc lang="vi">Liên hoan hợp xướng TP.HCM 2018 \" Bài ca dâng Bác \".(n)</desc>
-  </programme>
-  <programme start="20190520024500 +0700" stop="20190520030500 +0700" channel="HTV9 HD-ClipTV">
-    <title lang="vi">Phụ nữ &amp; cuộc sống</title>
-  </programme>
-  <programme start="20190520030500 +0700" stop="20190520033500 +0700" channel="HTV9 HD-ClipTV">
-    <title lang="vi">Nghệ sĩ và sàn diễn</title>
-  </programme>
-  <programme start="20190520033500 +0700" stop="20190520034500 +0700" channel="HTV9 HD-ClipTV">
-    <title lang="vi">Phóng sự</title>
-  </programme>
-  <programme start="20190520034500 +0700" stop="20190520040000 +0700" channel="HTV9 HD-ClipTV">
-    <title lang="vi">Tạp chí VHNT thế giới</title>
-  </programme>
-  <programme start="20190520040000 +0700" stop="20190520050500 +0700" channel="HTV9 HD-ClipTV">
-    <title lang="vi">Tạp chí bí quyết đẹp</title>
-    <desc lang="vi">Làm đẹp ngày chuyển mùa.(n)</desc>
-  </programme>
-  <programme start="20190520050500 +0700" stop="20190520052000 +0700" channel="HTV9 HD-ClipTV">
-    <title lang="vi">Thể dục dưỡng sinh</title>
-  </programme>
-  <programme start="20190520052000 +0700" stop="20190520053000 +0700" channel="HTV9 HD-ClipTV">
-    <title lang="vi">Thể dục cơ bản</title>
-  </programme>
-  <programme start="20190520053000 +0700" stop="20190520060000 +0700" channel="HTV9 HD-ClipTV">
-    <title lang="vi">Thể thao là cuộc sống</title>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520063000 +0700" channel="HTV9 HD-ClipTV">
-    <title lang="vi">Chương trình thời sự</title>
-  </programme>
-  <programme start="20190520063000 +0700" stop="20190520070000 +0700" channel="HTV9 HD-ClipTV">
-    <title lang="vi">Chương trình 60 giây</title>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520072000 +0700" channel="HTV9 HD-ClipTV">
-    <title lang="vi">Bác sĩ enter</title>
   </programme>
   <programme start="20190520072000 +0700" stop="20190520074000 +0700" channel="HTV9 HD-ClipTV">
     <title lang="vi">Lắng nghe hạnh phúc</title>
@@ -28212,18 +27488,6 @@
   <programme start="20190520230500 +0700" stop="20190520231500 +0700" channel="HTV9 HD-ClipTV">
     <title lang="vi">Sức khỏe cho mọi người :Điều trị viêm da do Demodex</title>
   </programme>
-  <programme start="20190520050000 +0700" stop="20190520060000 +0700" channel="HTVC PHU NU HD">
-    <title lang="vi">Thể dục</title>
-    <desc lang="vi">Yoga và phụ nữ.(n)</desc>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520070000 +0700" channel="HTVC PHU NU HD">
-    <title lang="vi">Phim Truyện Hàn Quốc</title>
-    <desc lang="vi">Công chúa Ohrora - Tập 49.(n)</desc>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520080000 +0700" channel="HTVC PHU NU HD">
-    <title lang="vi">Giải trí</title>
-    <desc lang="vi">Cà phê khởi nghiệp.(n)</desc>
-  </programme>
   <programme start="20190520080000 +0700" stop="20190520083000 +0700" channel="HTVC PHU NU HD">
     <title lang="vi">Mẹ &amp; bé</title>
     <desc lang="vi">Cùng xây ước mơ.(n)</desc>
@@ -28292,24 +27556,6 @@
   <programme start="20190520220000 +0700" stop="20190520230000 +0700" channel="HTVC PHU NU HD">
     <title lang="vi">Cười Lên Vợ Ơi (Tập 25+26)</title>
   </programme>
-  <programme start="20190520010000 +0700" stop="20190520030000 +0700" channel="HTVC GIA DINH">
-    <title lang="vi">Chuyên đề thiếu nhi: Cầu vồng xanh</title>
-  </programme>
-  <programme start="20190520030000 +0700" stop="20190520040000 +0700" channel="HTVC GIA DINH">
-    <title lang="vi">Tình yêu đong đầy - Tập 3</title>
-  </programme>
-  <programme start="20190520040000 +0700" stop="20190520050000 +0700" channel="HTVC GIA DINH">
-    <title lang="vi">Hiên viên kiếm - Tập 6</title>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520060000 +0700" channel="HTVC GIA DINH">
-    <title lang="vi">Tạm biệt Mr Black - Tập 25</title>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520070000 +0700" channel="HTVC GIA DINH">
-    <title lang="vi">Gameshow Con đã lớn khôn</title>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520080000 +0700" channel="HTVC GIA DINH">
-    <title lang="vi">Tình yêu đong đầy - Tập 3</title>
-  </programme>
   <programme start="20190520080000 +0700" stop="20190520090000 +0700" channel="HTVC GIA DINH">
     <title lang="vi">Vì chất lượng cuộc sống</title>
   </programme>
@@ -28354,42 +27600,6 @@
   </programme>
   <programme start="20190520220000 +0700" stop="20190520230000 +0700" channel="HTVC GIA DINH">
     <title lang="vi">Vũ Nữ Kim Đại Ban (Tập 11)</title>
-  </programme>
-  <programme start="20190520010000 +0700" stop="20190520020000 +0700" channel="TODAYTV">
-    <title lang="vi">Thế giới âm nhạc</title>
-    <desc lang="vi">Số 247.(n)</desc>
-  </programme>
-  <programme start="20190520020000 +0700" stop="20190520030000 +0700" channel="TODAYTV">
-    <title lang="vi">Những khúc vọng xưa</title>
-    <desc lang="vi">Số 79.(n)</desc>
-  </programme>
-  <programme start="20190520030000 +0700" stop="20190520034500 +0700" channel="TODAYTV">
-    <title lang="vi">Thế giới âm nhạc</title>
-    <desc lang="vi">Số 245.(n)</desc>
-  </programme>
-  <programme start="20190520034500 +0700" stop="20190520044500 +0700" channel="TODAYTV">
-    <title lang="vi">Những khúc vọng xưa</title>
-    <desc lang="vi">Số 77.(n)</desc>
-  </programme>
-  <programme start="20190520044500 +0700" stop="20190520053000 +0700" channel="TODAYTV">
-    <title lang="vi">Thế giới âm nhạc</title>
-    <desc lang="vi">Số 241.(n)</desc>
-  </programme>
-  <programme start="20190520053000 +0700" stop="20190520060000 +0700" channel="TODAYTV">
-    <title lang="vi">Chuyện nhà mình</title>
-    <desc lang="vi">Số 85.(n)</desc>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520063000 +0700" channel="TODAYTV">
-    <title lang="vi">Vũ điệu cuộc sống</title>
-    <desc lang="vi">Số 2.(n)</desc>
-  </programme>
-  <programme start="20190520063000 +0700" stop="20190520070000 +0700" channel="TODAYTV">
-    <title lang="vi">Just for laugh 2018</title>
-    <desc lang="vi">Số 4.(n)</desc>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520080000 +0700" channel="TODAYTV">
-    <title lang="vi">Những khúc vọng xưa</title>
-    <desc lang="vi">Số 80.(n)</desc>
   </programme>
   <programme start="20190520080000 +0700" stop="20190520090000 +0700" channel="TODAYTV">
     <title lang="vi">Đôi Lứa Xứng Đôi (Tập 3)</title>
@@ -28443,62 +27653,6 @@
   </programme>
   <programme start="20190520220000 +0700" stop="20190520230000 +0700" channel="TODAYTV">
     <title lang="vi">Đôi Lứa Xứng Đôi (Tập 4)</title>
-  </programme>
-  <programme start="20190520010000 +0700" stop="20190520012000 +0700" channel="ANTV">
-    <title lang="vi">Kỹ năng sống</title>
-    <desc lang="vi">Học bơi, kỹ năng sinh tồn của trẻ vùng quê.(n)</desc>
-  </programme>
-  <programme start="20190520012000 +0700" stop="20190520013000 +0700" channel="ANTV">
-    <title lang="vi">An ninh với cuộc sống (7)</title>
-    <desc lang="vi">Đường mưu sinh nghiệt ngã.(n)</desc>
-  </programme>
-  <programme start="20190520013000 +0700" stop="20190520014000 +0700" channel="ANTV">
-    <title lang="vi">SITCOM</title>
-    <desc lang="vi">Khu phố Ùm Bà Lằng, tập 129\/186.(n)</desc>
-  </programme>
-  <programme start="20190520014000 +0700" stop="20190520022000 +0700" channel="ANTV">
-    <title lang="vi">Phim tài liệu</title>
-    <desc lang="vi">Nơi đất hóa tâm hồn.(n)</desc>
-  </programme>
-  <programme start="20190520022000 +0700" stop="20190520031500 +0700" channel="ANTV">
-    <title lang="vi">Phim truyện 13h00</title>
-    <desc lang="vi">Thiếu Lâm tàng kinh các, tập 63\/63.(n)</desc>
-  </programme>
-  <programme start="20190520031500 +0700" stop="20190520034500 +0700" channel="ANTV">
-    <title lang="vi">Người giấu mặt</title>
-    <desc lang="vi">Bẫy du học.(n)</desc>
-  </programme>
-  <programme start="20190520034500 +0700" stop="20190520040000 +0700" channel="ANTV">
-    <title lang="vi">An toàn sống</title>
-    <desc lang="vi">An toàn sống 10\/05\/19 Sống trong sợ hãi.(n)</desc>
-  </programme>
-  <programme start="20190520040000 +0700" stop="20190520043000 +0700" channel="ANTV">
-    <title lang="vi">Nhật ký an ninh (30)</title>
-    <desc lang="vi">Nhật ký an ninh (30) 12\/05\/19.(n)</desc>
-  </programme>
-  <programme start="20190520043000 +0700" stop="20190520051500 +0700" channel="ANTV">
-    <title lang="vi">Phim truyện 12h00</title>
-    <desc lang="vi">Tình yêu không khoảng cách, tập 3\/77.(n)</desc>
-  </programme>
-  <programme start="20190520051500 +0700" stop="20190520054000 +0700" channel="ANTV">
-    <title lang="vi">Yoga sự trải nghiệm</title>
-    <desc lang="vi">Yoga dành cho người yếu mệt, P2, số 2.(n)</desc>
-  </programme>
-  <programme start="20190520054000 +0700" stop="20190520055500 +0700" channel="ANTV">
-    <title lang="vi">Chào cờ và Võ thể dục CAND</title>
-    <desc lang="vi">Số 3.(n)</desc>
-  </programme>
-  <programme start="20190520055500 +0700" stop="20190520060000 +0700" channel="ANTV">
-    <title lang="vi">NHÂN VẬT - SỰ KIỆN</title>
-    <desc lang="vi">Giải mã hồ sơ điệp viên “hai mang” Phạm Chuyên.(n)</desc>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520070000 +0700" channel="ANTV">
-    <title lang="vi">An ninh ngày mới</title>
-    <desc lang="vi">An ninh ngày mới 13\/05\/19.(n)</desc>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520080000 +0700" channel="ANTV">
-    <title lang="vi">Phim truyện 7h00</title>
-    <desc lang="vi">Hoa thiên cốt, tập 44\/50.(n)</desc>
   </programme>
   <programme start="20190520080000 +0700" stop="20190520081500 +0700" channel="ANTV">
     <title lang="vi">Nhận diện tội phạm</title>
@@ -28668,38 +27822,141 @@
     <title lang="vi">Việt Nam quê hương tôi</title>
     <desc lang="vi">Khu di tích Hỏa Lò - Nơi lưu giữ lịch sử truyền thống.(n)</desc>
   </programme>
-  <programme start="20190520013000 +0700" stop="20190520015000 +0700" channel="THVL1 HD">
-    <title lang="vi">Ký sự pháp đình</title>
+  <programme start="20190520073000 +0700" stop="20190520074000 +0700" channel="HANOITV 1">
+    <title lang="vi">Chuyện quanh ta</title>
+    <desc lang="vi">Sống ảo.(n)</desc>
   </programme>
-  <programme start="20190520015000 +0700" stop="20190520020500 +0700" channel="THVL1 HD">
-    <title lang="vi">Xây dựng Đảng</title>
+  <programme start="20190520074000 +0700" stop="20190520080000 +0700" channel="HANOITV 1">
+    <title lang="vi">Công nghệ và đời sống</title>
+    <desc lang="vi">Đẩy mạnh hợp tác giữa doanh nghiệp và nhà khoa học.(n)</desc>
   </programme>
-  <programme start="20190520020500 +0700" stop="20190520022000 +0700" channel="THVL1 HD">
-    <title lang="vi">Chuyên đề kinh tế</title>
+  <programme start="20190520080000 +0700" stop="20190520090000 +0700" channel="HANOITV 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Thái sư Trần Thủ Độ (phim Việt Nam – tập1).(n)</desc>
   </programme>
-  <programme start="20190520022000 +0700" stop="20190520024000 +0700" channel="THVL1 HD">
-    <title lang="vi">Thế giới giải trí</title>
+  <programme start="20190520090000 +0700" stop="20190520091500 +0700" channel="HANOITV 1">
+    <title lang="vi">Thời sự</title>
   </programme>
-  <programme start="20190520024000 +0700" stop="20190520031000 +0700" channel="THVL1 HD">
-    <title lang="vi">Không gian xanh</title>
+  <programme start="20190520091500 +0700" stop="20190520093000 +0700" channel="HANOITV 1">
+    <title lang="vi">Vấn đề kinh tế</title>
+    <desc lang="vi">Thị trường nước giải khát mùa hè.(n)</desc>
   </programme>
-  <programme start="20190520031000 +0700" stop="20190520034500 +0700" channel="THVL1 HD">
-    <title lang="vi">Vợ tôi là số 1</title>
+  <programme start="20190520093000 +0700" stop="20190520100000 +0700" channel="HANOITV 1">
+    <title lang="vi">Ca nhạc</title>
+    <desc lang="vi">Tiếng hát trên đường Trường Sơn.(n)</desc>
   </programme>
-  <programme start="20190520034500 +0700" stop="20190520053000 +0700" channel="THVL1 HD">
-    <title lang="vi">Giải trí truyềnhình: Đấu trường âm nhạc 2019</title>
+  <programme start="20190520100000 +0700" stop="20190520103000 +0700" channel="HANOITV 1">
+    <title lang="vi">Hà Nội những góc nhìn</title>
+    <desc lang="vi">Xây dựng nông thôn mới.(n)</desc>
   </programme>
-  <programme start="20190520053000 +0700" stop="20190520054500 +0700" channel="THVL1 HD">
-    <title lang="vi">Ký sự truyền hình: Qua kênh chợ Gạo - T.1</title>
+  <programme start="20190520103000 +0700" stop="20190520104500 +0700" channel="HANOITV 1">
+    <title lang="vi">Khám phá Hà Nội</title>
+    <desc lang="vi">Tinh hoa ẩm thực Hà Thành.(n)</desc>
   </programme>
-  <programme start="20190520054500 +0700" stop="20190520060000 +0700" channel="THVL1 HD">
-    <title lang="vi">Xây dựng Đảng</title>
+  <programme start="20190520104500 +0700" stop="20190520105500 +0700" channel="HANOITV 1">
+    <title lang="vi">An toàn phòng cháy chữa cháy</title>
+    <desc lang="vi">Phổ biến kiến thức an toàn PCCC cho nhân dân.(n)</desc>
   </programme>
-  <programme start="20190520060000 +0700" stop="20190520063000 +0700" channel="THVL1 HD">
-    <title lang="vi">Chào buổi sáng</title>
+  <programme start="20190520105500 +0700" stop="20190520114500 +0700" channel="HANOITV 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Gong Sim đáng yêu (phim Hàn Quốc - tập 18).(n)</desc>
   </programme>
-  <programme start="20190520063000 +0700" stop="20190520073000 +0700" channel="THVL1 HD">
-    <title lang="vi">Người đưa tin 2G</title>
+  <programme start="20190520114500 +0700" stop="20190520120000 +0700" channel="HANOITV 1">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20190520120000 +0700" stop="20190520125500 +0700" channel="HANOITV 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Mai Anh Đào (phim Việt Nam - tập 8).(n)</desc>
+  </programme>
+  <programme start="20190520125500 +0700" stop="20190520130000 +0700" channel="HANOITV 1">
+    <title lang="vi">Bản tin 141</title>
+  </programme>
+  <programme start="20190520130000 +0700" stop="20190520134500 +0700" channel="HANOITV 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Như Ý truyện (phim Trung Quốc - tập 56).(n)</desc>
+  </programme>
+  <programme start="20190520134500 +0700" stop="20190520143000 +0700" channel="HANOITV 1">
+    <title lang="vi">Phim tài liệu</title>
+    <desc lang="vi">50 năm di chúc Bác Hồ.(n)</desc>
+  </programme>
+  <programme start="20190520143000 +0700" stop="20190520145000 +0700" channel="HANOITV 1">
+    <title lang="vi">Hộp thư truyền hình</title>
+    <desc lang="vi">Bài học từ việc trông lỏng quản lý đất đai.(n)</desc>
+  </programme>
+  <programme start="20190520145000 +0700" stop="20190520150000 +0700" channel="HANOITV 1">
+    <title lang="vi">Không gian Việt</title>
+    <desc lang="vi">Đặc trưng kiến trúc nhà ống ở đô thị.(n)</desc>
+  </programme>
+  <programme start="20190520150000 +0700" stop="20190520151500 +0700" channel="HANOITV 1">
+    <title lang="vi">Bản tin chiều</title>
+  </programme>
+  <programme start="20190520151500 +0700" stop="20190520153000 +0700" channel="HANOITV 1">
+    <title lang="vi">Vì trẻ em</title>
+    <desc lang="vi">Cảnh báo ma túy núp bóng trà sữa.(n)</desc>
+  </programme>
+  <programme start="20190520153000 +0700" stop="20190520161000 +0700" channel="HANOITV 1">
+    <title lang="vi">Hà Nội những góc nhìn</title>
+    <desc lang="vi">Phát triển nghề công tác xã hội tại Việt Nam.(n)</desc>
+  </programme>
+  <programme start="20190520161000 +0700" stop="20190520164000 +0700" channel="HANOITV 1">
+    <title lang="vi">Câu chuyện văn nghệ</title>
+    <desc lang="vi">Nghệ thuật rối Việt.(n)</desc>
+  </programme>
+  <programme start="20190520164000 +0700" stop="20190520170000 +0700" channel="HANOITV 1">
+    <title lang="vi">Đảng trong cuộc sống</title>
+    <desc lang="vi">Đẩy mạnh các phong trào thi đua yêu nước trong tổ chức công đoàn.(n)</desc>
+  </programme>
+  <programme start="20190520170000 +0700" stop="20190520170500 +0700" channel="HANOITV 1">
+    <title lang="vi">Thông tin tiêu dùng</title>
+  </programme>
+  <programme start="20190520170500 +0700" stop="20190520175000 +0700" channel="HANOITV 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Mùa hè của hồ ly (phim Trung Quốc - tập 12).(n)</desc>
+  </programme>
+  <programme start="20190520175000 +0700" stop="20190520180000 +0700" channel="HANOITV 1">
+    <title lang="vi">Sống và làm việc theo pháp luật</title>
+  </programme>
+  <programme start="20190520180000 +0700" stop="20190520183000 +0700" channel="HANOITV 1">
+    <title lang="vi">Hà Nội 18:00</title>
+  </programme>
+  <programme start="20190520183000 +0700" stop="20190520190000 +0700" channel="HANOITV 1">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20190520190000 +0700" stop="20190520194500 +0700" channel="HANOITV 1">
+    <title lang="vi">Tiếp sóng chương trình thời sự Đài THVN</title>
+  </programme>
+  <programme start="20190520194500 +0700" stop="20190520195000 +0700" channel="HANOITV 1">
+    <title lang="vi">Hà Nội đẹp và chưa đẹp</title>
+  </programme>
+  <programme start="20190520195000 +0700" stop="20190520204000 +0700" channel="HANOITV 1">
+    <title lang="vi">Phim truyện dành cho người hâm mộ</title>
+    <desc lang="vi">Tam Quốc cơ mật (phim Trung Quốc – tập 17).(n)</desc>
+  </programme>
+  <programme start="20190520204000 +0700" stop="20190520205000 +0700" channel="HANOITV 1">
+    <title lang="vi">Chuyện quanh ta</title>
+    <desc lang="vi">Quá chén.(n)</desc>
+  </programme>
+  <programme start="20190520205000 +0700" stop="20190520214500 +0700" channel="HANOITV 1">
+    <title lang="vi">Ca sĩ bí ẩn</title>
+  </programme>
+  <programme start="20190520214500 +0700" stop="20190520215000 +0700" channel="HANOITV 1">
+    <title lang="vi">Bản tin 141</title>
+  </programme>
+  <programme start="20190520215000 +0700" stop="20190520215500 +0700" channel="HANOITV 1">
+    <title lang="vi">Bản tin kinh tế</title>
+  </programme>
+  <programme start="20190520215500 +0700" stop="20190520224500 +0700" channel="HANOITV 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Quân tử lập thân (phim Trung Quốc - tập 3).(n)</desc>
+  </programme>
+  <programme start="20190520224500 +0700" stop="20190520230500 +0700" channel="HANOITV 1">
+    <title lang="vi">Bản tin cuối ngày</title>
+  </programme>
+  <programme start="20190520230500 +0700" stop="20190520231500 +0700" channel="HANOITV 1">
+    <title lang="vi">Bản tin tiếng Anh</title>
+  </programme>
+  <programme start="20190520231500 +0700" stop="20190520234000 +0700" channel="HANOITV 1">
+    <title lang="vi">Bản tin tiếng Trung Quốc</title>
   </programme>
   <programme start="20190520073000 +0700" stop="20190520073500 +0700" channel="THVL1 HD">
     <title lang="vi">Dr. Khỏe</title>
@@ -28785,30 +28042,6 @@
   <programme start="20190520230500 +0700" stop="20190520232000 +0700" channel="THVL1 HD">
     <title lang="vi">Thế giới trước 0G</title>
   </programme>
-  <programme start="20190520011500 +0700" stop="20190520020000 +0700" channel="THVL2 HD">
-    <title lang="vi">Phim truyện Mehico: Khu vườn tình yêu - T.41</title>
-  </programme>
-  <programme start="20190520020000 +0700" stop="20190520022500 +0700" channel="THVL2 HD">
-    <title lang="vi">Bí ẩn song sinh</title>
-  </programme>
-  <programme start="20190520022500 +0700" stop="20190520024500 +0700" channel="THVL2 HD">
-    <title lang="vi">Bản lĩnh ngôi sao</title>
-  </programme>
-  <programme start="20190520024500 +0700" stop="20190520050000 +0700" channel="THVL2 HD">
-    <title lang="vi">Sân khấu cải lương: Giọt lệ tình - P.3</title>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520051500 +0700" channel="THVL2 HD">
-    <title lang="vi">Thế giới quanh ta</title>
-  </programme>
-  <programme start="20190520051500 +0700" stop="20190520060000 +0700" channel="THVL2 HD">
-    <title lang="vi">Phim Việt Nam: Con gái bố già T.47</title>
-  </programme>
-  <programme start="20190520060000 +0700" stop="20190520063000 +0700" channel="THVL2 HD">
-    <title lang="vi">Chào buổi sáng</title>
-  </programme>
-  <programme start="20190520063000 +0700" stop="20190520074000 +0700" channel="THVL2 HD">
-    <title lang="vi">Người đưa tin 24G</title>
-  </programme>
   <programme start="20190520074000 +0700" stop="20190520082500 +0700" channel="THVL2 HD">
     <title lang="vi">Phim Việt Nam: Tía ơi đừng say - T.17</title>
   </programme>
@@ -28859,42 +28092,6 @@
   </programme>
   <programme start="20190520200000 +0700" stop="20190520210000 +0700" channel="THVL2 HD">
     <title lang="vi">Phim truyện Ấn Độ: Vợ tôi là cảnh sát - T.176</title>
-  </programme>
-  <programme start="20190520210000 +0700" stop="20190520215000 +0700" channel="THVL2 HD">
-    <title lang="vi">Phim truyện Việt Nam: Giá của nụ cười - T.5</title>
-  </programme>
-  <programme start="20190520012500 +0700" stop="20190520014500 +0700" channel="THVL3 HD">
-    <title lang="vi">Thế giới động vật</title>
-  </programme>
-  <programme start="20190520014500 +0700" stop="20190520023000 +0700" channel="THVL3 HD">
-    <title lang="vi">Phim Đài Loan: Đại thời đại - T.50</title>
-  </programme>
-  <programme start="20190520023000 +0700" stop="20190520024500 +0700" channel="THVL3 HD">
-    <title lang="vi">Nhịp sống đồng bằng</title>
-  </programme>
-  <programme start="20190520024500 +0700" stop="20190520030000 +0700" channel="THVL3 HD">
-    <title lang="vi">Đời sống pháp luật</title>
-  </programme>
-  <programme start="20190520030000 +0700" stop="20190520034500 +0700" channel="THVL3 HD">
-    <title lang="vi">Phim Ấn Độ:Vợ tôi là cảnh sát - T.174</title>
-  </programme>
-  <programme start="20190520034500 +0700" stop="20190520041500 +0700" channel="THVL3 HD">
-    <title lang="vi">Phụ nữ ngày nay 2019- T.6</title>
-  </programme>
-  <programme start="20190520041500 +0700" stop="20190520050000 +0700" channel="THVL3 HD">
-    <title lang="vi">Phim Việt Nam: Đời không như là mơ - T.5</title>
-  </programme>
-  <programme start="20190520050000 +0700" stop="20190520063000 +0700" channel="THVL3 HD">
-    <title lang="vi">Giải trí truyền hình: Hoán chuyển bất ngờ</title>
-  </programme>
-  <programme start="20190520063000 +0700" stop="20190520064500 +0700" channel="THVL3 HD">
-    <title lang="vi">Nhịp sống đồng bằng</title>
-  </programme>
-  <programme start="20190520064500 +0700" stop="20190520070000 +0700" channel="THVL3 HD">
-    <title lang="vi">Xây dựng Đảng</title>
-  </programme>
-  <programme start="20190520070000 +0700" stop="20190520080000 +0700" channel="THVL3 HD">
-    <title lang="vi">Phim Việt Nam: Lấy chồng cho Mẹ - T.3</title>
   </programme>
   <programme start="20190520080000 +0700" stop="20190520084500 +0700" channel="THVL3 HD">
     <title lang="vi">Phim Việt Nam: Đời không như là mơ - T.5</title>
@@ -28959,36 +28156,604 @@
   <programme start="20190520204500 +0700" stop="20190520210000 +0700" channel="THVL3 HD">
     <title lang="vi">Phút thư giãn</title>
   </programme>
-  <programme start="20190520210000 +0700" stop="20190520220000 +0700" channel="THVL3 HD">
-    <title lang="vi">Phim Ấn Độ: Đội đặc nhiệm CID - T.20</title>
+  <programme start="20190520074500 +0700" stop="20190520075500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">PHÓNG SỰ</title>
+    <desc lang="vi">Bài học yêu nước.(n)</desc>
   </programme>
-  <programme start="20190520045500 +0700" stop="20190520050000 +0700" channel="TH CA MAU">
-    <title lang="vi">hào cờ - Giới thiệu chương trình trong ngày</title>
+  <programme start="20190520075500 +0700" stop="20190520082500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">TẠP CHÍ VHNTQĐ</title>
+    <desc lang="vi">Số 276:Chuyện làm phim.(n)</desc>
   </programme>
-  <programme start="20190520050000 +0700" stop="20190520054500 +0700" channel="TH CA MAU">
-    <title lang="vi">him truyện Đài Loan</title>
-    <desc lang="vi">Phi Long đại hiệp (phần 3, tập 12)\/59.(n)</desc>
+  <programme start="20190520082500 +0700" stop="20190520083000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">LỜI BÁC DẠY</title>
+    <desc lang="vi">Số 237:Phải giáo dục bộ đội giữ gìn tốt vũ khí trang bị, ti...(n)</desc>
   </programme>
-  <programme start="20190520054500 +0700" stop="20190520060000 +0700" channel="TH CA MAU">
-    <title lang="vi">ản tin Sức khỏe và đời sống</title>
+  <programme start="20190520083000 +0700" stop="20190520093000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">HẬU PHƯƠNG CHIẾN SĨ</title>
+    <desc lang="vi">Tình ca Tây Nguyên.(n)</desc>
   </programme>
-  <programme start="20190520060000 +0700" stop="20190520061500 +0700" channel="TH CA MAU">
-    <title lang="vi">huyển động Ngày mới</title>
+  <programme start="20190520093000 +0700" stop="20190520094500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">ĐƯỜNG NGẮM CHUẨN</title>
+    <desc lang="vi">Vũ khí dân sự - Tự vệ với súng ngắn.(n)</desc>
   </programme>
-  <programme start="20190520061500 +0700" stop="20190520063500 +0700" channel="TH CA MAU">
-    <title lang="vi">huyên đề - Cải cách hành chính</title>
-    <desc lang="vi">Cơ chế chính sách về kiểm lâm và lực lượng bảo vệ rừng.(n)</desc>
+  <programme start="20190520094500 +0700" stop="20190520100000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">QUỐC PHÒNG ĐỊA PHƯƠNG</title>
+    <desc lang="vi">Số 1021:Học theo Bác.(n)</desc>
   </programme>
-  <programme start="20190520063500 +0700" stop="20190520070000 +0700" channel="TH CA MAU">
-    <title lang="vi">ăn nghệ Thiếu nhi</title>
-    <desc lang="vi">Bạn ơi hè đã về.(n)</desc>
+  <programme start="20190520100000 +0700" stop="20190520101500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">BẢN TIN TIẾNG TRUNG</title>
   </programme>
-  <programme start="20190520070000 +0700" stop="20190520072000 +0700" channel="TH CA MAU">
-    <title lang="vi">huyên đề - Phụ nữ</title>
-    <desc lang="vi">Vai trò của phụ nữ trong kinh tế hợp tác.(n)</desc>
+  <programme start="20190520101500 +0700" stop="20190520110000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Tạm biệt quá khứ - Tập 20\/33.(n)</desc>
   </programme>
-  <programme start="20190520072000 +0700" stop="20190520074000 +0700" channel="TH CA MAU">
-    <title lang="vi">hương trình Khát vọng sống (pl)</title>
+  <programme start="20190520110000 +0700" stop="20190520111500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">TẠP CHÍ THỂ CÔNG</title>
+    <desc lang="vi">Số 24.(n)</desc>
+  </programme>
+  <programme start="20190520111500 +0700" stop="20190520113000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">NHẬN DIỆN SỰ THẬT</title>
+    <desc lang="vi">Số 176:Nhân cách Hồ Chí Minh đã bác bỏ mọi sự xuyên tạc.(n)</desc>
+  </programme>
+  <programme start="20190520113000 +0700" stop="20190520120000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">TIN TỨC TỔNG HỢP TRƯA</title>
+  </programme>
+  <programme start="20190520120000 +0700" stop="20190520124500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Tội ác không dung thứ - Tập 8\/35.(n)</desc>
+  </programme>
+  <programme start="20190520124500 +0700" stop="20190520125000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">THƯ VIỆN QUỐC PHÒNG</title>
+    <desc lang="vi">Số 310:Xử phạt hành vi trốn tránh tham gia dân quân tự vệ nò...(n)</desc>
+  </programme>
+  <programme start="20190520125000 +0700" stop="20190520130000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">GIỮ TRỌN LỜI THỀ</title>
+    <desc lang="vi">Một mô hình, nhiều hiệu quả.(n)</desc>
+  </programme>
+  <programme start="20190520130000 +0700" stop="20190520135000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Hương mật tựa khói sương - Tập 28\/63.(n)</desc>
+  </programme>
+  <programme start="20190520135000 +0700" stop="20190520143500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">CHÚNG TÔI LÀ CHIẾN SĨ</title>
+    <desc lang="vi">Đoàn Kinh tế - Quốc phòng 379.(n)</desc>
+  </programme>
+  <programme start="20190520143500 +0700" stop="20190520150000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">PHIM TÀI LIỆU</title>
+    <desc lang="vi">Chủ tịch Hồ Chí Minh với ba nước Đông Dương.(n)</desc>
+  </programme>
+  <programme start="20190520150000 +0700" stop="20190520151500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">BẢN TIN TIẾNG ANH</title>
+  </programme>
+  <programme start="20190520151500 +0700" stop="20190520154500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">NGƯỜI QUAN SÁT</title>
+    <desc lang="vi">Gia tăng căng thẳng thương mại Hoa Kỳ - Trung Quốc.(n)</desc>
+  </programme>
+  <programme start="20190520154500 +0700" stop="20190520155500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">PHÓNG SỰ</title>
+    <desc lang="vi">Tấm lòng của người dân Cà Mau với Bác Hồ.(n)</desc>
+  </programme>
+  <programme start="20190520155500 +0700" stop="20190520160000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">PHÓNG SỰ ẢNH</title>
+    <desc lang="vi">Số 1585:Tam Chúc rực rỡ sắc màu.(n)</desc>
+  </programme>
+  <programme start="20190520160000 +0700" stop="20190520161500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">BẢN TIN TIẾNG TRUNG</title>
+  </programme>
+  <programme start="20190520161500 +0700" stop="20190520170000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Nhà có hai cửa chính - Tập 7\/32.(n)</desc>
+  </programme>
+  <programme start="20190520170000 +0700" stop="20190520171500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">BẢN TIN QUỐC TẾ</title>
+  </programme>
+  <programme start="20190520171500 +0700" stop="20190520174500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">8 PHIM</title>
+    <desc lang="vi">Trò chuyện cùng diễn viên hài Trần Trung.(n)</desc>
+  </programme>
+  <programme start="20190520174500 +0700" stop="20190520181500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">SỰ KIỆN NHÂN CHỨNG</title>
+    <desc lang="vi">Mở đường Đèo Cà.(n)</desc>
+  </programme>
+  <programme start="20190520181500 +0700" stop="20190520183000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">QUỐC PHÒNG ĐỊA PHƯƠNG</title>
+    <desc lang="vi">Số 1022:Gương sáng giữa buôn làng.(n)</desc>
+  </programme>
+  <programme start="20190520183000 +0700" stop="20190520190000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">RUBIK CUỘC SỐNG</title>
+    <desc lang="vi">Số 441.(n)</desc>
+  </programme>
+  <programme start="20190520190000 +0700" stop="20190520194500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">TIẾP SÓNG THỜI SỰ VTV1</title>
+  </programme>
+  <programme start="20190520194500 +0700" stop="20190520195000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">DỰ BÁO THỜI TIẾT</title>
+  </programme>
+  <programme start="20190520195000 +0700" stop="20190520200000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">TIN TỨC THỂ THAO</title>
+  </programme>
+  <programme start="20190520200000 +0700" stop="20190520204000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">BẢN TIN THỜI SỰ QUỐC PHÒNG</title>
+  </programme>
+  <programme start="20190520204000 +0700" stop="20190520204500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">THƯ VIỆN QUỐC PHÒNG</title>
+    <desc lang="vi">Số 322:Vị trí, chức năng, nhiệm vụ của lực lượng cơ yếu.(n)</desc>
+  </programme>
+  <programme start="20190520204500 +0700" stop="20190520210000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">ĐỐI NGOẠI QUỐC PHÒNG</title>
+    <desc lang="vi">Số 225:Đóng góp cho an ninh thế giới.(n)</desc>
+  </programme>
+  <programme start="20190520210000 +0700" stop="20190520211500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">NỮ QUÂN NHÂN</title>
+    <desc lang="vi">Khát khao cống hiến.(n)</desc>
+  </programme>
+  <programme start="20190520211500 +0700" stop="20190520220000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Truy tìm kẻ sát nhân - Tập 13\/25.(n)</desc>
+  </programme>
+  <programme start="20190520220000 +0700" stop="20190520220500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">TIN CUỐI NGÀY</title>
+  </programme>
+  <programme start="20190520220500 +0700" stop="20190520221500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">PHÓNG SỰ</title>
+    <desc lang="vi">Nguy cơ có thật.(n)</desc>
+  </programme>
+  <programme start="20190520221500 +0700" stop="20190520224500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">PHIM TÀI LIỆU</title>
+    <desc lang="vi">Những cô gái Trường Sơn - Tập 4: Hoa xương rồng trên cung đư...(n)</desc>
+  </programme>
+  <programme start="20190520224500 +0700" stop="20190520230000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">MẠCH NGUỒN VĂN HÓA DÂN GIAN</title>
+    <desc lang="vi">Hội bơi trải Diêm Điền.(n)</desc>
+  </programme>
+  <programme start="20190520230000 +0700" stop="20190520233000 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">RUBIK CUỘC SỐNG</title>
+    <desc lang="vi">Số 441.(n)</desc>
+  </programme>
+  <programme start="20190520233000 +0700" stop="20190520234500 +0700" channel="QUOC PHONG VIET NAM HD">
+    <title lang="vi">QUỐC PHÒNG ĐỊA PHƯƠNG</title>
+    <desc lang="vi">Số 1010:Hiệu quả từ công tác kết nghĩa với các xã vùng cao.(n)</desc>
+  </programme>
+  <programme start="20190520074500 +0700" stop="20190520081500 +0700" channel="HANOITV 2">
+    <title lang="vi">Vòng quanh thế giới</title>
+    <desc lang="vi">Miền đất và con người (P17).(n)</desc>
+  </programme>
+  <programme start="20190520081500 +0700" stop="20190520083500 +0700" channel="HANOITV 2">
+    <title lang="vi">Hoạt hình</title>
+    <desc lang="vi">Cậu bé Cai-u (tập 20 - phần 2).(n)</desc>
+  </programme>
+  <programme start="20190520083500 +0700" stop="20190520090500 +0700" channel="HANOITV 2">
+    <title lang="vi">Ca nhạc quốc tế</title>
+  </programme>
+  <programme start="20190520090500 +0700" stop="20190520095000 +0700" channel="HANOITV 2">
+    <title lang="vi">Hà Nội buổi sáng</title>
+  </programme>
+  <programme start="20190520095000 +0700" stop="20190520100000 +0700" channel="HANOITV 2">
+    <title lang="vi">Cuộc sống xanh</title>
+    <desc lang="vi">Quận Đống Đa đảm bảo vệ sinh môi trường.(n)</desc>
+  </programme>
+  <programme start="20190520100000 +0700" stop="20190520103000 +0700" channel="HANOITV 2">
+    <title lang="vi">Khám phá thế giới</title>
+    <desc lang="vi">Một năm ở Phần Lan (P6).(n)</desc>
+  </programme>
+  <programme start="20190520103000 +0700" stop="20190520103500 +0700" channel="HANOITV 2">
+    <title lang="vi">Bản tin 141</title>
+  </programme>
+  <programme start="20190520103500 +0700" stop="20190520105500 +0700" channel="HANOITV 2">
+    <title lang="vi">Nông nghiệp và Nông thôn</title>
+  </programme>
+  <programme start="20190520105500 +0700" stop="20190520110000 +0700" channel="HANOITV 2">
+    <title lang="vi">Nhớ lời Bác dạy</title>
+    <desc lang="vi">Nơi giáo dục truyền thống cách mạng cho thế hệ trẻ.(n)</desc>
+  </programme>
+  <programme start="20190520110000 +0700" stop="20190520112000 +0700" channel="HANOITV 2">
+    <title lang="vi">Sắc màu cuộc sống</title>
+  </programme>
+  <programme start="20190520112000 +0700" stop="20190520113000 +0700" channel="HANOITV 2">
+    <title lang="vi">Hà Nội đẹp và chưa đẹp</title>
+  </programme>
+  <programme start="20190520113000 +0700" stop="20190520121500 +0700" channel="HANOITV 2">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Gia đình thục nữ - Tập 30.(n)</desc>
+  </programme>
+  <programme start="20190520121500 +0700" stop="20190520123000 +0700" channel="HANOITV 2">
+    <title lang="vi">Thông tin tiêu dùng</title>
+  </programme>
+  <programme start="20190520123000 +0700" stop="20190520134500 +0700" channel="HANOITV 2">
+    <title lang="vi">Người bí ẩn</title>
+  </programme>
+  <programme start="20190520134500 +0700" stop="20190520140000 +0700" channel="HANOITV 2">
+    <title lang="vi">Thông tin Nông nghiệp</title>
+  </programme>
+  <programme start="20190520140000 +0700" stop="20190520143000 +0700" channel="HANOITV 2">
+    <title lang="vi">Truyền hình An ninh</title>
+  </programme>
+  <programme start="20190520143000 +0700" stop="20190520150000 +0700" channel="HANOITV 2">
+    <title lang="vi">Thế giới thể thao</title>
+    <desc lang="vi">Tổng kết vòng 6 giải hạng nhất quốc gia.(n)</desc>
+  </programme>
+  <programme start="20190520150000 +0700" stop="20190520153000 +0700" channel="HANOITV 2">
+    <title lang="vi">Xóm hóm</title>
+  </programme>
+  <programme start="20190520153000 +0700" stop="20190520160000 +0700" channel="HANOITV 2">
+    <title lang="vi">Ca nhạc</title>
+    <desc lang="vi">Cỏ mềm.(n)</desc>
+  </programme>
+  <programme start="20190520160000 +0700" stop="20190520161500 +0700" channel="HANOITV 2">
+    <title lang="vi">Trang ngoại thành</title>
+  </programme>
+  <programme start="20190520161500 +0700" stop="20190520164000 +0700" channel="HANOITV 2">
+    <title lang="vi">Người Tràng an - Người Hà Nội</title>
+    <desc lang="vi">Háo danh - căn bệnh trầm kha của người Việt.(n)</desc>
+  </programme>
+  <programme start="20190520164000 +0700" stop="20190520171500 +0700" channel="HANOITV 2">
+    <title lang="vi">Khám phá thế giới</title>
+    <desc lang="vi">Một năm ở Phần Lan (P6).(n)</desc>
+  </programme>
+  <programme start="20190520171500 +0700" stop="20190520180000 +0700" channel="HANOITV 2">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Linh hồn đáng yêu - Tập 28.(n)</desc>
+  </programme>
+  <programme start="20190520180000 +0700" stop="20190520183000 +0700" channel="HANOITV 2">
+    <title lang="vi">Hà Nội 18h</title>
+  </programme>
+  <programme start="20190520183000 +0700" stop="20190520190000 +0700" channel="HANOITV 2">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20190520190000 +0700" stop="20190520194500 +0700" channel="HANOITV 2">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Mẹ nuôi - Tập 32.(n)</desc>
+  </programme>
+  <programme start="20190520194500 +0700" stop="20190520200000 +0700" channel="HANOITV 2">
+    <title lang="vi">Khám phá Hà Nội</title>
+    <desc lang="vi">Tinh hoa ẩm thực Hà Thành.(n)</desc>
+  </programme>
+  <programme start="20190520200000 +0700" stop="20190520205000 +0700" channel="HANOITV 2">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Gia đình thục nữ - Tập 31.(n)</desc>
+  </programme>
+  <programme start="20190520205000 +0700" stop="20190520210000 +0700" channel="HANOITV 2">
+    <title lang="vi">Giao thông cộng đồng</title>
+  </programme>
+  <programme start="20190520210000 +0700" stop="20190520214500 +0700" channel="HANOITV 2">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Yêu thầm qua mạng - Tập 32.(n)</desc>
+  </programme>
+  <programme start="20190520214500 +0700" stop="20190520221500 +0700" channel="HANOITV 2">
+    <title lang="vi">Truyền hình An ninh</title>
+  </programme>
+  <programme start="20190520221500 +0700" stop="20190520230000 +0700" channel="HANOITV 2">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Linh hồn đáng yêu - Tập 28.(n)</desc>
+  </programme>
+  <programme start="20190520230000 +0700" stop="20190520230500 +0700" channel="HANOITV 2">
+    <title lang="vi">Bản tin 141</title>
+  </programme>
+  <programme start="20190520230500 +0700" stop="20190520231500 +0700" channel="HANOITV 2">
+    <title lang="vi">Chuyện quanh ta</title>
+    <desc lang="vi">Quá chén.(n)</desc>
+  </programme>
+  <programme start="20190520231500 +0700" stop="20190520234500 +0700" channel="HANOITV 2">
+    <title lang="vi">Thế giới thể thao</title>
+    <desc lang="vi">Tổng kết vòng 6 giải hạng nhất quốc gia.(n)</desc>
+  </programme>
+  <programme start="20190520074000 +0700" stop="20190520080000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Trang văn hóa</title>
+    <desc lang="vi">Một số di tích, danh thắng được xếp hạng cấp tỉnh tại TP Móng Cái.(n)</desc>
+  </programme>
+  <programme start="20190520080000 +0700" stop="20190520084500 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Năm ấy hoa nở trăng vừa tròn T22.(n)</desc>
+  </programme>
+  <programme start="20190520084500 +0700" stop="20190520085500 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Sống khỏe 365</title>
+    <desc lang="vi">Sáng ngày 20\/05\/2019.(n)</desc>
+  </programme>
+  <programme start="20190520085500 +0700" stop="20190520091000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Xem ngay</title>
+    <desc lang="vi">Sáng ngày 20\/05\/2019.(n)</desc>
+  </programme>
+  <programme start="20190520091000 +0700" stop="20190520094500 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Toạ đàm</title>
+    <desc lang="vi">Quảng Ninh đẩy mạnh khai thác và nuôi trồng thủy sản theo hướng bền vững.(n)</desc>
+  </programme>
+  <programme start="20190520094500 +0700" stop="20190520100000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">PS</title>
+    <desc lang="vi">Phát triển du lịch cộng đồng – hướng đi mới cho du lịch biển đảo.(n)</desc>
+  </programme>
+  <programme start="20190520100000 +0700" stop="20190520103000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Nốt nhạc trái tim</title>
+  </programme>
+  <programme start="20190520103000 +0700" stop="20190520104000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Bản tin tiếng Anh</title>
+    <desc lang="vi">Trưa ngày 20\/05\/2019.(n)</desc>
+  </programme>
+  <programme start="20190520104000 +0700" stop="20190520110000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Vườn thú AZ</title>
+    <desc lang="vi">Trưa ngày 20\/05\/2019.(n)</desc>
+  </programme>
+  <programme start="20190520110000 +0700" stop="20190520114500 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Xin lỗi anh yêu em. T2.(n)</desc>
+  </programme>
+  <programme start="20190520114500 +0700" stop="20190520120000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">PS</title>
+    <desc lang="vi">Có một người ông.(n)</desc>
+  </programme>
+  <programme start="20190520120000 +0700" stop="20190520121500 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Thời sự Quảng Ninh</title>
+    <desc lang="vi">Trưa ngày 20\/05\/2019.(n)</desc>
+  </programme>
+  <programme start="20190520121500 +0700" stop="20190520122500 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Bản tin sức khỏe</title>
+    <desc lang="vi">Trưa ngày 20\/05\/2019.(n)</desc>
+  </programme>
+  <programme start="20190520122500 +0700" stop="20190520124000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Vườn tri thức</title>
+    <desc lang="vi">Trưa ngày 20\/05\/2019.(n)</desc>
+  </programme>
+  <programme start="20190520124000 +0700" stop="20190520130000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Nhịp đập Showbiz</title>
+    <desc lang="vi">Trưa ngày 20\/05\/2019.(n)</desc>
+  </programme>
+  <programme start="20190520130000 +0700" stop="20190520131000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Thời sự Quốc tế</title>
+    <desc lang="vi">Trưa ngày 20\/05\/2019.(n)</desc>
+  </programme>
+  <programme start="20190520131000 +0700" stop="20190520133500 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Phim tài liệu</title>
+    <desc lang="vi">Con đường phía trước.(n)</desc>
+  </programme>
+  <programme start="20190520133500 +0700" stop="20190520140000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">PS</title>
+    <desc lang="vi">Chuyện về trà sen xứ Huế cao.(n)</desc>
+  </programme>
+  <programme start="20190520140000 +0700" stop="20190520144500 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Mặn hơn muối - Tập 19.(n)</desc>
+  </programme>
+  <programme start="20190520144500 +0700" stop="20190520150000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">PS</title>
+    <desc lang="vi">Hiệu quà chương trình Ocop ở Ba Chẽ.(n)</desc>
+  </programme>
+  <programme start="20190520150000 +0700" stop="20190520151000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Thời sự Quốc tế</title>
+    <desc lang="vi">Chiều ngày 20\/05\/2019.(n)</desc>
+  </programme>
+  <programme start="20190520151000 +0700" stop="20190520152500 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">PS</title>
+    <desc lang="vi">Ngành than đẩy mạnh học tập và làm theo Bác.(n)</desc>
+  </programme>
+  <programme start="20190520152500 +0700" stop="20190520153000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Tác giả tác phẩm</title>
+    <desc lang="vi">Bạch Đằng cây cầu mơ ước.(n)</desc>
+  </programme>
+  <programme start="20190520153000 +0700" stop="20190520160000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Cuộc sống quanh ta</title>
+    <desc lang="vi">Chuyến đi vòng quanh dãy núi Alpe .P3.(n)</desc>
+  </programme>
+  <programme start="20190520160000 +0700" stop="20190520165500 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Bí ẩn trái tim- Tập 25.(n)</desc>
+  </programme>
+  <programme start="20190520165500 +0700" stop="20190520171000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">PS</title>
+    <desc lang="vi">Đừng đùa với điện.(n)</desc>
+  </programme>
+  <programme start="20190520171000 +0700" stop="20190520173000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Ca nhạc quốc tế</title>
+  </programme>
+  <programme start="20190520173000 +0700" stop="20190520174500 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Hoạt hình</title>
+    <desc lang="vi">Gia đình Cedric. P2 - T66.(n)</desc>
+  </programme>
+  <programme start="20190520174500 +0700" stop="20190520180000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Bản tin tài chính</title>
+    <desc lang="vi">Chiều ngày 20\/05\/2019.(n)</desc>
+  </programme>
+  <programme start="20190520180000 +0700" stop="20190520182000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Nhịp sống 365</title>
+    <desc lang="vi">Chiều ngày 20\/05\/2019.(n)</desc>
+  </programme>
+  <programme start="20190520182000 +0700" stop="20190520183500 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Trang văn hóa</title>
+    <desc lang="vi">Một số di tích, danh thắng được xếp hạng cấp tỉnh tại TP Móng Cái.(n)</desc>
+  </programme>
+  <programme start="20190520183500 +0700" stop="20190520184500 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Nhịp sống thể thao. PD3</title>
+    <desc lang="vi">Tối ngày 20\/05\/2019.(n)</desc>
+  </programme>
+  <programme start="20190520184500 +0700" stop="20190520190000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Sống khỏe 365</title>
+    <desc lang="vi">Tối ngày 20\/05\/2019.(n)</desc>
+  </programme>
+  <programme start="20190520190000 +0700" stop="20190520200000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Lật mặt hung thủ. T20\/25.(n)</desc>
+  </programme>
+  <programme start="20190520200000 +0700" stop="20190520205000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Vén màn quá khứ.T 67\/70.(n)</desc>
+  </programme>
+  <programme start="20190520205000 +0700" stop="20190520210000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Nhịp sống thể thao. PD3</title>
+    <desc lang="vi">Tối ngày 20\/05\/2019.(n)</desc>
+  </programme>
+  <programme start="20190520210000 +0700" stop="20190520213000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Thời sự Quảng Ninh</title>
+    <desc lang="vi">Tối ngày 20\/05\/2019.(n)</desc>
+  </programme>
+  <programme start="20190520213000 +0700" stop="20190520220000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Ô cửa tuổi xanh</title>
+    <desc lang="vi">Bạo lực học đường - trách nhiệm thuộc về ai?(n)</desc>
+  </programme>
+  <programme start="20190520220000 +0700" stop="20190520221000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Thế giới 24h</title>
+    <desc lang="vi">Tối ngày 20\/05\/2019.(n)</desc>
+  </programme>
+  <programme start="20190520221000 +0700" stop="20190520222500 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">PS</title>
+    <desc lang="vi">Sức lan tỏa từ chương trình mỗi xã phường một sản phẩm.(n)</desc>
+  </programme>
+  <programme start="20190520222500 +0700" stop="20190520230000 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Chuyện showbiz</title>
+    <desc lang="vi">Tối ngày 20\/05\/2019.(n)</desc>
+  </programme>
+  <programme start="20190520230000 +0700" stop="20190520234500 +0700" channel="TH QUANG NINH 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Tuổi thanh xuân băng và lửa . T21.(n)</desc>
+  </programme>
+  <programme start="20190520080000 +0700" stop="20190520081500 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Bản tin tiếng Anh</title>
+    <desc lang="vi">Bản tin tiếng Anh.(n)</desc>
+  </programme>
+  <programme start="20190520081500 +0700" stop="20190520083000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Vui khỏe mỗi ngày</title>
+    <desc lang="vi">Số 102.(n)</desc>
+  </programme>
+  <programme start="20190520083000 +0700" stop="20190520084500 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Phim hoạt hình</title>
+    <desc lang="vi">Vòng quanh thế giới Tập 18.(n)</desc>
+  </programme>
+  <programme start="20190520084500 +0700" stop="20190520090000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Ngon và lành</title>
+    <desc lang="vi">Giảm cân hiệu quả với hến xào bầu.(n)</desc>
+  </programme>
+  <programme start="20190520090000 +0700" stop="20190520091000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Bản tin</title>
+    <desc lang="vi">Bản tin.(n)</desc>
+  </programme>
+  <programme start="20190520091000 +0700" stop="20190520100000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Con gái chồng tôi Tập 56.(n)</desc>
+  </programme>
+  <programme start="20190520100000 +0700" stop="20190520101000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Chuyên mục</title>
+    <desc lang="vi">Cải cách hành chính.(n)</desc>
+  </programme>
+  <programme start="20190520101000 +0700" stop="20190520110000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Cầu vồng sau cơn mưa Tập 34.(n)</desc>
+  </programme>
+  <programme start="20190520110000 +0700" stop="20190520111500 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Kiến thức và đời sống</title>
+    <desc lang="vi">Chăm sóc da đúng cách.(n)</desc>
+  </programme>
+  <programme start="20190520111500 +0700" stop="20190520112000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Bản tin thể thao</title>
+    <desc lang="vi">Bản tin thể thao.(n)</desc>
+  </programme>
+  <programme start="20190520112000 +0700" stop="20190520112500 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Bản tin Tài chính thị trường</title>
+    <desc lang="vi">Bản tin Tài chính thị trường.(n)</desc>
+  </programme>
+  <programme start="20190520112500 +0700" stop="20190520113000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Bản tin dự báo thời tiết</title>
+    <desc lang="vi">Bản tin dự báo thời tiết.(n)</desc>
+  </programme>
+  <programme start="20190520113000 +0700" stop="20190520115500 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Thời sự Đài PT-TH ĐN</title>
+    <desc lang="vi">Thời sự Đài PT-TH ĐN.(n)</desc>
+  </programme>
+  <programme start="20190520115500 +0700" stop="20190520120000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Thông tin – Thông báo – Quảng cáo</title>
+    <desc lang="vi">Thông tin – Thông báo – Quảng cáo.(n)</desc>
+  </programme>
+  <programme start="20190520120000 +0700" stop="20190520130000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Ba phù thủy Tập 22.(n)</desc>
+  </programme>
+  <programme start="20190520130000 +0700" stop="20190520140000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Ba phù thủy Tập 23.(n)</desc>
+  </programme>
+  <programme start="20190520140000 +0700" stop="20190520143000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Thời sự PT-TH Đà Nẵng</title>
+    <desc lang="vi">Thời sự PT-TH Đà Nẵng.(n)</desc>
+  </programme>
+  <programme start="20190520143000 +0700" stop="20190520144500 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Vui khỏe mỗi ngày</title>
+    <desc lang="vi">Số 103.(n)</desc>
+  </programme>
+  <programme start="20190520144500 +0700" stop="20190520150000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Cười để ngẫm</title>
+    <desc lang="vi">Đi hoang Số 770.(n)</desc>
+  </programme>
+  <programme start="20190520150000 +0700" stop="20190520153000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Bài hát của tôi</title>
+    <desc lang="vi">Gửi em một người bạn Số 34.(n)</desc>
+  </programme>
+  <programme start="20190520153000 +0700" stop="20190520160000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Hiểm họa quanh ta</title>
+    <desc lang="vi">Nguy cơ từ cống thoát nước, hố ga ở đô thị Số 23.(n)</desc>
+  </programme>
+  <programme start="20190520160000 +0700" stop="20190520161000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Chuyện gia đình vàng</title>
+    <desc lang="vi">Heo quay kho dưa cải Tập 948.(n)</desc>
+  </programme>
+  <programme start="20190520161000 +0700" stop="20190520170000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Tân Bát tiên truyền kì Tập 45.(n)</desc>
+  </programme>
+  <programme start="20190520170000 +0700" stop="20190520171000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Chương trình</title>
+    <desc lang="vi">Pops Kids Số 88.(n)</desc>
+  </programme>
+  <programme start="20190520171000 +0700" stop="20190520171500 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Bản tin thể thao</title>
+    <desc lang="vi">Bản tin thể thao.(n)</desc>
+  </programme>
+  <programme start="20190520171500 +0700" stop="20190520173000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Chuyên mục</title>
+    <desc lang="vi">Quốc phòng toàn dân.(n)</desc>
+  </programme>
+  <programme start="20190520173000 +0700" stop="20190520180000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Pops Music</title>
+    <desc lang="vi">Số 80.(n)</desc>
+  </programme>
+  <programme start="20190520180000 +0700" stop="20190520182000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Tiêu điểm 24h</title>
+    <desc lang="vi">Tiêu điểm 24h.(n)</desc>
+  </programme>
+  <programme start="20190520182000 +0700" stop="20190520182500 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Bản tin thị trường</title>
+    <desc lang="vi">Bản tin thị trường.(n)</desc>
+  </programme>
+  <programme start="20190520182500 +0700" stop="20190520183000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Dự báo thời tiết – Quảng cáo</title>
+    <desc lang="vi">Dự báo thời tiết – Quảng cáo.(n)</desc>
+  </programme>
+  <programme start="20190520183000 +0700" stop="20190520190000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Thời sự PT-TH Đà Nẵng</title>
+    <desc lang="vi">Thời sự PT-TH Đà Nẵng.(n)</desc>
+  </programme>
+  <programme start="20190520190000 +0700" stop="20190520200000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Bảo vật thần y Tập 6.(n)</desc>
+  </programme>
+  <programme start="20190520200000 +0700" stop="20190520210000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Thần điêu đại hiệp Tập 10.(n)</desc>
+  </programme>
+  <programme start="20190520210000 +0700" stop="20190520211500 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Phim truyện sitcom</title>
+    <desc lang="vi">Những cô nàng rắc rối Tập 37.(n)</desc>
+  </programme>
+  <programme start="20190520211500 +0700" stop="20190520221500 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Chàng trai xúi quẩy Tập 16.(n)</desc>
+  </programme>
+  <programme start="20190520221500 +0700" stop="20190520224000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Thời sự PT-TH Đà Nẵng</title>
+    <desc lang="vi">Thời sự PT-TH Đà Nẵng.(n)</desc>
+  </programme>
+  <programme start="20190520224000 +0700" stop="20190520231000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Văn hóa dân tộc</title>
+    <desc lang="vi">Làn điệu hát ví của người Tày Định Hóa.(n)</desc>
+  </programme>
+  <programme start="20190520231000 +0700" stop="20190520232000 +0700" channel="TH DA NANG 1">
+    <title lang="vi">Bản tin tiếng Anh</title>
+    <desc lang="vi">Bản tin tiếng Anh.(n)</desc>
   </programme>
   <programme start="20190520074000 +0700" stop="20190520081000 +0700" channel="TH CA MAU">
     <title lang="vi">ự tình quê hương (pl)</title>
