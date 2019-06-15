@@ -36,6 +36,31 @@
     <icon src="https://tvtv.us/tvm/i/image/station/100x100/bein_sports.png" />
     <url>http://www.tvtv.us</url>
   </channel>
+  <channel id="TSN1">
+    <display-name lang="en">TSN1</display-name>
+    <icon src="https://tvtv.ca/tvm/i/image/station/100x100/tsn1-2018.png" />
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="TSN2">
+    <display-name lang="en">TSN2</display-name>
+    <icon src="https://tvtv.ca/tvm/i/image/station/100x100/tsn2-2018.png" />
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="TSN3">
+    <display-name lang="en">TSN3</display-name>
+    <icon src="https://tvtv.ca/tvm/i/image/station/100x100/tsn3-2018.png" />
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="TSN4">
+    <display-name lang="en">TSN4</display-name>
+    <icon src="https://tvtv.ca/tvm/i/image/station/100x100/tsn4-2018.png" />
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="TSN5">
+    <display-name lang="en">TSN5</display-name>
+    <icon src="https://tvtv.ca/tvm/i/image/station/100x100/tsn5-2018.png" />
+    <url>http://www.tvtv.ca</url>
+  </channel>
   <channel id="RMC SPORT 1">
     <display-name lang="fr">RMC SPORT 1</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_732.PNG" />
@@ -2978,6 +3003,760 @@
       <value>TVG</value>
     </rating>
   </programme>
+  <programme start="20190615000000 +0000" stop="20190615003000 +0000" channel="TSN1">
+    <title lang="en">2019 FIFA Women's World Cup Recap Show</title>
+    <sub-title lang="en">Day 8</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20190615003000 +0000" stop="20190615010000 +0000" channel="TSN1">
+    <title lang="en">Top Raptors Championship Plays</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20190615010000 +0000" stop="20190615040000 +0000" channel="TSN1">
+    <title lang="en">Football</title>
+    <sub-title lang="en">Montreal Alouettes vs. Edmonton Eskimos</sub-title>
+    <desc lang="en">CFL Football. Montreal Alouettes vs. Edmonton Eskimos. Commonwealth Stadium, Edmonton, Alta.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615040000 +0000" stop="20190615050000 +0000" channel="TSN1">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615050000 +0000" stop="20190615060000 +0000" channel="TSN1">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615060000 +0000" stop="20190615070000 +0000" channel="TSN1">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615070000 +0000" stop="20190615080000 +0000" channel="TSN1">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615080000 +0000" stop="20190615090000 +0000" channel="TSN1">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615090000 +0000" stop="20190615100000 +0000" channel="TSN1">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615100000 +0000" stop="20190615110000 +0000" channel="TSN1">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615110000 +0000" stop="20190615120000 +0000" channel="TSN1">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615120000 +0000" stop="20190615123000 +0000" channel="TSN1">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615123000 +0000" stop="20190615130000 +0000" channel="TSN1">
+    <title lang="en">FIFA Women's World Cup Pre-game</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20190615130000 +0000" stop="20190615150000 +0000" channel="TSN1">
+    <title lang="en">Soccer</title>
+    <sub-title lang="en">Netherlands vs. Cameroon</sub-title>
+    <desc lang="en">FIFA Women's Group E Netherlands vs. Cameroon. Stade du Hainaut, Valenciennes, France.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615150000 +0000" stop="20190615160000 +0000" channel="TSN1">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615160000 +0000" stop="20190615180000 +0000" channel="TSN1">
+    <title lang="en">Soccer</title>
+    <sub-title lang="en">Canada vs. Cameroon</sub-title>
+    <desc lang="en">FIFA Women's Group E Canada vs. Cameroon. Stade de la Mosson, Montpellier, France.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615180000 +0000" stop="20190615184500 +0000" channel="TSN1">
+    <title lang="en">FIFA Women's World Cup Pre-game</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20190615184500 +0000" stop="20190615210000 +0000" channel="TSN1">
+    <title lang="en">Soccer</title>
+    <sub-title lang="en">Canada vs. New Zealand</sub-title>
+    <desc lang="en">FIFA Women's Group E Canada vs. New Zealand. Stade des Alpes, Grenoble, France.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615210000 +0000" stop="20190615230000 +0000" channel="TSN1">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615230000 +0000" stop="20190616020000 +0000" channel="TSN1">
+    <title lang="en">Football</title>
+    <sub-title lang="en">Ottawa RedBlacks vs. Calgary Stampeders</sub-title>
+    <desc lang="en">CFL Football. Ottawa RedBlacks vs. Calgary Stampeders. McMahon Stadium , Calgary, Alta.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615000000 +0000" stop="20190615002200 +0000" channel="TSN2">
+    <title lang="en">Must See SC</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20190615002200 +0000" stop="20190615023000 +0000" channel="TSN2">
+    <title lang="en">Soccer</title>
+    <desc lang="en">Group A Brazil vs. Bolivia Est\u00e1dio do Morumbi, S\u00e3o Paulo, Brazil.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615023000 +0000" stop="20190615043000 +0000" channel="TSN2">
+    <title lang="en">Soccer</title>
+    <desc lang="en">FIFA Women's.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615043000 +0000" stop="20190615070000 +0000" channel="TSN2">
+    <title lang="en">Basketball</title>
+    <sub-title lang="en">Toronto Raptors vs. Golden State Warriors</sub-title>
+    <desc lang="en">NBA Basketball. Final Game 6 Toronto Raptors vs. Golden State Warriors. Oracle Arena, Oakland, Calif.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615070000 +0000" stop="20190615090000 +0000" channel="TSN2">
+    <title lang="en">Soccer</title>
+    <sub-title lang="en">Italy vs. Ecuador</sub-title>
+    <desc lang="en">FIFA Third Place Match Italy vs. Ecuador. Municipal Stadium (Gdynia), Gdynia, Poland.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615090000 +0000" stop="20190615093000 +0000" channel="TSN2">
+    <title lang="en">Top Raptors Championship Plays</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20190615093000 +0000" stop="20190615123000 +0000" channel="TSN2">
+    <title lang="en">Football</title>
+    <sub-title lang="en">Montreal Alouettes vs. Edmonton Eskimos</sub-title>
+    <desc lang="en">CFL Football. Montreal Alouettes vs. Edmonton Eskimos. Commonwealth Stadium, Edmonton, Alta.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615123000 +0000" stop="20190615153000 +0000" channel="TSN2">
+    <title lang="en">Football</title>
+    <sub-title lang="en">Montreal Alouettes vs. Edmonton Eskimos</sub-title>
+    <desc lang="en">CFL Football. Montreal Alouettes vs. Edmonton Eskimos. Commonwealth Stadium, Edmonton, Alta.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615153000 +0000" stop="20190615154800 +0000" channel="TSN2">
+    <title lang="en">Must See SC</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20190615154800 +0000" stop="20190615180000 +0000" channel="TSN2">
+    <title lang="en">Soccer</title>
+    <sub-title lang="en">Ukraine vs. Korea Republic</sub-title>
+    <desc lang="en">FIFA Final Ukraine vs. Korea Republic. Stadion Widzewa, Lodz, Poland.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615180000 +0000" stop="20190615183000 +0000" channel="TSN2">
+    <title lang="en">Motoring TV</title>
+    <desc lang="en">Auto news and reviews.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Automotive</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615183000 +0000" stop="20190615185200 +0000" channel="TSN2">
+    <title lang="en">Lighter Tennis Moments</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20190615185200 +0000" stop="20190615210000 +0000" channel="TSN2">
+    <title lang="en">Soccer</title>
+    <desc lang="en">Group A Venezuela vs. Peru Arena do Gr\u00eamio, Porto Alegre, Brazil.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615210000 +0000" stop="20190615215200 +0000" channel="TSN2">
+    <title lang="en">Poker</title>
+    <desc lang="en">Main Event.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cards</category>
+    <rating system="CA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190615215200 +0000" stop="20190616000000 +0000" channel="TSN2">
+    <title lang="en">Soccer</title>
+    <desc lang="en">Group B Argentina vs. Colombia Arena Fonte Nova, Salvador de Bahia, Brazil.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615023000 +0000" stop="20190615040000 +0000" channel="TSN3">
+    <title lang="en">Football</title>
+    <sub-title lang="en">Montreal Alouettes vs. Edmonton Eskimos</sub-title>
+    <desc lang="en">CFL Football. Montreal Alouettes vs. Edmonton Eskimos. Commonwealth Stadium, Edmonton, Alta.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615040000 +0000" stop="20190615050000 +0000" channel="TSN3">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615050000 +0000" stop="20190615060000 +0000" channel="TSN3">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615060000 +0000" stop="20190615070000 +0000" channel="TSN3">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615070000 +0000" stop="20190615080000 +0000" channel="TSN3">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615080000 +0000" stop="20190615090000 +0000" channel="TSN3">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615090000 +0000" stop="20190615100000 +0000" channel="TSN3">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615100000 +0000" stop="20190615110000 +0000" channel="TSN3">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615110000 +0000" stop="20190615120000 +0000" channel="TSN3">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615120000 +0000" stop="20190615123000 +0000" channel="TSN3">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615123000 +0000" stop="20190615130000 +0000" channel="TSN3">
+    <title lang="en">FIFA Women's World Cup Pre-game</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20190615130000 +0000" stop="20190615150000 +0000" channel="TSN3">
+    <title lang="en">Soccer</title>
+    <sub-title lang="en">Netherlands vs. Cameroon</sub-title>
+    <desc lang="en">FIFA Women's Group E Netherlands vs. Cameroon. Stade du Hainaut, Valenciennes, France.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615150000 +0000" stop="20190615160000 +0000" channel="TSN3">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615160000 +0000" stop="20190615180000 +0000" channel="TSN3">
+    <title lang="en">Soccer</title>
+    <sub-title lang="en">Canada vs. Cameroon</sub-title>
+    <desc lang="en">FIFA Women's Group E Canada vs. Cameroon. Stade de la Mosson, Montpellier, France.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615180000 +0000" stop="20190615184500 +0000" channel="TSN3">
+    <title lang="en">FIFA Women's World Cup Pre-game</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20190615184500 +0000" stop="20190615210000 +0000" channel="TSN3">
+    <title lang="en">Soccer</title>
+    <sub-title lang="en">Canada vs. New Zealand</sub-title>
+    <desc lang="en">FIFA Women's Group E Canada vs. New Zealand. Stade des Alpes, Grenoble, France.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615210000 +0000" stop="20190615230000 +0000" channel="TSN3">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615230000 +0000" stop="20190615233000 +0000" channel="TSN3">
+    <title lang="en">CONCACAF Gold Cup Pre-game</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20190615233000 +0000" stop="20190616013000 +0000" channel="TSN3">
+    <title lang="en">Soccer</title>
+    <sub-title lang="en">Canada vs. Martinique</sub-title>
+    <desc lang="en">CONCACAF Group A Canada vs. Martinique. Rose Bowl, Pasadena, Calif.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615023000 +0000" stop="20190615040000 +0000" channel="TSN4">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615040000 +0000" stop="20190615050000 +0000" channel="TSN4">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615050000 +0000" stop="20190615060000 +0000" channel="TSN4">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615060000 +0000" stop="20190615070000 +0000" channel="TSN4">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615070000 +0000" stop="20190615080000 +0000" channel="TSN4">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615080000 +0000" stop="20190615090000 +0000" channel="TSN4">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615090000 +0000" stop="20190615100000 +0000" channel="TSN4">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615100000 +0000" stop="20190615110000 +0000" channel="TSN4">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615110000 +0000" stop="20190615120000 +0000" channel="TSN4">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615120000 +0000" stop="20190615123000 +0000" channel="TSN4">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615123000 +0000" stop="20190615130000 +0000" channel="TSN4">
+    <title lang="en">FIFA Women's World Cup Pre-game</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20190615130000 +0000" stop="20190615150000 +0000" channel="TSN4">
+    <title lang="en">Soccer</title>
+    <sub-title lang="en">Netherlands vs. Cameroon</sub-title>
+    <desc lang="en">FIFA Women's Group E Netherlands vs. Cameroon. Stade du Hainaut, Valenciennes, France.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615150000 +0000" stop="20190615160000 +0000" channel="TSN4">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615160000 +0000" stop="20190616020000 +0000" channel="TSN4">
+    <title lang="en">Golf</title>
+    <desc lang="en">USGA Golf. Round 3 Pebble Beach Golf Links, Pebble Beach, Calif.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615000000 +0000" stop="20190615003000 +0000" channel="TSN5">
+    <title lang="en">2019 FIFA Women's World Cup Recap Show</title>
+    <sub-title lang="en">Day 8</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20190615003000 +0000" stop="20190615010000 +0000" channel="TSN5">
+    <title lang="en">Top Raptors Championship Plays</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20190615010000 +0000" stop="20190615040000 +0000" channel="TSN5">
+    <title lang="en">Football</title>
+    <sub-title lang="en">Montreal Alouettes vs. Edmonton Eskimos</sub-title>
+    <desc lang="en">CFL Football. Montreal Alouettes vs. Edmonton Eskimos. Commonwealth Stadium, Edmonton, Alta.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615040000 +0000" stop="20190615050000 +0000" channel="TSN5">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615050000 +0000" stop="20190615060000 +0000" channel="TSN5">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615060000 +0000" stop="20190615070000 +0000" channel="TSN5">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615070000 +0000" stop="20190615080000 +0000" channel="TSN5">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615080000 +0000" stop="20190615090000 +0000" channel="TSN5">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615090000 +0000" stop="20190615100000 +0000" channel="TSN5">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615100000 +0000" stop="20190615110000 +0000" channel="TSN5">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615110000 +0000" stop="20190615120000 +0000" channel="TSN5">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615120000 +0000" stop="20190615130000 +0000" channel="TSN5">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615130000 +0000" stop="20190615140000 +0000" channel="TSN5">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615140000 +0000" stop="20190615150000 +0000" channel="TSN5">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615150000 +0000" stop="20190615160000 +0000" channel="TSN5">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615160000 +0000" stop="20190615180000 +0000" channel="TSN5">
+    <title lang="en">Soccer</title>
+    <sub-title lang="en">Canada vs. Cameroon</sub-title>
+    <desc lang="en">FIFA Women's Group E Canada vs. Cameroon. Stade de la Mosson, Montpellier, France.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615180000 +0000" stop="20190615184500 +0000" channel="TSN5">
+    <title lang="en">FIFA Women's World Cup Pre-game</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20190615184500 +0000" stop="20190615210000 +0000" channel="TSN5">
+    <title lang="en">Soccer</title>
+    <sub-title lang="en">Canada vs. New Zealand</sub-title>
+    <desc lang="en">FIFA Women's Group E Canada vs. New Zealand. Stade des Alpes, Grenoble, France.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615210000 +0000" stop="20190615230000 +0000" channel="TSN5">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190615230000 +0000" stop="20190616020000 +0000" channel="TSN5">
+    <title lang="en">Football</title>
+    <sub-title lang="en">Ottawa RedBlacks vs. Calgary Stampeders</sub-title>
+    <desc lang="en">CFL Football. Ottawa RedBlacks vs. Calgary Stampeders. McMahon Stadium , Calgary, Alta.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="CA">
+      <value>TVG</value>
+    </rating>
+  </programme>
   <programme start="20190615060000 +0700" stop="20190615061500 +0700" channel="RMC SPORT 1">
     <title lang="fr">Pépite RMC Sport</title>
     <category lang="fr">Doc. Sport</category>
@@ -3471,6 +4250,1222 @@
     <title lang="fr">Rugby - North Queensland Cowboys / Wests Tigers</title>
     <category lang="fr">Rugby</category>
     <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1423.JPG" />
+  </programme>
+  <programme start="20190615000000 +0700" stop="20190615010000 +0700" channel="BT Sport 1">
+    <title lang="en">Men's Hockey: Spain v Australia</title>
+    <desc lang="en">Action from the Men's FIH Hockey Pro League as Spain go head-to-head with Australia in Madrid.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615010000 +0700" stop="20190615020000 +0700" channel="BT Sport 1">
+    <title lang="en">BBL: Melbourne S v Sydney T</title>
+    <desc lang="en">We look back as Melbourne Stars met Sydney Thunder in the 2018/19 Big Bash League at the Metricon Stadium. The stars had to make do without teenage sensation Sandeep Lamichhane.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615020000 +0700" stop="20190615030000 +0700" channel="BT Sport 1">
+    <title lang="en">BBL: Perth S v Brisbane H</title>
+    <desc lang="en">We revisit Brisbane Heat's showdown with Perth Scorchers in the Big Bash League. The hosts were looking to pick themselves up after their one-run defeat to Thunder last time out.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615030000 +0700" stop="20190615040000 +0700" channel="BT Sport 1">
+    <title lang="en">BBL: Adelaide S v Sydney S</title>
+    <desc lang="en">We revisit the Big Bash League clash between the Adelaide Strikers and the Sydney Sixers at the Adelaide Oval.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615040000 +0700" stop="20190615050000 +0700" channel="BT Sport 1">
+    <title lang="en">BBL: Melbourne R v Hobart H</title>
+    <desc lang="en">Take a look back at the 2018/19 Big Bash League clash between Melbourne Renegades and the Hobart Hurricanes at Marvel Stadium.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615050000 +0700" stop="20190615060000 +0700" channel="BT Sport 1">
+    <title lang="en">Men's Hockey: GB v Netherlands</title>
+    <desc lang="en">Great Britain entertain the Netherlands at the Lee Valley Hockey and Tennis Centre in the Men's FIH Hockey Pro League.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615060000 +0700" stop="20190615061500 +0700" channel="BT Sport 1">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615061500 +0700" stop="20190615081500 +0700" channel="BT Sport 1">
+    <title lang="en">Live: V8 Supercars Championship</title>
+    <desc lang="en">Action from race 15 of the Virgin Australia Supercars Championship in Darwin.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615081500 +0700" stop="20190615083000 +0700" channel="BT Sport 1">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615083000 +0700" stop="20190615090000 +0700" channel="BT Sport 1">
+    <title lang="en">WTA All Access</title>
+    <desc lang="en">All the latest news from the women's tennis tour.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615090000 +0700" stop="20190615130000 +0700" channel="BT Sport 1">
+    <title lang="en">Live WTA Tennis: Libema Open</title>
+    <desc lang="en">Action from the semi-finals of the Libema Open in 's-Hertogenbosch in the Netherlands.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615130000 +0700" stop="20190615133000 +0700" channel="BT Sport 1">
+    <title lang="en">WTA All Access</title>
+    <desc lang="en">All the latest news from the women's tennis tour.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615133000 +0700" stop="20190615140000 +0700" channel="BT Sport 1">
+    <title lang="en">No Filter Boxing: Fury v Schwarz</title>
+    <desc lang="en">A look ahead to Tyson Fury's Las Vegas debut as he fights German heavyweight Tom Schwarz at the MGM Grand.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615140000 +0700" stop="20190615150000 +0700" channel="BT Sport 1">
+    <title lang="en">Live WRC: Rally Italy</title>
+    <desc lang="en">Coverage of SS13 between Coiluna and Loelle at Rally Italy, round eight of the FIA World Rally Championship.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615150000 +0700" stop="20190615170000 +0700" channel="BT Sport 1">
+    <title lang="en">Live Women's Hockey: GB v Holland</title>
+    <desc lang="en">Action from the Women's FIH Hockey Pro League as Great Britain face-off against the Netherlands in London.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615170000 +0700" stop="20190615180000 +0700" channel="BT Sport 1">
+    <title lang="en">Young Lions - Boys Of 2000</title>
+    <desc lang="en">Take a look at England's stars of the future, featuring players born in the year 2000. Featuring Phil Foden, Jadon Sancho and Callum Hudson-Odoi.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615180000 +0700" stop="20190615183000 +0700" channel="BT Sport 1">
+    <title lang="en">Warrington v Galahad - Face Off</title>
+    <desc lang="en">Ahead of their featherweight showdown in Leeds, Josh Warrington and Kid Galahad come face-to-face with each other.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615183000 +0700" stop="20190615190000 +0700" channel="BT Sport 1">
+    <title lang="en">No Filter Boxing: Fury v Schwarz</title>
+    <desc lang="en">A look ahead to Tyson Fury's Las Vegas debut as he fights German heavyweight Tom Schwarz at the MGM Grand.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615190000 +0700" stop="20190615230000 +0700" channel="BT Sport 1">
+    <title lang="en">Live: Warrington v Galahad</title>
+    <desc lang="en">Josh Warrington makes the second defence of his IBF world featherweight title against Kid Galahad at the Leeds Arena. Brits Lyndon Arthur and Jack Bateson also feature on the bill.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615000000 +0700" stop="20190615013000 +0700" channel="BT Sport 2">
+    <title lang="en">Exeter Chiefs v Saracens</title>
+    <desc lang="en">Look back as Exeter Chiefs took on Saracens in the 2018/19 Gallagher Premiership final at Twickenham. The pair had met in two of the last three finals, with Sarries winning both.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615013000 +0700" stop="20190615031500 +0700" channel="BT Sport 2">
+    <title lang="en">UFC Reloaded</title>
+    <desc lang="en">A look back at the 2006 bout between Chuck Liddell and Tito Ortiz as the pair met for the second time for the light heavyweight championship.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615031500 +0700" stop="20190615033000 +0700" channel="BT Sport 2">
+    <title lang="en">MotoGP: ICYMI</title>
+    <desc lang="en">A round-up of the best bits so far from the Grand Prix of Catalunya, round seven of the 2019 MotoGP season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615033000 +0700" stop="20190615063000 +0700" channel="BT Sport 2">
+    <title lang="en">Live AFL: Gold Coast v St Kilda</title>
+    <desc lang="en">Gold Coast Suns take on St Kilda in the AFL. After a run of eight games without a win, the Suns will be desperate to give their fans something to cheer about heading into the bye.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615063000 +0700" stop="20190615064500 +0700" channel="BT Sport 2">
+    <title lang="en">Premier League Tonight: Best Of</title>
+    <desc lang="en">A look back at all the best moments from Premier League Tonight during the 2018/19 season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615064500 +0700" stop="20190615065500 +0700" channel="BT Sport 2">
+    <title lang="en">MotoGP: ICYMI</title>
+    <desc lang="en">A round-up of the best bits so far from the Grand Prix of Catalunya, round seven of the 2019 MotoGP season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615065500 +0700" stop="20190615095500 +0700" channel="BT Sport 2">
+    <title lang="en">Live MotoGP Catalunya: FP3</title>
+    <desc lang="en">The third free practice session ahead of the Grand Prix of Catalunya, round seven of the 2019 season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615095500 +0700" stop="20190615141500 +0700" channel="BT Sport 2">
+    <title lang="en">Live MotoGP Catalunya: Qualifying</title>
+    <desc lang="en">Qualifying ahead of the Grand Prix of Catalunya, round seven of the 2019 season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615141500 +0700" stop="20190615144500 +0700" channel="BT Sport 2">
+    <title lang="en">PL 100: Peter Schmeichel</title>
+    <desc lang="en">This week, take a look at Peter Schmeichel, who made 128 clean sheets in the English top flight and is regarded as one the best goalkeepers to ever play in the Premier League.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615144500 +0700" stop="20190615151500 +0700" channel="BT Sport 2">
+    <title lang="en">No Filter Boxing</title>
+    <desc lang="en">The No Filter Boxing team look ahead to Josh Warrington's IBF featherweight title defence against Kid Galahad at the First Direct Arena in Leeds.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615151500 +0700" stop="20190615164500 +0700" channel="BT Sport 2">
+    <title lang="en">Rugby Tonight: Season Review</title>
+    <desc lang="en">BT Sport's panel of experts look back at all the highs and lows of the 2018/19 Gallagher Premiership season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615164500 +0700" stop="20190615201500 +0700" channel="BT Sport 2">
+    <title lang="en">Live: FIM Speedway Grand Prix</title>
+    <desc lang="en">Action from all the races from round three of the FIM Speedway Grand Prix in Prague, Czech Republic.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615201500 +0700" stop="20190615221500 +0700" channel="BT Sport 2">
+    <title lang="en">O.J.: Made in America</title>
+    <desc lang="en">Episode three of this Oscar-winning documentary examines OJ's arrest, attempted escape and trial. Contains graphic images which some viewers may find upsetting. 3/5.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615221500 +0700" stop="20190615224500 +0700" channel="BT Sport 2">
+    <title lang="en">WRC Highlights: Rally Italy</title>
+    <desc lang="en">Highlights of the second day of action from Rally Italy, the eighth round of the World Rally Championship.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615224500 +0700" stop="20190615230000 +0700" channel="BT Sport 2">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615000000 +0700" stop="20190615010000 +0700" channel="BT Sport 1 HD">
+    <title lang="en">Men's Hockey: Spain v Australia</title>
+    <desc lang="en">Action from the Men's FIH Hockey Pro League as Spain go head-to-head with Australia in Madrid.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615010000 +0700" stop="20190615020000 +0700" channel="BT Sport 1 HD">
+    <title lang="en">BBL: Melbourne S v Sydney T</title>
+    <desc lang="en">We look back as Melbourne Stars met Sydney Thunder in the 2018/19 Big Bash League at the Metricon Stadium. The stars had to make do without teenage sensation Sandeep Lamichhane.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615020000 +0700" stop="20190615030000 +0700" channel="BT Sport 1 HD">
+    <title lang="en">BBL: Perth S v Brisbane H</title>
+    <desc lang="en">We revisit Brisbane Heat's showdown with Perth Scorchers in the Big Bash League. The hosts were looking to pick themselves up after their one-run defeat to Thunder last time out.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615030000 +0700" stop="20190615040000 +0700" channel="BT Sport 1 HD">
+    <title lang="en">BBL: Adelaide S v Sydney S</title>
+    <desc lang="en">We revisit the Big Bash League clash between the Adelaide Strikers and the Sydney Sixers at the Adelaide Oval.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615040000 +0700" stop="20190615050000 +0700" channel="BT Sport 1 HD">
+    <title lang="en">BBL: Melbourne R v Hobart H</title>
+    <desc lang="en">Take a look back at the 2018/19 Big Bash League clash between Melbourne Renegades and the Hobart Hurricanes at Marvel Stadium.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615050000 +0700" stop="20190615060000 +0700" channel="BT Sport 1 HD">
+    <title lang="en">Men's Hockey: GB v Netherlands</title>
+    <desc lang="en">Great Britain entertain the Netherlands at the Lee Valley Hockey and Tennis Centre in the Men's FIH Hockey Pro League.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615060000 +0700" stop="20190615061500 +0700" channel="BT Sport 1 HD">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615061500 +0700" stop="20190615081500 +0700" channel="BT Sport 1 HD">
+    <title lang="en">Live: V8 Supercars Championship</title>
+    <desc lang="en">Action from race 15 of the Virgin Australia Supercars Championship in Darwin.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615081500 +0700" stop="20190615083000 +0700" channel="BT Sport 1 HD">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615083000 +0700" stop="20190615090000 +0700" channel="BT Sport 1 HD">
+    <title lang="en">WTA All Access</title>
+    <desc lang="en">All the latest news from the women's tennis tour.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615090000 +0700" stop="20190615130000 +0700" channel="BT Sport 1 HD">
+    <title lang="en">Live WTA Tennis: Libema Open</title>
+    <desc lang="en">Action from the semi-finals of the Libema Open in 's-Hertogenbosch in the Netherlands.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615130000 +0700" stop="20190615133000 +0700" channel="BT Sport 1 HD">
+    <title lang="en">WTA All Access</title>
+    <desc lang="en">All the latest news from the women's tennis tour.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615133000 +0700" stop="20190615140000 +0700" channel="BT Sport 1 HD">
+    <title lang="en">No Filter Boxing: Fury v Schwarz</title>
+    <desc lang="en">A look ahead to Tyson Fury's Las Vegas debut as he fights German heavyweight Tom Schwarz at the MGM Grand.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615140000 +0700" stop="20190615150000 +0700" channel="BT Sport 1 HD">
+    <title lang="en">Live WRC: Rally Italy</title>
+    <desc lang="en">Coverage of SS13 between Coiluna and Loelle at Rally Italy, round eight of the FIA World Rally Championship.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615150000 +0700" stop="20190615170000 +0700" channel="BT Sport 1 HD">
+    <title lang="en">Live Women's Hockey: GB v Holland</title>
+    <desc lang="en">Action from the Women's FIH Hockey Pro League as Great Britain face-off against the Netherlands in London.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615170000 +0700" stop="20190615180000 +0700" channel="BT Sport 1 HD">
+    <title lang="en">Young Lions - Boys Of 2000</title>
+    <desc lang="en">Take a look at England's stars of the future, featuring players born in the year 2000. Featuring Phil Foden, Jadon Sancho and Callum Hudson-Odoi.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615180000 +0700" stop="20190615183000 +0700" channel="BT Sport 1 HD">
+    <title lang="en">Warrington v Galahad - Face Off</title>
+    <desc lang="en">Ahead of their featherweight showdown in Leeds, Josh Warrington and Kid Galahad come face-to-face with each other.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615183000 +0700" stop="20190615190000 +0700" channel="BT Sport 1 HD">
+    <title lang="en">No Filter Boxing: Fury v Schwarz</title>
+    <desc lang="en">A look ahead to Tyson Fury's Las Vegas debut as he fights German heavyweight Tom Schwarz at the MGM Grand.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615190000 +0700" stop="20190615230000 +0700" channel="BT Sport 1 HD">
+    <title lang="en">Live: Warrington v Galahad</title>
+    <desc lang="en">Josh Warrington makes the second defence of his IBF world featherweight title against Kid Galahad at the Leeds Arena. Brits Lyndon Arthur and Jack Bateson also feature on the bill.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615000000 +0700" stop="20190615013000 +0700" channel="BT Sport 2 HD">
+    <title lang="en">Exeter Chiefs v Saracens</title>
+    <desc lang="en">Look back as Exeter Chiefs took on Saracens in the 2018/19 Gallagher Premiership final at Twickenham. The pair had met in two of the last three finals, with Sarries winning both.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615013000 +0700" stop="20190615031500 +0700" channel="BT Sport 2 HD">
+    <title lang="en">UFC Reloaded</title>
+    <desc lang="en">A look back at the 2006 bout between Chuck Liddell and Tito Ortiz as the pair met for the second time for the light heavyweight championship.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615031500 +0700" stop="20190615033000 +0700" channel="BT Sport 2 HD">
+    <title lang="en">MotoGP: ICYMI</title>
+    <desc lang="en">A round-up of the best bits so far from the Grand Prix of Catalunya, round seven of the 2019 MotoGP season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615033000 +0700" stop="20190615063000 +0700" channel="BT Sport 2 HD">
+    <title lang="en">Live AFL: Gold Coast v St Kilda</title>
+    <desc lang="en">Gold Coast Suns take on St Kilda in the AFL. After a run of eight games without a win, the Suns will be desperate to give their fans something to cheer about heading into the bye.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615063000 +0700" stop="20190615064500 +0700" channel="BT Sport 2 HD">
+    <title lang="en">Premier League Tonight: Best Of</title>
+    <desc lang="en">A look back at all the best moments from Premier League Tonight during the 2018/19 season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615064500 +0700" stop="20190615065500 +0700" channel="BT Sport 2 HD">
+    <title lang="en">MotoGP: ICYMI</title>
+    <desc lang="en">A round-up of the best bits so far from the Grand Prix of Catalunya, round seven of the 2019 MotoGP season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615065500 +0700" stop="20190615095500 +0700" channel="BT Sport 2 HD">
+    <title lang="en">Live MotoGP Catalunya: FP3</title>
+    <desc lang="en">The third free practice session ahead of the Grand Prix of Catalunya, round seven of the 2019 season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615095500 +0700" stop="20190615141500 +0700" channel="BT Sport 2 HD">
+    <title lang="en">Live MotoGP Catalunya: Qualifying</title>
+    <desc lang="en">Qualifying ahead of the Grand Prix of Catalunya, round seven of the 2019 season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615141500 +0700" stop="20190615144500 +0700" channel="BT Sport 2 HD">
+    <title lang="en">PL 100: Peter Schmeichel</title>
+    <desc lang="en">This week, take a look at Peter Schmeichel, who made 128 clean sheets in the English top flight and is regarded as one the best goalkeepers to ever play in the Premier League.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615144500 +0700" stop="20190615151500 +0700" channel="BT Sport 2 HD">
+    <title lang="en">No Filter Boxing</title>
+    <desc lang="en">The No Filter Boxing team look ahead to Josh Warrington's IBF featherweight title defence against Kid Galahad at the First Direct Arena in Leeds.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615151500 +0700" stop="20190615164500 +0700" channel="BT Sport 2 HD">
+    <title lang="en">Rugby Tonight: Season Review</title>
+    <desc lang="en">BT Sport's panel of experts look back at all the highs and lows of the 2018/19 Gallagher Premiership season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615164500 +0700" stop="20190615201500 +0700" channel="BT Sport 2 HD">
+    <title lang="en">Live: FIM Speedway Grand Prix</title>
+    <desc lang="en">Action from all the races from round three of the FIM Speedway Grand Prix in Prague, Czech Republic.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615201500 +0700" stop="20190615221500 +0700" channel="BT Sport 2 HD">
+    <title lang="en">O.J.: Made in America</title>
+    <desc lang="en">Episode three of this Oscar-winning documentary examines OJ's arrest, attempted escape and trial. Contains graphic images which some viewers may find upsetting. 3/5.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615221500 +0700" stop="20190615224500 +0700" channel="BT Sport 2 HD">
+    <title lang="en">WRC Highlights: Rally Italy</title>
+    <desc lang="en">Highlights of the second day of action from Rally Italy, the eighth round of the World Rally Championship.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615224500 +0700" stop="20190615230000 +0700" channel="BT Sport 2 HD">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615003000 +0700" stop="20190615013000 +0700" channel="BT Sport EurHD">
+    <title lang="en">Liverpool v Barcelona</title>
+    <desc lang="en">Relive one of the greatest European comebacks of all time as Liverpool entertained Barcelona at Anfield in the second leg of their UEFA Champions League semi-final tie.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615013000 +0700" stop="20190615023000 +0700" channel="BT Sport EurHD">
+    <title lang="en">Ajax v Tottenham</title>
+    <desc lang="en">Revisit Tottenham's sensational UEFA Champions League semi-final second leg with Ajax at the Amsterdam Arena. Spurs' final hopes hung in the balance after a 1-0 first-leg defeat.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615023000 +0700" stop="20190615040000 +0700" channel="BT Sport EurHD">
+    <title lang="en">Tottenham v Liverpool</title>
+    <desc lang="en">Look back as Tottenham met Liverpool in an all-English UEFA Champions League final in Madrid. Spurs hoped to win the trophy for the first time while the Reds eyed a sixth success.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615040000 +0700" stop="20190615043000 +0700" channel="BT Sport EurHD">
+    <title lang="en">No Filter Boxing: Fury v Schwarz</title>
+    <desc lang="en">A look ahead to Tyson Fury's Las Vegas debut as he fights German heavyweight Tom Schwarz at the MGM Grand.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615043000 +0700" stop="20190615050000 +0700" channel="BT Sport EurHD">
+    <title lang="en">No Filter Rugby: Exeter v Saracens</title>
+    <desc lang="en">The No Filter Rugby team take you behind-the-scenes as Saracens completed the European and domestic double after victory over Exeter saw them lift the Gallagher Premiership title.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615050000 +0700" stop="20190615051500 +0700" channel="BT Sport EurHD">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615051500 +0700" stop="20190615053000 +0700" channel="BT Sport EurHD">
+    <title lang="en">MotoGP: ICYMI</title>
+    <desc lang="en">A round-up of the best bits so far from the Grand Prix of Catalunya, round seven of the 2019 MotoGP season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615053000 +0700" stop="20190615060000 +0700" channel="BT Sport EurHD">
+    <title lang="en">WRC Highlights: Rally Italy</title>
+    <desc lang="en">Highlights of the first day of action from Rally Italy, the eighth round of the World Rally Championship.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615060000 +0700" stop="20190615070000 +0700" channel="BT Sport EurHD">
+    <title lang="en">Live WRC: Rally Italy</title>
+    <desc lang="en">Coverage of SS10 between Coiluna and Loelle at Rally Italy, round eight of the FIA World Rally Championship.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615070000 +0700" stop="20190615073000 +0700" channel="BT Sport EurHD">
+    <title lang="en">No Filter Boxing: Fury v Schwarz</title>
+    <desc lang="en">A look ahead to Tyson Fury's Las Vegas debut as he fights German heavyweight Tom Schwarz at the MGM Grand.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615073000 +0700" stop="20190615080000 +0700" channel="BT Sport EurHD">
+    <title lang="en">BT Sport Score: Best Of</title>
+    <desc lang="en">Take a look back at all the best moments from BT Sport Score during a memorable 2018/19 season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615080000 +0700" stop="20190615100000 +0700" channel="BT Sport EurHD">
+    <title lang="en">Live: Women's Hockey Pro League</title>
+    <desc lang="en">Action from the Women's FIH Hockey Pro League as China take on USA at the Wujin Hockey Stadium in Changzhou.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615100000 +0700" stop="20190615110000 +0700" channel="BT Sport EurHD">
+    <title lang="en">Men's Hockey: GB v Netherlands</title>
+    <desc lang="en">Great Britain entertain the Netherlands at the Lee Valley Hockey and Tennis Centre in the Men's FIH Hockey Pro League.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615110000 +0700" stop="20190615113000 +0700" channel="BT Sport EurHD">
+    <title lang="en">Irish Rally Review</title>
+    <desc lang="en">All the best action from the Munster National Rally, part of the Irish Rally series.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615113000 +0700" stop="20190615133000 +0700" channel="BT Sport EurHD">
+    <title lang="en">Live: FIH Hockey Series Finals</title>
+    <desc lang="en">Coverage of the 3rd place match from the Men's FIH Hockey Series Finals in Bhubaneswar, India.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615133000 +0700" stop="20190615134500 +0700" channel="BT Sport EurHD">
+    <title lang="en">Premier League Tonight: Best Of</title>
+    <desc lang="en">A look back at all the best moments from Premier League Tonight during the 2018/19 season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615134500 +0700" stop="20190615154500 +0700" channel="BT Sport EurHD">
+    <title lang="en">Live: FIH Hockey Series Finals</title>
+    <desc lang="en">Action from the final of the Men's FIH Hockey Series Finals in Bhubaneswar, India.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615154500 +0700" stop="20190615160000 +0700" channel="BT Sport EurHD">
+    <title lang="en">BT Sport Score: Best Of</title>
+    <desc lang="en">Take a look back at all the best moments from BT Sport Score during a memorable 2018/19 season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615160000 +0700" stop="20190615180000 +0700" channel="BT Sport EurHD">
+    <title lang="en">AFL: Gold Coast Suns v St Kilda</title>
+    <desc lang="en">Gold Coast Suns take on St Kilda in the AFL. After a run of eight games without a win, the Suns will be desperate to give their fans something to cheer about heading into the bye.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615180000 +0700" stop="20190615200000 +0700" channel="BT Sport EurHD">
+    <title lang="en">AFL: Carlton v Western Bulldogs</title>
+    <desc lang="en">Action from the Australian Football League as Carlton take on Western Bulldogs at Marvel Stadium. The Blues are looking for back-to-back wins after beating Brisbane last time out.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615200000 +0700" stop="20190615230000 +0700" channel="BT Sport EurHD">
+    <title lang="en">Live MLB: Diamondbacks @ Nationals</title>
+    <desc lang="en">Major League Baseball action as the Washington Nationals meet the Arizona Diamondbacks at Nationals Park.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615003000 +0700" stop="20190615013000 +0700" channel="BT Sport Europe">
+    <title lang="en">Liverpool v Barcelona</title>
+    <desc lang="en">Relive one of the greatest European comebacks of all time as Liverpool entertained Barcelona at Anfield in the second leg of their UEFA Champions League semi-final tie.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615013000 +0700" stop="20190615023000 +0700" channel="BT Sport Europe">
+    <title lang="en">Ajax v Tottenham</title>
+    <desc lang="en">Revisit Tottenham's sensational UEFA Champions League semi-final second leg with Ajax at the Amsterdam Arena. Spurs' final hopes hung in the balance after a 1-0 first-leg defeat.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615023000 +0700" stop="20190615040000 +0700" channel="BT Sport Europe">
+    <title lang="en">Tottenham v Liverpool</title>
+    <desc lang="en">Look back as Tottenham met Liverpool in an all-English UEFA Champions League final in Madrid. Spurs hoped to win the trophy for the first time while the Reds eyed a sixth success.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615040000 +0700" stop="20190615043000 +0700" channel="BT Sport Europe">
+    <title lang="en">No Filter Boxing: Fury v Schwarz</title>
+    <desc lang="en">A look ahead to Tyson Fury's Las Vegas debut as he fights German heavyweight Tom Schwarz at the MGM Grand.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615043000 +0700" stop="20190615050000 +0700" channel="BT Sport Europe">
+    <title lang="en">No Filter Rugby: Exeter v Saracens</title>
+    <desc lang="en">The No Filter Rugby team take you behind-the-scenes as Saracens completed the European and domestic double after victory over Exeter saw them lift the Gallagher Premiership title.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615050000 +0700" stop="20190615051500 +0700" channel="BT Sport Europe">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615051500 +0700" stop="20190615053000 +0700" channel="BT Sport Europe">
+    <title lang="en">MotoGP: ICYMI</title>
+    <desc lang="en">A round-up of the best bits so far from the Grand Prix of Catalunya, round seven of the 2019 MotoGP season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615053000 +0700" stop="20190615060000 +0700" channel="BT Sport Europe">
+    <title lang="en">WRC Highlights: Rally Italy</title>
+    <desc lang="en">Highlights of the first day of action from Rally Italy, the eighth round of the World Rally Championship.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615060000 +0700" stop="20190615070000 +0700" channel="BT Sport Europe">
+    <title lang="en">Live WRC: Rally Italy</title>
+    <desc lang="en">Coverage of SS10 between Coiluna and Loelle at Rally Italy, round eight of the FIA World Rally Championship.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615070000 +0700" stop="20190615073000 +0700" channel="BT Sport Europe">
+    <title lang="en">No Filter Boxing: Fury v Schwarz</title>
+    <desc lang="en">A look ahead to Tyson Fury's Las Vegas debut as he fights German heavyweight Tom Schwarz at the MGM Grand.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615073000 +0700" stop="20190615080000 +0700" channel="BT Sport Europe">
+    <title lang="en">BT Sport Score: Best Of</title>
+    <desc lang="en">Take a look back at all the best moments from BT Sport Score during a memorable 2018/19 season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615080000 +0700" stop="20190615100000 +0700" channel="BT Sport Europe">
+    <title lang="en">Live: Women's Hockey Pro League</title>
+    <desc lang="en">Action from the Women's FIH Hockey Pro League as China take on USA at the Wujin Hockey Stadium in Changzhou.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615100000 +0700" stop="20190615110000 +0700" channel="BT Sport Europe">
+    <title lang="en">Men's Hockey: GB v Netherlands</title>
+    <desc lang="en">Great Britain entertain the Netherlands at the Lee Valley Hockey and Tennis Centre in the Men's FIH Hockey Pro League.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615110000 +0700" stop="20190615113000 +0700" channel="BT Sport Europe">
+    <title lang="en">Irish Rally Review</title>
+    <desc lang="en">All the best action from the Munster National Rally, part of the Irish Rally series.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615113000 +0700" stop="20190615133000 +0700" channel="BT Sport Europe">
+    <title lang="en">Live: FIH Hockey Series Finals</title>
+    <desc lang="en">Coverage of the 3rd place match from the Men's FIH Hockey Series Finals in Bhubaneswar, India.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615133000 +0700" stop="20190615134500 +0700" channel="BT Sport Europe">
+    <title lang="en">Premier League Tonight: Best Of</title>
+    <desc lang="en">A look back at all the best moments from Premier League Tonight during the 2018/19 season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615134500 +0700" stop="20190615154500 +0700" channel="BT Sport Europe">
+    <title lang="en">Live: FIH Hockey Series Finals</title>
+    <desc lang="en">Action from the final of the Men's FIH Hockey Series Finals in Bhubaneswar, India.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615154500 +0700" stop="20190615160000 +0700" channel="BT Sport Europe">
+    <title lang="en">BT Sport Score: Best Of</title>
+    <desc lang="en">Take a look back at all the best moments from BT Sport Score during a memorable 2018/19 season.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615160000 +0700" stop="20190615180000 +0700" channel="BT Sport Europe">
+    <title lang="en">AFL: Gold Coast Suns v St Kilda</title>
+    <desc lang="en">Gold Coast Suns take on St Kilda in the AFL. After a run of eight games without a win, the Suns will be desperate to give their fans something to cheer about heading into the bye.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615180000 +0700" stop="20190615200000 +0700" channel="BT Sport Europe">
+    <title lang="en">AFL: Carlton v Western Bulldogs</title>
+    <desc lang="en">Action from the Australian Football League as Carlton take on Western Bulldogs at Marvel Stadium. The Blues are looking for back-to-back wins after beating Brisbane last time out.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615200000 +0700" stop="20190615230000 +0700" channel="BT Sport Europe">
+    <title lang="en">Live MLB: Diamondbacks @ Nationals</title>
+    <desc lang="en">Major League Baseball action as the Washington Nationals meet the Arizona Diamondbacks at Nationals Park.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615000000 +0700" stop="20190615010000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">NHRA Drag Racing Highlights 2019</title>
+    <desc lang="en">Highlights from the Route 66 NHRA Nationals at the Route 66 Raceway in Elwood, Illinois.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615010000 +0700" stop="20190615040000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">Live CFL: Montreal @ Edmonton</title>
+    <desc lang="en">Action from the opening round of the Canadian Football League season as the Edmonton Eskimos and Montreal Alouettes meet at Commonwealth Stadium.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615040000 +0700" stop="20190615043000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">This weekly MLB highlights show showcases the most exciting fielding and offensive plays from the past week.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615043000 +0700" stop="20190615050000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615050000 +0700" stop="20190615053000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">Around the Horn</title>
+    <desc lang="en">Host Tony Reali and four reporters from across the country debate the hottest issues of the day with points awarded for good arguments.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615053000 +0700" stop="20190615060000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615060000 +0700" stop="20190615063000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">Pardon the Interruption</title>
+    <desc lang="en">Tony Kornheiser and Michael Wilbon face off on the day's hot sporting topics.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615063000 +0700" stop="20190615073000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">NHRA Drag Racing Highlights 2019</title>
+    <desc lang="en">Highlights from the Route 66 NHRA Nationals at the Route 66 Raceway in Elwood, Illinois.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615073000 +0700" stop="20190615083000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">Baseball Tonight</title>
+    <desc lang="en">Your one-stop shop for MLB news. Expert analysts look at the best plays, highlights and biggest stories surrounding Major League Baseball.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615083000 +0700" stop="20190615090000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">Around the Horn</title>
+    <desc lang="en">Host Tony Reali and four reporters from across the country debate the hottest issues of the day with points awarded for good arguments.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615090000 +0700" stop="20190615120000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">Live AFL: Carlton v W Bulldogs</title>
+    <desc lang="en">Action from the Australian Football League as Carlton take on Western Bulldogs at Marvel Stadium. The Blues are looking for back-to-back wins after beating Brisbane last time out.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615120000 +0700" stop="20190615123000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">Pardon the Interruption</title>
+    <desc lang="en">Tony Kornheiser and Michael Wilbon face off on the day's hot sporting topics.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615123000 +0700" stop="20190615150000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">CFL: Montreal @ Edmonton</title>
+    <desc lang="en">Action from the opening round of the Canadian Football League season as the Edmonton Eskimos and Montreal Alouettes meet at Commonwealth Stadium.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615150000 +0700" stop="20190615160000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">NHRA Drag Racing Highlights 2019</title>
+    <desc lang="en">Highlights from the Route 66 NHRA Nationals at the Route 66 Raceway in Elwood, Illinois.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615160000 +0700" stop="20190615170000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">Baseball Tonight</title>
+    <desc lang="en">Your one-stop shop for MLB news. Expert analysts look at the best plays, highlights and biggest stories surrounding Major League Baseball.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615170000 +0700" stop="20190615173000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615173000 +0700" stop="20190615180000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">Live: Baseball Tonight</title>
+    <desc lang="en">Your one-stop shop for MLB news. Expert analysts look at the best plays, highlights and biggest stories surrounding Major League Baseball.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615180000 +0700" stop="20190615210000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">Live: College World Series</title>
+    <desc lang="en">Texas Tech Red Raiders face Michigan Wolverines in Game one of the College World Series from TD Ameritrade Park Omaha. Michigan are in the CWS for the first time since 1984.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615210000 +0700" stop="20190615220000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">Live: Baseball Tonight</title>
+    <desc lang="en">Your one-stop shop for MLB news. Expert analysts look at the best plays, highlights and biggest stories surrounding Major League Baseball.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615220000 +0700" stop="20190615223000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">Around the Horn</title>
+    <desc lang="en">Host Tony Reali and four reporters from across the country debate the hottest issues of the day with points awarded for good arguments.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615223000 +0700" stop="20190615230000 +0700" channel="BT Sport\/\/ESPN">
+    <title lang="en">Pardon the Interruption</title>
+    <desc lang="en">Tony Kornheiser and Michael Wilbon face off on the day's hot sporting topics.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615000000 +0700" stop="20190615010000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">NHRA Drag Racing Highlights 2019</title>
+    <desc lang="en">Highlights from the Route 66 NHRA Nationals at the Route 66 Raceway in Elwood, Illinois.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615010000 +0700" stop="20190615040000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">Live CFL: Montreal @ Edmonton</title>
+    <desc lang="en">Action from the opening round of the Canadian Football League season as the Edmonton Eskimos and Montreal Alouettes meet at Commonwealth Stadium.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615040000 +0700" stop="20190615043000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">This weekly MLB highlights show showcases the most exciting fielding and offensive plays from the past week.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615043000 +0700" stop="20190615050000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615050000 +0700" stop="20190615053000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">Around the Horn</title>
+    <desc lang="en">Host Tony Reali and four reporters from across the country debate the hottest issues of the day with points awarded for good arguments.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615053000 +0700" stop="20190615060000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615060000 +0700" stop="20190615063000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">Pardon the Interruption</title>
+    <desc lang="en">Tony Kornheiser and Michael Wilbon face off on the day's hot sporting topics.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615063000 +0700" stop="20190615073000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">NHRA Drag Racing Highlights 2019</title>
+    <desc lang="en">Highlights from the Route 66 NHRA Nationals at the Route 66 Raceway in Elwood, Illinois.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615073000 +0700" stop="20190615083000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">Baseball Tonight</title>
+    <desc lang="en">Your one-stop shop for MLB news. Expert analysts look at the best plays, highlights and biggest stories surrounding Major League Baseball.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615083000 +0700" stop="20190615090000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">Around the Horn</title>
+    <desc lang="en">Host Tony Reali and four reporters from across the country debate the hottest issues of the day with points awarded for good arguments.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615090000 +0700" stop="20190615120000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">Live AFL: Carlton v W Bulldogs</title>
+    <desc lang="en">Action from the Australian Football League as Carlton take on Western Bulldogs at Marvel Stadium. The Blues are looking for back-to-back wins after beating Brisbane last time out.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615120000 +0700" stop="20190615123000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">Pardon the Interruption</title>
+    <desc lang="en">Tony Kornheiser and Michael Wilbon face off on the day's hot sporting topics.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615123000 +0700" stop="20190615150000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">CFL: Montreal @ Edmonton</title>
+    <desc lang="en">Action from the opening round of the Canadian Football League season as the Edmonton Eskimos and Montreal Alouettes meet at Commonwealth Stadium.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615150000 +0700" stop="20190615160000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">NHRA Drag Racing Highlights 2019</title>
+    <desc lang="en">Highlights from the Route 66 NHRA Nationals at the Route 66 Raceway in Elwood, Illinois.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615160000 +0700" stop="20190615170000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">Baseball Tonight</title>
+    <desc lang="en">Your one-stop shop for MLB news. Expert analysts look at the best plays, highlights and biggest stories surrounding Major League Baseball.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615170000 +0700" stop="20190615173000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615173000 +0700" stop="20190615180000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">Live: Baseball Tonight</title>
+    <desc lang="en">Your one-stop shop for MLB news. Expert analysts look at the best plays, highlights and biggest stories surrounding Major League Baseball.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615180000 +0700" stop="20190615210000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">Live: College World Series</title>
+    <desc lang="en">Texas Tech Red Raiders face Michigan Wolverines in Game one of the College World Series from TD Ameritrade Park Omaha. Michigan are in the CWS for the first time since 1984.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615210000 +0700" stop="20190615220000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">Live: Baseball Tonight</title>
+    <desc lang="en">Your one-stop shop for MLB news. Expert analysts look at the best plays, highlights and biggest stories surrounding Major League Baseball.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615220000 +0700" stop="20190615223000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">Around the Horn</title>
+    <desc lang="en">Host Tony Reali and four reporters from across the country debate the hottest issues of the day with points awarded for good arguments.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20190615223000 +0700" stop="20190615230000 +0700" channel="BTSpt\/\/ESPNHD">
+    <title lang="en">Pardon the Interruption</title>
+    <desc lang="en">Tony Kornheiser and Michael Wilbon face off on the day's hot sporting topics.(n)</desc>
+    <category lang="en">77</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
   </programme>
   <programme start="20190615010000 +0700" stop="20190615025000 +0700" channel="Astro SuperSport 2">
     <title lang="en">Brazil vs Honduras</title>
@@ -22961,12 +24956,6 @@
     <title lang="en">Malaga vs Deportivo</title>
     <category lang="en">LaLiga 123 Play-offs 2018/19</category>
   </programme>
-  <programme start="20190615091500 +0700" stop="20190615094500 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">Sự kiện và bình luận</title>
-  </programme>
-  <programme start="20190615094500 +0700" stop="20190615103000 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">Không gian văn hóa nghệ thuật</title>
-  </programme>
   <programme start="20190615103000 +0700" stop="20190615110000 +0700" channel="VTV1 HD-ClipTV">
     <title lang="vi">Giai điệu kết nối</title>
   </programme>
@@ -23069,10 +25058,6 @@
   <programme start="20190615231500 +0700" stop="20190615233000 +0700" channel="VTV1 HD-ClipTV">
     <title lang="vi">Học và làm theo Bác</title>
     <desc lang="vi">Chuyến xe nhân đạo.(n)</desc>
-  </programme>
-  <programme start="20190615091500 +0700" stop="20190615101500 +0700" channel="VTV2 HD-ClipTV">
-    <title lang="vi">Bây giờ, ở đây</title>
-    <desc lang="vi">Bây giờ và ở đây số 15.(n)</desc>
   </programme>
   <programme start="20190615101500 +0700" stop="20190615110000 +0700" channel="VTV2 HD-ClipTV">
     <title lang="vi">Cho ngày hoàn hảo</title>
@@ -23184,12 +25169,6 @@
     <title lang="vi">Khám phá thế giới</title>
     <desc lang="vi">Một năm trên nông trại - Tập 5.(n)</desc>
   </programme>
-  <programme start="20190615094500 +0700" stop="20190615100000 +0700" channel="VTV3 HD-ClipTV">
-    <title lang="vi">Cẩm nang vàng cho sức khỏe</title>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615104500 +0700" channel="VTV3 HD-ClipTV">
-    <title lang="vi">Muôn màu showbiz</title>
-  </programme>
   <programme start="20190615104500 +0700" stop="20190615110000 +0700" channel="VTV3 HD-ClipTV">
     <title lang="vi">Nét xanh trong kiến trúc nay</title>
   </programme>
@@ -23256,14 +25235,6 @@
   </programme>
   <programme start="20190615231000 +0700" stop="20190615234000 +0700" channel="VTV3 HD-ClipTV">
     <title lang="vi">Người phụ nữ hạnh phúc</title>
-  </programme>
-  <programme start="20190615093000 +0700" stop="20190615100000 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Thế giới tuổi thơ</title>
-    <desc lang="vi">Vầng trăng của em.(n)</desc>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615113000 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Sân khấu</title>
-    <desc lang="vi">Vở dân ca \"Nước mắt đứa con út\".(n)</desc>
   </programme>
   <programme start="20190615113000 +0700" stop="20190615120000 +0700" channel="VTV4 HD-ClipTV">
     <title lang="vi">Du lịch và Ẩm thực</title>
@@ -23361,14 +25332,6 @@
   <programme start="20190615230000 +0700" stop="20190615233000 +0700" channel="VTV4 HD-ClipTV">
     <title lang="vi">Bản tin tiếng Nga</title>
   </programme>
-  <programme start="20190615094500 +0700" stop="20190615100000 +0700" channel="VTV5 HD-ClipTV">
-    <title lang="vi">Việt Nam - Đất nước - Con người</title>
-    <desc lang="vi">Người Mường - Tập 2: Làng Mường.(n)</desc>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615103000 +0700" channel="VTV5 HD-ClipTV">
-    <title lang="vi">Chuyện… từ chính sách</title>
-    <desc lang="vi">Nâng cao hiệu quả sử dụng thuốc BVTV ở miền núi.(n)</desc>
-  </programme>
   <programme start="20190615103000 +0700" stop="20190615111500 +0700" channel="VTV5 HD-ClipTV">
     <title lang="vi">Phim truyện</title>
     <desc lang="vi">Ngày mai ánh sáng - Tập 17.(n)</desc>
@@ -23451,12 +25414,6 @@
     <title lang="vi">Khám phá thế giới</title>
     <desc lang="vi">Một ngày khám phá - Tập 9: Munich.(n)</desc>
   </programme>
-  <programme start="20190615091500 +0700" stop="20190615100000 +0700" channel="VTV6 HD-ClipTV">
-    <title lang="vi">Thời tiết</title>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615103000 +0700" channel="VTV6 HD-ClipTV">
-    <title lang="vi">Bản đồ ẩm thực Việt Nam</title>
-  </programme>
   <programme start="20190615103000 +0700" stop="20190615110000 +0700" channel="VTV6 HD-ClipTV">
     <title lang="vi">Tạp Chí Bundesliga</title>
   </programme>
@@ -23538,22 +25495,6 @@
   </programme>
   <programme start="20190615223000 +0700" stop="20190615230000 +0700" channel="VTV6 HD-ClipTV">
     <title lang="vi">Bản đồ ẩm thực Việt Nam</title>
-  </programme>
-  <programme start="20190615091500 +0700" stop="20190615093000 +0700" channel="VTV7 HD-ClipTV">
-    <title lang="vi">Tayo xe buýt bé nhỏ</title>
-    <desc lang="vi">Tập 22.(n)</desc>
-  </programme>
-  <programme start="20190615093000 +0700" stop="20190615094500 +0700" channel="VTV7 HD-ClipTV">
-    <title lang="vi">Sáng tạo 102</title>
-    <desc lang="vi">Số 3 - Công chúa.(n)</desc>
-  </programme>
-  <programme start="20190615094500 +0700" stop="20190615100000 +0700" channel="VTV7 HD-ClipTV">
-    <title lang="vi">Em yêu Việt Nam</title>
-    <desc lang="vi">Số 1 - Tớ và Mít.(n)</desc>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615101500 +0700" channel="VTV7 HD-ClipTV">
-    <title lang="vi">Lớn lên em muốn làm gì</title>
-    <desc lang="vi">Số 8 - Nghề Bóng đá.(n)</desc>
   </programme>
   <programme start="20190615101500 +0700" stop="20190615103000 +0700" channel="VTV7 HD-ClipTV">
     <title lang="vi">Học cùng con</title>
@@ -23697,16 +25638,6 @@
   <programme start="20190615230000 +0700" stop="20190615235000 +0700" channel="VTV7 HD-ClipTV">
     <title lang="vi">Thầy cô chúng ta đã thay đổi</title>
     <desc lang="vi">Số 8 - Đánh thức trái tim.(n)</desc>
-  </programme>
-  <programme start="20190615093000 +0700" stop="20190615100000 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Bạn muốn hẹn hò</title>
-    <desc lang="vi">Tập 23.(n)</desc>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615100500 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Tư vấn tiêu dùng</title>
-  </programme>
-  <programme start="20190615100500 +0700" stop="20190615105000 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Chuyến xe buýt kỳ thú</title>
   </programme>
   <programme start="20190615105000 +0700" stop="20190615110500 +0700" channel="VTV8 HD-ClipTV">
     <title lang="vi">Ký sự</title>
@@ -23866,17 +25797,6 @@
     <title lang="vi">Quyến rũ Việt Nam</title>
     <desc lang="vi">Biển ngọc xứ Thanh.(n)</desc>
   </programme>
-  <programme start="20190615092500 +0700" stop="20190615094500 +0700" channel="VTV9 HD-ClipTV">
-    <title lang="vi">Chuyện cũ dấu xưa</title>
-    <desc lang="vi">Một góc trời huyền ảo.(n)</desc>
-  </programme>
-  <programme start="20190615094500 +0700" stop="20190615100500 +0700" channel="VTV9 HD-ClipTV">
-    <title lang="vi">Xe và phong cách</title>
-  </programme>
-  <programme start="20190615100500 +0700" stop="20190615101500 +0700" channel="VTV9 HD-ClipTV">
-    <title lang="vi">Nhật ký hành trình</title>
-    <desc lang="vi">Số 49.(n)</desc>
-  </programme>
   <programme start="20190615101500 +0700" stop="20190615102000 +0700" channel="VTV9 HD-ClipTV">
     <title lang="vi">Đi để trở về</title>
     <desc lang="vi">Mang công nghệ Nhật về Việt Nam.(n)</desc>
@@ -23996,13 +25916,6 @@
   <programme start="20190615232500 +0700" stop="20190615234500 +0700" channel="VTV9 HD-ClipTV">
     <title lang="vi">Ca nhạc</title>
   </programme>
-  <programme start="20190615092100 +0700" stop="20190615093000 +0700" channel="K+1-HD">
-    <title lang="vi">Trailer k+ content 2019</title>
-  </programme>
-  <programme start="20190615093000 +0700" stop="20190615113300 +0700" channel="K+1-HD">
-    <title lang="vi">Dạ Quỷ</title>
-    <desc lang="vi">Rampant.(n)</desc>
-  </programme>
   <programme start="20190615113300 +0700" stop="20190615120000 +0700" channel="K+1-HD">
     <title lang="vi">Phim điện ảnh và những ngôi sao weekly films and stars, ep597</title>
   </programme>
@@ -24033,9 +25946,6 @@
   <programme start="20190615200200 +0700" stop="20190615220000 +0700" channel="K+1-HD">
     <title lang="vi">Tháng Năm Rực Rỡ</title>
     <desc lang="vi">Go-Go Sisters.(n)</desc>
-  </programme>
-  <programme start="20190615093200 +0700" stop="20190615101800 +0700" channel="K+NS-HD">
-    <title lang="vi">Đấu Phá Thương Khung (Tập 21)</title>
   </programme>
   <programme start="20190615101800 +0700" stop="20190615110600 +0700" channel="K+NS-HD">
     <title lang="vi">Châu phi hoang dã africa's wild horizons s2, ep02</title>
@@ -24078,12 +25988,6 @@
   </programme>
   <programme start="20190615214500 +0700" stop="20190615231500 +0700" channel="K+NS-HD">
     <title lang="vi">Truy Đuổi Tới Cùng</title>
-  </programme>
-  <programme start="20190615091600 +0700" stop="20190615100400 +0700" channel="K+PC-HD">
-    <title lang="vi">Tạp Chí UEFA Champions League</title>
-  </programme>
-  <programme start="20190615100400 +0700" stop="20190615105800 +0700" channel="K+PC-HD">
-    <title lang="vi">Vòng 5 Giải Ngoại Hạng Anh 2018 19: Tottenham – Liverpool</title>
   </programme>
   <programme start="20190615105800 +0700" stop="20190615115100 +0700" channel="K+PC-HD">
     <title lang="vi">Tottenham – liverpool (h2) epl 1819 vòng 5</title>
@@ -24146,15 +26050,6 @@
   <programme start="20190615220100 +0700" stop="20190615233300 +0700" channel="K+PC-HD">
     <title lang="vi">Golf PGA Tour Wells Fargo Championship 2019</title>
     <desc lang="vi">ngày 2.(n)</desc>
-  </programme>
-  <programme start="20190615092600 +0700" stop="20190615094600 +0700" channel="K+PM-HD">
-    <title lang="vi">Bình luận copa america matchday talkshow</title>
-  </programme>
-  <programme start="20190615094600 +0700" stop="20190615100000 +0700" channel="K+PM-HD">
-    <title lang="vi">Thế giới bàn thắng goal stream</title>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615103100 +0700" channel="K+PM-HD">
-    <title lang="vi">Thế giới ngoại hạng anh 1819: michail antonio – chọn con đường đúng epl 1819 world no.40</title>
   </programme>
   <programme start="20190615103100 +0700" stop="20190615110000 +0700" channel="K+PM-HD">
     <title lang="vi">Cột mốc 100: peter schmeichel pl 100 s1 no.02: peter schmeichel</title>
@@ -24219,10 +26114,6 @@
   <programme start="20190615225800 +0700" stop="20190615231900 +0700" channel="K+PM-HD">
     <title lang="vi">Lễ Khai Mạc Copa America 2019</title>
   </programme>
-  <programme start="20190615091500 +0700" stop="20190615112000 +0700" channel="Fox Movies HD-ClipTV">
-    <title lang="vi">Deadpool 2</title>
-    <desc lang="vi">Deadpool 2.(n)</desc>
-  </programme>
   <programme start="20190615112000 +0700" stop="20190615134000 +0700" channel="Fox Movies HD-ClipTV">
     <title lang="vi">Nhiệm Vụ Bất Khả Thi: Chiến Dịch Bóng Ma</title>
     <desc lang="vi">Mission: Impossible - Ghost Protocol.(n)</desc>
@@ -24274,10 +26165,6 @@
   <programme start="20190615203500 +0700" stop="20190615221500 +0700" channel="Fox Family Movies HD-ClipTV">
     <title lang="vi">Tiến Lên Phía Trước</title>
     <desc lang="vi">Raising The Bar.(n)</desc>
-  </programme>
-  <programme start="20190615094500 +0700" stop="20190615104000 +0700" channel="Fox Life HD-ClipTV">
-    <title lang="vi">Vua đầu Bếp Nhí Mỹ (mùa 7 - Tập 16)</title>
-    <desc lang="vi">Masterchef Junior Us S7 Ep16.(n)</desc>
   </programme>
   <programme start="20190615104000 +0700" stop="20190615113500 +0700" channel="Fox Life HD-ClipTV">
     <title lang="vi">Vua Đầu Bếp Mỹ (Mùa 10 - Tập 2)</title>
@@ -24346,10 +26233,6 @@
   <programme start="20190615225500 +0700" stop="20190615235000 +0700" channel="Fox Life HD-ClipTV">
     <title lang="vi">Bác Sĩ Nội Trú (Phần 2 - Tập 13)</title>
     <desc lang="vi">The Resident S2 Ep13.(n)</desc>
-  </programme>
-  <programme start="20190615095000 +0700" stop="20190615104000 +0700" channel="Fox HD-ClipTV">
-    <title lang="vi">Thiên Bẩm (Phần 2 - Tập 15)</title>
-    <desc lang="vi">The Gifted.(n)</desc>
   </programme>
   <programme start="20190615104000 +0700" stop="20190615113000 +0700" channel="Fox HD-ClipTV">
     <title lang="vi">Đội Đặc Nhiệm New Orleans (Phần 5 - Tập 17)</title>
@@ -24440,14 +26323,6 @@
   </programme>
   <programme start="20190615213000 +0700" stop="20190615224000 +0700" channel="KBS World-ClipTV">
     <title lang="vi">Perfume</title>
-  </programme>
-  <programme start="20190615093000 +0700" stop="20190615100000 +0700" channel="Baby TV HD-ClipTV">
-    <title lang="vi">Imagination Playground</title>
-    <desc lang="vi">Tucky Tales.(n)</desc>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615103000 +0700" channel="Baby TV HD-ClipTV">
-    <title lang="vi">Exploring With Mice Builders</title>
-    <desc lang="vi">Tiny Bunch.(n)</desc>
   </programme>
   <programme start="20190615103000 +0700" stop="20190615110000 +0700" channel="Baby TV HD-ClipTV">
     <title lang="vi">What A Wonderful Day And Other Stories</title>
@@ -24553,10 +26428,6 @@
     <title lang="vi">Dreamy Nights</title>
     <desc lang="vi">Magic Stars.(n)</desc>
   </programme>
-  <programme start="20190615093500 +0700" stop="20190615102500 +0700" channel="AXN-ClipTV">
-    <title lang="vi">Biệt đội Tinh Nhuệ L.a. (phần 1)</title>
-    <desc lang="vi">Tập 7.(n)</desc>
-  </programme>
   <programme start="20190615102500 +0700" stop="20190615112000 +0700" channel="AXN-ClipTV">
     <title lang="vi">Cuộc đua Kỳ Thú (phần 31)</title>
     <desc lang="vi">Tập 9.(n)</desc>
@@ -24598,12 +26469,6 @@
   <programme start="20190615220000 +0700" stop="20190615234500 +0700" channel="AXN-ClipTV">
     <title lang="vi">Tìm Kiếm Tài Năng Nước Mỹ (Phần 14)</title>
   </programme>
-  <programme start="20190615092000 +0700" stop="20190615100500 +0700" channel="WARNER TV">
-    <title lang="vi">Cô Gái Siêu Nhân (Phần 4 - Tập 3)</title>
-  </programme>
-  <programme start="20190615100500 +0700" stop="20190615105500 +0700" channel="WARNER TV">
-    <title lang="vi">Tia Chớp (Phần 5 - Tập 8)</title>
-  </programme>
   <programme start="20190615105500 +0700" stop="20190615114500 +0700" channel="WARNER TV">
     <title lang="vi">Tốp 20 Vui Nhộn Nhất (Phần 2 - Tập 18)</title>
   </programme>
@@ -24627,14 +26492,6 @@
   </programme>
   <programme start="20190615174500 +0700" stop="20190615210000 +0700" channel="WARNER TV">
     <title lang="vi">Chúa Tể Những Chiếc Nhẫn: Hiệp Hội Nhẫn</title>
-  </programme>
-  <programme start="20190615093000 +0700" stop="20190615100000 +0700" channel="CARTOON NETWORK">
-    <title lang="vi">Ben 10</title>
-    <desc lang="vi">Tập 151\/Tập 152.(n)</desc>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615103000 +0700" channel="CARTOON NETWORK">
-    <title lang="vi">Ben 10</title>
-    <desc lang="vi">Tập 153\/Tập 154.(n)</desc>
   </programme>
   <programme start="20190615103000 +0700" stop="20190615110000 +0700" channel="CARTOON NETWORK">
     <title lang="vi">Ben 10</title>
@@ -24724,12 +26581,6 @@
     <title lang="vi">Ben 10</title>
     <desc lang="vi">Tập 160\/Tập 161\/Tập 162\/Tập 163\/Tập 164.(n)</desc>
   </programme>
-  <programme start="20190615093000 +0700" stop="20190615100000 +0700" channel="BLOOMBERG">
-    <title lang="vi">High Flyers</title>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615110000 +0700" channel="BLOOMBERG">
-    <title lang="vi">Bloomberg Best</title>
-  </programme>
   <programme start="20190615110000 +0700" stop="20190615120000 +0700" channel="BLOOMBERG">
     <title lang="vi">Bloomberg Technology</title>
   </programme>
@@ -24781,9 +26632,6 @@
   <programme start="20190615223000 +0700" stop="20190615230000 +0700" channel="BLOOMBERG">
     <title lang="vi">Bloomberg Etf Iq</title>
   </programme>
-  <programme start="20190615091500 +0700" stop="20190615110500 +0700" channel="CINEMA WORLD">
-    <title lang="vi">Volubilis</title>
-  </programme>
   <programme start="20190615110500 +0700" stop="20190615125500 +0700" channel="CINEMA WORLD">
     <title lang="vi">Tôi Là Tempesta</title>
   </programme>
@@ -24804,9 +26652,6 @@
   </programme>
   <programme start="20190615210000 +0700" stop="20190615225000 +0700" channel="CINEMA WORLD">
     <title lang="vi">Người Cha Và Người Ngoại Quốc</title>
-  </programme>
-  <programme start="20190615094000 +0700" stop="20190615101000 +0700" channel="CNN-ClipTV">
-    <title lang="vi">Cuomo Prime Time</title>
   </programme>
   <programme start="20190615101000 +0700" stop="20190615104000 +0700" channel="CNN-ClipTV">
     <title lang="vi">Cnn Tonight With Don Lemon</title>
@@ -24888,21 +26733,6 @@
   </programme>
   <programme start="20190615231000 +0700" stop="20190615234000 +0700" channel="CNN-ClipTV">
     <title lang="vi">Cnn Newsroom marketplace Africa</title>
-  </programme>
-  <programme start="20190615091500 +0700" stop="20190615092100 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">French Connections</title>
-  </programme>
-  <programme start="20190615092100 +0700" stop="20190615093000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">Sports</title>
-  </programme>
-  <programme start="20190615093000 +0700" stop="20190615094500 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">News</title>
-  </programme>
-  <programme start="20190615094500 +0700" stop="20190615100000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">People And Profit</title>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615101500 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">News</title>
   </programme>
   <programme start="20190615101500 +0700" stop="20190615102100 +0700" channel="France 24 English-ClipTV">
     <title lang="vi">The Observers</title>
@@ -25078,21 +26908,6 @@
   <programme start="20190615233000 +0700" stop="20190615234000 +0700" channel="France 24 English-ClipTV">
     <title lang="vi">News</title>
   </programme>
-  <programme start="20190615091500 +0700" stop="20190615092100 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Sports</title>
-  </programme>
-  <programme start="20190615092100 +0700" stop="20190615093000 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Vous ˆtes Ici</title>
-  </programme>
-  <programme start="20190615093000 +0700" stop="20190615094500 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal</title>
-  </programme>
-  <programme start="20190615094500 +0700" stop="20190615100000 +0700" channel="France 24-ClipTV">
-    <title lang="vi">· L'affiche</title>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615101500 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal</title>
-  </programme>
   <programme start="20190615101500 +0700" stop="20190615102100 +0700" channel="France 24-ClipTV">
     <title lang="vi">Les Observateurs</title>
   </programme>
@@ -25264,12 +27079,6 @@
   <programme start="20190615233000 +0700" stop="20190615234500 +0700" channel="France 24-ClipTV">
     <title lang="vi">Le Journal</title>
   </programme>
-  <programme start="20190615092000 +0700" stop="20190615094000 +0700" channel="BBC WORLD NEWS">
-    <title lang="vi">World Features</title>
-  </programme>
-  <programme start="20190615094000 +0700" stop="20190615101000 +0700" channel="BBC WORLD NEWS">
-    <title lang="vi">Follow The Food</title>
-  </programme>
   <programme start="20190615101000 +0700" stop="20190615104000 +0700" channel="BBC WORLD NEWS">
     <title lang="vi">Bbc World News</title>
   </programme>
@@ -25366,10 +27175,6 @@
   <programme start="20190615231000 +0700" stop="20190615234000 +0700" channel="BBC WORLD NEWS">
     <title lang="vi">Bbc World News</title>
   </programme>
-  <programme start="20190615093500 +0700" stop="20190615103000 +0700" channel="BBC EARTH">
-    <title lang="vi">Hành Tinh Trái đất Phần 2</title>
-    <desc lang="vi">Tập 2.(n)</desc>
-  </programme>
   <programme start="20190615103000 +0700" stop="20190615112500 +0700" channel="BBC EARTH">
     <title lang="vi">Mèo Lớn Quanh Nhà</title>
     <desc lang="vi">Tập 3.(n)</desc>
@@ -25420,14 +27225,6 @@
   </programme>
   <programme start="20190615225000 +0700" stop="20190615234500 +0700" channel="BBC EARTH">
     <title lang="vi">Sự Thật Về Thịt</title>
-  </programme>
-  <programme start="20190615093000 +0700" stop="20190615100000 +0700" channel="Boomerang-ClipTV">
-    <title lang="vi">Taffy</title>
-    <desc lang="vi">Tập 13\/Tập 14\/Tập 15.(n)</desc>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615103000 +0700" channel="Boomerang-ClipTV">
-    <title lang="vi">Mike Dũng Mãnh</title>
-    <desc lang="vi">Tập 11\/Tập 6\/Tập 9\/Tập 4.(n)</desc>
   </programme>
   <programme start="20190615103000 +0700" stop="20190615110000 +0700" channel="Boomerang-ClipTV">
     <title lang="vi">Chú Ngựa Nhỏ Của Tôi: Tình Bạn Nhiệm Màu</title>
@@ -25509,12 +27306,6 @@
     <title lang="vi">Bình Tĩnh, Scooby-doo</title>
     <desc lang="vi">Tập 21.(n)</desc>
   </programme>
-  <programme start="20190615093000 +0700" stop="20190615100000 +0700" channel="ABC AUSTRALIA">
-    <title lang="vi">Landline</title>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615103000 +0700" channel="ABC AUSTRALIA">
-    <title lang="vi">Close Of Business</title>
-  </programme>
   <programme start="20190615103000 +0700" stop="20190615133000 +0700" channel="ABC AUSTRALIA">
     <title lang="vi">Afl Premiership Season</title>
   </programme>
@@ -25544,9 +27335,6 @@
   </programme>
   <programme start="20190615232000 +0700" stop="20190615235000 +0700" channel="ABC AUSTRALIA">
     <title lang="vi">The Drum Weekly</title>
-  </programme>
-  <programme start="20190615095000 +0700" stop="20190615105000 +0700" channel="BBC LIFESTYLE">
-    <title lang="vi">The Great British Bake Off</title>
   </programme>
   <programme start="20190615105000 +0700" stop="20190615112000 +0700" channel="BBC LIFESTYLE">
     <title lang="vi">Mary Berry Everyday</title>
@@ -25601,15 +27389,6 @@
   </programme>
   <programme start="20190615225500 +0700" stop="20190615234500 +0700" channel="BBC LIFESTYLE">
     <title lang="vi">James Martin's American Adventure</title>
-  </programme>
-  <programme start="20190615091500 +0700" stop="20190615093000 +0700" channel="DW-ClipTV">
-    <title lang="vi">World Stories</title>
-  </programme>
-  <programme start="20190615093000 +0700" stop="20190615100000 +0700" channel="DW-ClipTV">
-    <title lang="vi">Euromaxx</title>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615101500 +0700" channel="DW-ClipTV">
-    <title lang="vi">Dw News</title>
   </programme>
   <programme start="20190615101500 +0700" stop="20190615103000 +0700" channel="DW-ClipTV">
     <title lang="vi">Shift</title>
@@ -25743,9 +27522,6 @@
   <programme start="20190615223000 +0700" stop="20190615233000 +0700" channel="FOX SPORTS-ClipTV">
     <title lang="vi">Roland Garros 2019: Best Match Of Day 14 Mens Doubles Final</title>
   </programme>
-  <programme start="20190615093000 +0700" stop="20190615113000 +0700" channel="FOX SPORTS 2-ClipTV">
-    <title lang="vi">US Open Championship 2019 H l: Day 2</title>
-  </programme>
   <programme start="20190615113000 +0700" stop="20190615120000 +0700" channel="FOX SPORTS 2-ClipTV">
     <title lang="vi">Cape Epic Mtb 2019 Womens Race Highlights</title>
   </programme>
@@ -25775,9 +27551,6 @@
   </programme>
   <programme start="20190615220000 +0700" stop="20190615230000 +0700" channel="FOX SPORTS 2-ClipTV">
     <title lang="vi">US Open Championship 2019 Preview: Day 3</title>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615110000 +0700" channel="FOX SPORTS 3-ClipTV">
-    <title lang="vi">Supercars Championship 2019 Highlights : Winton Supersprint</title>
   </programme>
   <programme start="20190615110000 +0700" stop="20190615120000 +0700" channel="FOX SPORTS 3-ClipTV">
     <title lang="vi">Icc Cricket World Cup 2019 Highlights - England V West Indies</title>
@@ -25815,12 +27588,6 @@
   <programme start="20190615200000 +0700" stop="20190615210000 +0700" channel="FOX SPORTS 3-ClipTV">
     <title lang="vi">Icc Cricket World Cup 2019 Highlights - England V West Indies</title>
   </programme>
-  <programme start="20190615093000 +0700" stop="20190615100000 +0700" channel="Channel V HD-ClipTV">
-    <title lang="vi">[v] Top 5</title>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615103000 +0700" channel="Channel V HD-ClipTV">
-    <title lang="vi">[v] Top 5</title>
-  </programme>
   <programme start="20190615103000 +0700" stop="20190615113000 +0700" channel="Channel V HD-ClipTV">
     <title lang="vi">[v]s</title>
   </programme>
@@ -25853,14 +27620,6 @@
   </programme>
   <programme start="20190615220000 +0700" stop="20190615230000 +0700" channel="Channel V HD-ClipTV">
     <title lang="vi">[v] Kpop Explosion</title>
-  </programme>
-  <programme start="20190615093000 +0700" stop="20190615100000 +0700" channel="National Geographic HD-ClipTV">
-    <title lang="vi">Science Of Stupid E4</title>
-    <desc lang="vi">Ep 4.(n)</desc>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615110000 +0700" channel="National Geographic HD-ClipTV">
-    <title lang="vi">Air Crash Investigation E9</title>
-    <desc lang="vi">Football Tragedy.(n)</desc>
   </programme>
   <programme start="20190615110000 +0700" stop="20190615120000 +0700" channel="National Geographic HD-ClipTV">
     <title lang="vi">Airport Security: Madrid E5</title>
@@ -25914,10 +27673,6 @@
     <title lang="vi">Inside Incredible Machines E4</title>
     <desc lang="vi">Oil Rig.(n)</desc>
   </programme>
-  <programme start="20190615093000 +0700" stop="20190615103000 +0700" channel="Nat Geo Wild HD-ClipTV">
-    <title lang="vi">Wild Thailand (2015) Ep1</title>
-    <desc lang="vi">Wild Thailand (2015).(n)</desc>
-  </programme>
   <programme start="20190615103000 +0700" stop="20190615113000 +0700" channel="Nat Geo Wild HD-ClipTV">
     <title lang="vi">World's Weirdest S3 Ep2</title>
     <desc lang="vi">Oddities.(n)</desc>
@@ -25969,10 +27724,6 @@
   <programme start="20190615223000 +0700" stop="20190615233000 +0700" channel="Nat Geo Wild HD-ClipTV">
     <title lang="vi">Monster Fish S5 Ep2</title>
     <desc lang="vi">World's Biggest Sting Ray.(n)</desc>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615105500 +0700" channel="Animal Planet-ClipTV">
-    <title lang="vi">Luật Texas (phần 4)</title>
-    <desc lang="vi">Tập 4.(n)</desc>
   </programme>
   <programme start="20190615105500 +0700" stop="20190615112000 +0700" channel="Animal Planet-ClipTV">
     <title lang="vi">Tại Sao động Vật Lại Thế</title>
@@ -26031,12 +27782,6 @@
   <programme start="20190615225000 +0700" stop="20190615234500 +0700" channel="Animal Planet-ClipTV">
     <title lang="vi">Chuồng động Vật (phần 2)</title>
     <desc lang="vi">Tập 1.(n)</desc>
-  </programme>
-  <programme start="20190615093000 +0700" stop="20190615095500 +0700" channel="Travel - Living (TLC)">
-    <title lang="vi">Hayden Quinn: South Africa (s1)</title>
-  </programme>
-  <programme start="20190615095500 +0700" stop="20190615104500 +0700" channel="Travel - Living (TLC)">
-    <title lang="vi">Project Runway (s17)</title>
   </programme>
   <programme start="20190615104500 +0700" stop="20190615111000 +0700" channel="Travel - Living (TLC)">
     <title lang="vi">Secret Eats With Adam Richman (s1)</title>
@@ -26104,10 +27849,6 @@
   <programme start="20190615225000 +0700" stop="20190615234500 +0700" channel="Travel - Living (TLC)">
     <title lang="vi">The Dating Agency (s1)</title>
   </programme>
-  <programme start="20190615092000 +0700" stop="20190615101000 +0700" channel="Discovery Asia-ClipTV">
-    <title lang="vi">đường đến Trung Hoa</title>
-    <desc lang="vi">Tập 3.(n)</desc>
-  </programme>
   <programme start="20190615101000 +0700" stop="20190615110000 +0700" channel="Discovery Asia-ClipTV">
     <title lang="vi">Châu á: Những Cuộc đời Bí ẩn, Những Nơi Chốn ẩn Mình</title>
     <desc lang="vi">Tập 4.(n)</desc>
@@ -26171,10 +27912,6 @@
   <programme start="20190615224000 +0700" stop="20190615233300 +0700" channel="Discovery Asia-ClipTV">
     <title lang="vi">Vòng Quanh Thế Giới (Phần 17 - Tập 9)</title>
   </programme>
-  <programme start="20190615095500 +0700" stop="20190615104500 +0700" channel="Discovery Channel-ClipTV">
-    <title lang="vi">Dị Vật Xâm Nhập Cơ Thể</title>
-    <desc lang="vi">Tập 3.(n)</desc>
-  </programme>
   <programme start="20190615104500 +0700" stop="20190615113500 +0700" channel="Discovery Channel-ClipTV">
     <title lang="vi">Huyền Thoại Kho Vàng Do Cá Sấu Canh Giữ (Tập 2)</title>
   </programme>
@@ -26234,14 +27971,6 @@
   <programme start="20190615225000 +0700" stop="20190615234500 +0700" channel="Discovery Channel-ClipTV">
     <title lang="vi">Con Tàu Lớn Nhất Thế Giới</title>
     <desc lang="vi">Tập 5.(n)</desc>
-  </programme>
-  <programme start="20190615093000 +0700" stop="20190615100000 +0700" channel="Boomerang">
-    <title lang="vi">Taffy</title>
-    <desc lang="vi">Tập 13\/Tập 14\/Tập 15.(n)</desc>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615103000 +0700" channel="Boomerang">
-    <title lang="vi">Mike Dũng Mãnh</title>
-    <desc lang="vi">Tập 11\/Tập 6\/Tập 9\/Tập 4.(n)</desc>
   </programme>
   <programme start="20190615103000 +0700" stop="20190615110000 +0700" channel="Boomerang">
     <title lang="vi">Chú Ngựa Nhỏ Của Tôi: Tình Bạn Nhiệm Màu</title>
@@ -26322,18 +28051,6 @@
   <programme start="20190615230000 +0700" stop="20190615233000 +0700" channel="Boomerang">
     <title lang="vi">Bình Tĩnh, Scooby-doo</title>
     <desc lang="vi">Tập 21.(n)</desc>
-  </programme>
-  <programme start="20190615091500 +0700" stop="20190615093000 +0700" channel="VTC2-ClipTV">
-    <title lang="vi">Nhịp sống trẻ</title>
-    <desc lang="vi">Số 16.(n)</desc>
-  </programme>
-  <programme start="20190615093000 +0700" stop="20190615100000 +0700" channel="VTC2-ClipTV">
-    <title lang="vi">Giờ hướng nghiệp</title>
-    <desc lang="vi">Số 29: \"Nghề tư vấn dịch vụ du lịch\".(n)</desc>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615103000 +0700" channel="VTC2-ClipTV">
-    <title lang="vi">Nhật ký cuộc sống</title>
-    <desc lang="vi">Ngày 14.06.2019.(n)</desc>
   </programme>
   <programme start="20190615103000 +0700" stop="20190615104500 +0700" channel="VTC2-ClipTV">
     <title lang="vi">Tôi khác mỗi ngày</title>
@@ -26456,14 +28173,6 @@
     <title lang="vi">Giờ công nghệ</title>
     <desc lang="vi">Chuyến tàu vòng quanh nước Anh - Phần 5.(n)</desc>
   </programme>
-  <programme start="20190615095000 +0700" stop="20190615101000 +0700" channel="VTC14-ClipTV">
-    <title lang="vi">114</title>
-    <desc lang="vi">114.(n)</desc>
-  </programme>
-  <programme start="20190615101000 +0700" stop="20190615104500 +0700" channel="VTC14-ClipTV">
-    <title lang="vi">Sống chung với lũ</title>
-    <desc lang="vi">Sống chung với lũ.(n)</desc>
-  </programme>
   <programme start="20190615104500 +0700" stop="20190615110000 +0700" channel="VTC14-ClipTV">
     <title lang="vi">Ngon và lành</title>
     <desc lang="vi">Ngon và lành.(n)</desc>
@@ -26580,10 +28289,6 @@
     <title lang="vi">Nhật Ký cuộc sống</title>
     <desc lang="vi">Nhật Ký cuộc sống.(n)</desc>
   </programme>
-  <programme start="20190615092000 +0700" stop="20190615102500 +0700" channel="VTC16-ClipTV">
-    <title lang="vi">Hãy hỏi để biết</title>
-    <desc lang="vi">Hãy hỏi để biết.(n)</desc>
-  </programme>
   <programme start="20190615102500 +0700" stop="20190615110000 +0700" channel="VTC16-ClipTV">
     <title lang="vi">Chuyện của làng</title>
     <desc lang="vi">Cả làng loay hoay trồng - chặt cây vải.(n)</desc>
@@ -26696,14 +28401,6 @@
     <title lang="vi">Thời sự Nông thôn</title>
     <desc lang="vi">Thời sự Nông thôn.(n)</desc>
   </programme>
-  <programme start="20190615095000 +0700" stop="20190615095500 +0700" channel="HTV2-ClipTV">
-    <title lang="vi">Thông Tin Tổng Hợp Htv2</title>
-    <desc lang="vi">Tự giới thiệu VN.(n)</desc>
-  </programme>
-  <programme start="20190615095500 +0700" stop="20190615102000 +0700" channel="HTV2-ClipTV">
-    <title lang="vi">Sao Và Sự Kiện (Tập 361)</title>
-    <desc lang="vi">Giải trí VN.(n)</desc>
-  </programme>
   <programme start="20190615102000 +0700" stop="20190615105000 +0700" channel="HTV2-ClipTV">
     <title lang="vi">Sợi Mì Và Những Huyền Thoại (Tập 11)</title>
     <desc lang="vi">Giải trí.(n)</desc>
@@ -26796,13 +28493,6 @@
     <title lang="vi">Bản Tin Buổi Tối</title>
     <desc lang="vi">Thời sự VN.(n)</desc>
   </programme>
-  <programme start="20190615093000 +0700" stop="20190615095000 +0700" channel="HTV4-ClipTV">
-    <title lang="vi">Công dân pháp luật Học Bác hôm nay</title>
-    <desc lang="vi">PL T3.(n)</desc>
-  </programme>
-  <programme start="20190615095000 +0700" stop="20190615101000 +0700" channel="HTV4-ClipTV">
-    <title lang="vi">Nhà chung</title>
-  </programme>
   <programme start="20190615101000 +0700" stop="20190615104000 +0700" channel="HTV4-ClipTV">
     <title lang="vi">Những ngôi sao thầm lặng</title>
   </programme>
@@ -26872,12 +28562,6 @@
   </programme>
   <programme start="20190615220000 +0700" stop="20190615223000 +0700" channel="HTV4-ClipTV">
     <title lang="vi">Bản tin 60s</title>
-  </programme>
-  <programme start="20190615091500 +0700" stop="20190615094500 +0700" channel="HTV7 HD-ClipTV">
-    <title lang="vi">Thám Tử Tình Yêu</title>
-  </programme>
-  <programme start="20190615094500 +0700" stop="20190615101500 +0700" channel="HTV7 HD-ClipTV">
-    <title lang="vi">Dinh dưỡng diệu kỳ</title>
   </programme>
   <programme start="20190615101500 +0700" stop="20190615110000 +0700" channel="HTV7 HD-ClipTV">
     <title lang="vi">Bước ra thế giới</title>
@@ -27050,9 +28734,6 @@
   <programme start="20190615230500 +0700" stop="20190615233500 +0700" channel="HTV9 HD-ClipTV">
     <title lang="vi">Siêu thị cười :Bữa ăn của bé</title>
   </programme>
-  <programme start="20190615100000 +0700" stop="20190615103000 +0700" channel="HTV THE THAO">
-    <title lang="vi">Tạp chí võ thuật</title>
-  </programme>
   <programme start="20190615103000 +0700" stop="20190615120000 +0700" channel="HTV THE THAO">
     <title lang="vi">Câu lạc bộ thể thao</title>
     <desc lang="vi">Tường thuật Giải Bida World Cup 2019.(n)</desc>
@@ -27099,12 +28780,6 @@
   <programme start="20190615223000 +0700" stop="20190615233000 +0700" channel="HTV THE THAO">
     <title lang="vi">Câu lạc bộ thể thao</title>
     <desc lang="vi">Tường thuật Giải cầu lông Úc.(n)</desc>
-  </programme>
-  <programme start="20190615093000 +0700" stop="20190615100000 +0700" channel="HTVC DU LICH CUOC SONG">
-    <title lang="vi">Huyện Thuận Nam, Tỉnh Ninh Thuận - 02</title>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615103000 +0700" channel="HTVC DU LICH CUOC SONG">
-    <title lang="vi">Wala Wala</title>
   </programme>
   <programme start="20190615103000 +0700" stop="20190615110000 +0700" channel="HTVC DU LICH CUOC SONG">
     <title lang="vi">Lâu đài Trakai Island, Lithuania - Bệnh tim mạch</title>
@@ -27183,10 +28858,6 @@
     <title lang="vi">Tập 3</title>
     <desc lang="vi">Ngôi nhà tuổi thơ.(n)</desc>
   </programme>
-  <programme start="20190615100000 +0700" stop="20190615103000 +0700" channel="HTVC PHU NU HD">
-    <title lang="vi">Giải trí</title>
-    <desc lang="vi">Bác sĩ Enter.(n)</desc>
-  </programme>
   <programme start="20190615103000 +0700" stop="20190615110000 +0700" channel="HTVC PHU NU HD">
     <title lang="vi">Giải trí</title>
     <desc lang="vi">Hành trình kết nối trái tim.(n)</desc>
@@ -27239,9 +28910,6 @@
   <programme start="20190615220000 +0700" stop="20190615230000 +0700" channel="HTVC PHU NU HD">
     <title lang="vi">Giải trí</title>
     <desc lang="vi">Người bí ẩn.(n)</desc>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615103000 +0700" channel="HTVC GIA DINH">
-    <title lang="vi">Ca nhạc thiếu nhi</title>
   </programme>
   <programme start="20190615103000 +0700" stop="20190615110000 +0700" channel="HTVC GIA DINH">
     <title lang="vi">Chuyên đề : Nào ta cùng vui</title>
@@ -27300,9 +28968,6 @@
   <programme start="20190615232000 +0700" stop="20190615234000 +0700" channel="HTVC GIA DINH">
     <title lang="vi">Phút giây cảnh giác</title>
   </programme>
-  <programme start="20190615100000 +0700" stop="20190615120000 +0700" channel="PARAMOUNT CHANNEL VIETNAM">
-    <title lang="vi">Cuộc Đi Săn</title>
-  </programme>
   <programme start="20190615120000 +0700" stop="20190615140000 +0700" channel="PARAMOUNT CHANNEL VIETNAM">
     <title lang="vi">Những Kẻ Buôn Người</title>
   </programme>
@@ -27318,10 +28983,6 @@
   <programme start="20190615200100 +0700" stop="20190615220100 +0700" channel="PARAMOUNT CHANNEL VIETNAM">
     <title lang="vi">Biệt Đội Bắt Ma</title>
     <desc lang="vi">Phim Hài lãng mạn  Hàn Quốc.(n)</desc>
-  </programme>
-  <programme start="20190615094500 +0700" stop="20190615104500 +0700" channel="HTVC THUAN VIET HD">
-    <title lang="vi">Phim truyện Việt Nam</title>
-    <desc lang="vi">Hạnh phúc bất tận - Tập 9.(n)</desc>
   </programme>
   <programme start="20190615104500 +0700" stop="20190615114500 +0700" channel="HTVC THUAN VIET HD">
     <title lang="vi">Canh Bạc Cuộc Đời</title>
@@ -27403,10 +29064,6 @@
   <programme start="20190615211500 +0700" stop="20190615220000 +0700" channel="HTVC THUAN VIET">
     <title lang="vi">Ngọn Cỏ Gió Đùa (Tập 26)</title>
   </programme>
-  <programme start="20190615100000 +0700" stop="20190615103000 +0700" channel="TODAYTV">
-    <title lang="vi">Thế giới điện ảnh</title>
-    <desc lang="vi">Số 370.(n)</desc>
-  </programme>
   <programme start="20190615103000 +0700" stop="20190615110000 +0700" channel="TODAYTV">
     <title lang="vi">Just for laugh 2018</title>
     <desc lang="vi">Số 48.(n)</desc>
@@ -27459,21 +29116,6 @@
   <programme start="20190615220000 +0700" stop="20190615230000 +0700" channel="TODAYTV">
     <title lang="vi">Đôi Lứa Xứng Đôi (Tập 30)</title>
   </programme>
-  <programme start="20190615091500 +0700" stop="20190615094000 +0700" channel="ANTV">
-    <title lang="vi">Hành trình phá án</title>
-    <desc lang="vi">Chuyến dã ngoại cuối cùng, Phần 1.(n)</desc>
-  </programme>
-  <programme start="20190615094000 +0700" stop="20190615095000 +0700" channel="ANTV">
-    <title lang="vi">SITCOM</title>
-    <desc lang="vi">Khu phố Ùm Bà Lằng, tập 163\/186.(n)</desc>
-  </programme>
-  <programme start="20190615095000 +0700" stop="20190615100000 +0700" channel="ANTV">
-    <title lang="vi">An toàn sống</title>
-    <desc lang="vi">An toàn sống 14\/06\/19.(n)</desc>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615101500 +0700" channel="ANTV">
-    <title lang="vi">An ninh thế giới</title>
-  </programme>
   <programme start="20190615101500 +0700" stop="20190615103000 +0700" channel="ANTV">
     <title lang="vi">Phóng sự điều tra</title>
     <desc lang="vi">Nghịch lý tại Quảng Ngãi.(n)</desc>
@@ -27489,20 +29131,17 @@
     <title lang="vi">113 online</title>
   </programme>
   <programme start="20190615114500 +0700" stop="20190615120000 +0700" channel="ANTV">
-    <title lang="vi">Nhận diện tội phạm</title>
-    <desc lang="vi">Nhận diện tội phạm 15\/06\/19.(n)</desc>
+    <title lang="vi">Nhận Diện Tội Phạm</title>
+    <desc lang="vi">15\/06\/19.(n)</desc>
   </programme>
   <programme start="20190615120000 +0700" stop="20190615130000 +0700" channel="ANTV">
-    <title lang="vi">Phim truyện 12h00</title>
-    <desc lang="vi">Tình yêu không khoảng cách, tập 37\/77.(n)</desc>
+    <title lang="vi">Tình Yêu Không Khoảng Cách (Tập 37)</title>
   </programme>
   <programme start="20190615130000 +0700" stop="20190615140000 +0700" channel="ANTV">
-    <title lang="vi">Phim truyện 13h00</title>
-    <desc lang="vi">Ký ức lọ lem, tập 12\/23.(n)</desc>
+    <title lang="vi">Ký Ức Lọ Lem (Tập 12)</title>
   </programme>
   <programme start="20190615140000 +0700" stop="20190615145500 +0700" channel="ANTV">
-    <title lang="vi">Phim truyện 14h00</title>
-    <desc lang="vi">Phụ nữ đào hoa, tập 30\/61.(n)</desc>
+    <title lang="vi">Phụ Nữ Đào Hoa (Tập 30)</title>
   </programme>
   <programme start="20190615145500 +0700" stop="20190615150000 +0700" channel="ANTV">
     <title lang="vi">NHÂN VẬT - SỰ KIỆN</title>
@@ -27531,16 +29170,14 @@
     <desc lang="vi">Ấn tượng sắc màu thời tiết Bà Nà.(n)</desc>
   </programme>
   <programme start="20190615163000 +0700" stop="20190615173000 +0700" channel="ANTV">
-    <title lang="vi">Phim truyện 16h30</title>
-    <desc lang="vi">Anh chàng bảo mẫu, tập 13\/45.(n)</desc>
+    <title lang="vi">Anh Chàng Bảo Mẫu (Tập 13)</title>
   </programme>
   <programme start="20190615173000 +0700" stop="20190615174500 +0700" channel="ANTV">
     <title lang="vi">An ninh với cuộc sống (7)</title>
     <desc lang="vi">Gái già quái chiêu.(n)</desc>
   </programme>
   <programme start="20190615174500 +0700" stop="20190615180000 +0700" channel="ANTV">
-    <title lang="vi">SITCOM</title>
-    <desc lang="vi">Khu phố Ùm Bà Lằng, tập 165\/186.(n)</desc>
+    <title lang="vi">Khu Phố Ùm Bà Lằng (Tập 165)</title>
   </programme>
   <programme start="20190615180000 +0700" stop="20190615184500 +0700" channel="ANTV">
     <title lang="vi">An ninh 24h</title>
@@ -27568,8 +29205,7 @@
     <desc lang="vi">Khi gái xinh mượn người yêu.(n)</desc>
   </programme>
   <programme start="20190615210000 +0700" stop="20190615220000 +0700" channel="ANTV">
-    <title lang="vi">Phim truyện 21h00</title>
-    <desc lang="vi">Thợ săn ma túy, tập 9\/50.(n)</desc>
+    <title lang="vi">Thợ Săn Ma Túy (Tập 9)</title>
   </programme>
   <programme start="20190615220000 +0700" stop="20190615223000 +0700" channel="ANTV">
     <title lang="vi">Nhật ký an ninh (30)</title>
@@ -27579,8 +29215,7 @@
     <desc lang="vi">Nhận diện tội phạm 15\/06\/19.(n)</desc>
   </programme>
   <programme start="20190615224000 +0700" stop="20190615233000 +0700" channel="ANTV">
-    <title lang="vi">Phim truyện 22h40</title>
-    <desc lang="vi">Đại Tần đế quốc, tập 3\/51.(n)</desc>
+    <title lang="vi">Đại Tần Đế Quốc (Tập 3)</title>
   </programme>
   <programme start="20190615233000 +0700" stop="20190615233500 +0700" channel="ANTV">
     <title lang="vi">Cư dân mạng</title>
@@ -27593,17 +29228,6 @@
   <programme start="20190615234500 +0700" stop="20190615235000 +0700" channel="ANTV">
     <title lang="vi">Việt Nam quê hương tôi</title>
     <desc lang="vi">Ấn tượng sắc màu thời tiết Bà Nà.(n)</desc>
-  </programme>
-  <programme start="20190615091500 +0700" stop="20190615093000 +0700" channel="HANOITV 1">
-    <title lang="vi">Quản lý chất lượng an toàn thực phẩm</title>
-  </programme>
-  <programme start="20190615093000 +0700" stop="20190615100000 +0700" channel="HANOITV 1">
-    <title lang="vi">Câu chuyện thương hiệu</title>
-    <desc lang="vi">Đam mê với cây dược liệu quý – cà gai leo.(n)</desc>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615104500 +0700" channel="HANOITV 1">
-    <title lang="vi">Hà Nội - những góc nhìn</title>
-    <desc lang="vi">Những nghệ nhân tâm huyết với di sản văn hóa.(n)</desc>
   </programme>
   <programme start="20190615104500 +0700" stop="20190615105500 +0700" channel="HANOITV 1">
     <title lang="vi">Môi trường và đô thị</title>
@@ -27722,9 +29346,6 @@
   <programme start="20190615231500 +0700" stop="20190615234000 +0700" channel="HANOITV 1">
     <title lang="vi">Bản tin tiếng Trung Quốc</title>
   </programme>
-  <programme start="20190615100000 +0700" stop="20190615103000 +0700" channel="THVL1 HD">
-    <title lang="vi">Sống khỏe sống đẹp</title>
-  </programme>
   <programme start="20190615103000 +0700" stop="20190615110000 +0700" channel="THVL1 HD">
     <title lang="vi">Giải Mã Nhan Sắc</title>
   </programme>
@@ -27801,10 +29422,10 @@
     <title lang="vi">Chuyện nóng cùng sao</title>
   </programme>
   <programme start="20190615120000 +0700" stop="20190615130000 +0700" channel="THVL2 HD">
-    <title lang="vi">Phim truyện Đài Loan: Tích điểm tình yêu - T.29</title>
+    <title lang="vi">Tích Điểm Tình Yêu (Tập 29)</title>
   </programme>
   <programme start="20190615130000 +0700" stop="20190615150000 +0700" channel="THVL2 HD">
-    <title lang="vi">Giải trí truyền hình: Tình Bolero 2019</title>
+    <title lang="vi">Tình Bolero 2019</title>
   </programme>
   <programme start="20190615150000 +0700" stop="20190615160000 +0700" channel="THVL2 HD">
     <title lang="vi">Phim Việt Nam: Máu chảy về tim - T.13</title>
@@ -27813,10 +29434,10 @@
     <title lang="vi">Ẩm thực nước ngoài</title>
   </programme>
   <programme start="20190615163000 +0700" stop="20190615170000 +0700" channel="THVL2 HD">
-    <title lang="vi">Truy tìm cao thủ</title>
+    <title lang="vi">Truy Tìm Cao Thủ</title>
   </programme>
   <programme start="20190615170000 +0700" stop="20190615183000 +0700" channel="THVL2 HD">
-    <title lang="vi">Phim truyện Mê-hi-cô: Quá khứ tội lỗi T.83-84</title>
+    <title lang="vi">Quá Khứ Tội Lỗi (Tập 83+84)</title>
   </programme>
   <programme start="20190615183000 +0700" stop="20190615190000 +0700" channel="THVL2 HD">
     <title lang="vi">Người đưa tin 24G</title>
@@ -27828,13 +29449,10 @@
     <title lang="vi">Nhịp sống đồng bằng</title>
   </programme>
   <programme start="20190615200000 +0700" stop="20190615210000 +0700" channel="THVL2 HD">
-    <title lang="vi">Phim truyện Ấn Độ: Vợ tôi là cảnh sát - T.202</title>
-  </programme>
-  <programme start="20190615094500 +0700" stop="20190615101500 +0700" channel="THVL3 HD">
-    <title lang="vi">Con ông Hai Lúa</title>
+    <title lang="vi">Vợ Tôi Là Cảnh Sát (Tập 202)</title>
   </programme>
   <programme start="20190615101500 +0700" stop="20190615110000 +0700" channel="THVL3 HD">
-    <title lang="vi">Phim Đài Loan: Hương vị cuộc sống - T.45</title>
+    <title lang="vi">Hương Vị Cuộc Sống (Tập 45)</title>
   </programme>
   <programme start="20190615110000 +0700" stop="20190615114500 +0700" channel="THVL3 HD">
     <title lang="vi">Phim Đài Loan: Đại thời đại - T.77</title>
@@ -27852,7 +29470,7 @@
     <title lang="vi">Phim truyện Việt Nam: Đời không như là mơ - T.31</title>
   </programme>
   <programme start="20190615140000 +0700" stop="20190615144500 +0700" channel="THVL3 HD">
-    <title lang="vi">Phim Ấn Độ: Vợ tôi là cảnh sát - T.201</title>
+    <title lang="vi">Vợ Tôi Là Cảnh Sát (Tập 201)</title>
   </programme>
   <programme start="20190615144500 +0700" stop="20190615151000 +0700" channel="THVL3 HD">
     <title lang="vi">Thắp sáng niềm tin</title>
@@ -27861,13 +29479,13 @@
     <title lang="vi">Phim Đài Loan: Hương vị cuộc sống - T.45</title>
   </programme>
   <programme start="20190615155000 +0700" stop="20190615161500 +0700" channel="THVL3 HD">
-    <title lang="vi">Con ông Hai Lúa</title>
+    <title lang="vi">Con Ông Hai Lúa</title>
   </programme>
   <programme start="20190615161500 +0700" stop="20190615170000 +0700" channel="THVL3 HD">
-    <title lang="vi">Phim Ấn Độ: Đội đặc nhiệm CID - T.45</title>
+    <title lang="vi">Đội Đặc Nhiệm CID (Tập 45)</title>
   </programme>
   <programme start="20190615170000 +0700" stop="20190615182000 +0700" channel="THVL3 HD">
-    <title lang="vi">Giải trí truyền hình: Tình Bolero 2019</title>
+    <title lang="vi">Tình Bolero 2019</title>
   </programme>
   <programme start="20190615182000 +0700" stop="20190615183000 +0700" channel="THVL3 HD">
     <title lang="vi">Chuyện của Đốm</title>
@@ -27878,8 +29496,8 @@
   <programme start="20190615190000 +0700" stop="20190615200000 +0700" channel="THVL3 HD">
     <title lang="vi">Phim Việt Nam: Lấy chồng cho Mẹ - T.30</title>
   </programme>
-  <programme start="20190615092000 +0700" stop="20190615101500 +0700" channel="THVL4 HD">
-    <title lang="vi">Ca nhạc: Nắng ấm quê hương</title>
+  <programme start="20190615200000 +0700" stop="20190615210000 +0700" channel="THVL3 HD">
+    <title lang="vi">Hương Vị Cuộc Sống (Tập 46)</title>
   </programme>
   <programme start="20190615101500 +0700" stop="20190615110000 +0700" channel="THVL4 HD">
     <title lang="vi">Phim Việt Nam: Kẻ thù giấu mặt - T.47</title>
@@ -27916,13 +29534,6 @@
   </programme>
   <programme start="20190615190000 +0700" stop="20190615194500 +0700" channel="THVL4 HD">
     <title lang="vi">Tiếp chuyển Thời sự Việt Nam</title>
-  </programme>
-  <programme start="20190615093000 +0700" stop="20190615100000 +0700" channel="QUOC PHONG VIET NAM HD">
-    <title lang="vi">VIỆT NAM TƯƠI ĐẸP</title>
-    <desc lang="vi">Khám phá Phú Quốc cùng Thu Trang và Tiến Luật - Phần 2.(n)</desc>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615101500 +0700" channel="QUOC PHONG VIET NAM HD">
-    <title lang="vi">BẢN TIN TIẾNG TRUNG</title>
   </programme>
   <programme start="20190615101500 +0700" stop="20190615110000 +0700" channel="QUOC PHONG VIET NAM HD">
     <title lang="vi">CHÚNG TÔI LÀ CHIẾN SĨ</title>
@@ -28051,14 +29662,6 @@
     <title lang="vi">QUỐC PHÒNG ĐỊA PHƯƠNG</title>
     <desc lang="vi">Số 1014:Xây dựng tuyến ống trong lòng dân.(n)</desc>
   </programme>
-  <programme start="20190615094500 +0700" stop="20190615100000 +0700" channel="HANOITV 2">
-    <title lang="vi">An toàn PCCC</title>
-    <desc lang="vi">An toàn phòng cháy chữa cháy mùa nắng nóng.(n)</desc>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615103000 +0700" channel="HANOITV 2">
-    <title lang="vi">Thế giới động vật</title>
-    <desc lang="vi">Năm loài động vật Nam Mỹ - Rái cá (P2).(n)</desc>
-  </programme>
   <programme start="20190615103000 +0700" stop="20190615104000 +0700" channel="HANOITV 2">
     <title lang="vi">Bản tin 141</title>
   </programme>
@@ -28163,14 +29766,6 @@
   <programme start="20190615230500 +0700" stop="20190615231500 +0700" channel="HANOITV 2">
     <title lang="vi">Công sở kỳ truyện</title>
     <desc lang="vi">Tập 203.(n)</desc>
-  </programme>
-  <programme start="20190615093500 +0700" stop="20190615100000 +0700" channel="TH QUANG NINH 1">
-    <title lang="vi">Cựu chiến binh</title>
-    <desc lang="vi">Về miền Tây Bắc.(n)</desc>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615103000 +0700" channel="TH QUANG NINH 1">
-    <title lang="vi">Ca nhạc quốc tế</title>
-    <desc lang="vi">Sáng ngày 15\/06\/2019.(n)</desc>
   </programme>
   <programme start="20190615103000 +0700" stop="20190615103500 +0700" channel="TH QUANG NINH 1">
     <title lang="vi">Bản tin tiếng Pháp</title>
@@ -28304,14 +29899,6 @@
     <title lang="vi">Phim truyện</title>
     <desc lang="vi">Điệp vụ chân dài. T1.(n)</desc>
   </programme>
-  <programme start="20190615093000 +0700" stop="20190615094500 +0700" channel="TH NINH BINH">
-    <title lang="vi">Diễn đàn giáo dục</title>
-    <desc lang="vi">Sẵn sàng cho Kỳ thi THPT Quốc gia năm 2019.(n)</desc>
-  </programme>
-  <programme start="20190615094500 +0700" stop="20190615101500 +0700" channel="TH NINH BINH">
-    <title lang="vi">Xiếc Quốc tế</title>
-    <desc lang="vi">Nghệ thuật Xiếc.(n)</desc>
-  </programme>
   <programme start="20190615101500 +0700" stop="20190615103000 +0700" channel="TH NINH BINH">
     <title lang="vi">Cải cách hành chính</title>
     <desc lang="vi">Cán bộ trẻ xung kích cải cách thủ tục hành chính.(n)</desc>
@@ -28419,10 +30006,6 @@
   <programme start="20190615224500 +0700" stop="20190615231000 +0700" channel="TH NINH BINH">
     <title lang="vi">Bản tin thời sự cuối ngày</title>
     <desc lang="vi">Tin tức tổng hợp.(n)</desc>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615101000 +0700" channel="TH DA NANG 1">
-    <title lang="vi">Phóng sự</title>
-    <desc lang="vi">Duẩn mập và huynh đệ LH38.(n)</desc>
   </programme>
   <programme start="20190615101000 +0700" stop="20190615110000 +0700" channel="TH DA NANG 1">
     <title lang="vi">Phim truyện</title>
@@ -28535,19 +30118,6 @@
   <programme start="20190615231000 +0700" stop="20190615232000 +0700" channel="TH DA NANG 1">
     <title lang="vi">Bản tin tiếng Anh</title>
     <desc lang="vi">Bản tin tiếng Anh.(n)</desc>
-  </programme>
-  <programme start="20190615091500 +0700" stop="20190615093000 +0700" channel="TH BINH THUAN">
-    <title lang="vi">Ca nhạc</title>
-    <desc lang="vi">Chiều đồng quê.(n)</desc>
-  </programme>
-  <programme start="20190615093000 +0700" stop="20190615094000 +0700" channel="TH BINH THUAN">
-    <title lang="vi">Cải cách Hành chính Dân số &amp; trẻ em</title>
-  </programme>
-  <programme start="20190615094000 +0700" stop="20190615094500 +0700" channel="TH BINH THUAN">
-    <title lang="vi">Giai điệu Phương nam</title>
-  </programme>
-  <programme start="20190615094500 +0700" stop="20190615100000 +0700" channel="TH BINH THUAN">
-    <title lang="vi">Vì chủ quyền an ninh biên giới biển</title>
   </programme>
   <programme start="20190615101000 +0700" stop="20190615102500 +0700" channel="TH BINH THUAN">
     <title lang="vi">Phụ nữ &amp; Gia đình</title>
@@ -28695,14 +30265,6 @@
   </programme>
   <programme start="20190615223500 +0700" stop="20190615231500 +0700" channel="TH BINH THUAN">
     <title lang="vi">Bản tin Thể thao</title>
-  </programme>
-  <programme start="20190615093000 +0700" stop="20190615100000 +0700" channel="TH CA MAU">
-    <title lang="vi">him Tài liệu</title>
-    <desc lang="vi">Dòng sông kể chuyện (tập cuối)\/4.(n)</desc>
-  </programme>
-  <programme start="20190615100000 +0700" stop="20190615110000 +0700" channel="TH CA MAU">
-    <title lang="vi">him truyện Việt Nam</title>
-    <desc lang="vi">Lật mặt hung thủ (tập 7)\/28.(n)</desc>
   </programme>
   <programme start="20190615110000 +0700" stop="20190615113000 +0700" channel="TH CA MAU">
     <title lang="vi">him Hoạt hình</title>
