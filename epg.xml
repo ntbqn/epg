@@ -3,16 +3,52 @@
   <channel id="Example">
     <display-name lang="en">Example</display-name>
   </channel>
-  <channel id="HBO Signature">
-    <display-name lang="en">HBO Signature</display-name>
-    <url>http://www.hboasia.com</url>
-  </channel>
-  <channel id="HBO Family">
-    <display-name lang="en">HBO Family</display-name>
-    <url>http://www.hboasia.com</url>
+  <channel id="HBO">
+    <display-name lang="en">HBO</display-name>
+    <url>http://www.toggle.sg</url>
   </channel>
   <channel id="HBO Hits">
     <display-name lang="en">HBO Hits</display-name>
+    <url>http://www.toggle.sg</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="en">HBO Family</display-name>
+    <url>http://www.toggle.sg</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="en">HBO Signature</display-name>
+    <url>http://www.toggle.sg</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="en">Cinemax</display-name>
+    <url>http://www.toggle.sg</url>
+  </channel>
+  <channel id="Red by HBO">
+    <display-name lang="en">Red by HBO</display-name>
+    <url>http://www.toggle.sg</url>
+  </channel>
+  <channel id="Channel NewsAsia">
+    <display-name lang="en">Channel NewsAsia</display-name>
+    <url>http://www.toggle.sg</url>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name lang="en">Nick Jr.</display-name>
+    <url>http://www.toggle.sg</url>
+  </channel>
+  <channel id="Outdoor Channel">
+    <display-name lang="en">Outdoor Channel</display-name>
+    <url>http://www.toggle.sg</url>
+  </channel>
+  <channel id="HBO Signature-vip">
+    <display-name lang="en">HBO Signature-vip</display-name>
+    <url>http://www.hboasia.com</url>
+  </channel>
+  <channel id="HBO Family-vip">
+    <display-name lang="en">HBO Family-vip</display-name>
+    <url>http://www.hboasia.com</url>
+  </channel>
+  <channel id="HBO Hits-vip">
+    <display-name lang="en">HBO Hits-vip</display-name>
     <url>http://www.hboasia.com</url>
   </channel>
   <channel id="HBO Go">
@@ -215,66 +251,6 @@
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_736.PNG" />
     <url>http://www.canalsat.fr</url>
   </channel>
-  <channel id="RMC SPORT LIVE 5">
-    <display-name lang="fr">RMC SPORT LIVE 5</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_756.PNG" />
-    <url>http://www.canalsat.fr</url>
-  </channel>
-  <channel id="RMC SPORT LIVE 6">
-    <display-name lang="fr">RMC SPORT LIVE 6</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_757.PNG" />
-    <url>http://www.canalsat.fr</url>
-  </channel>
-  <channel id="RMC SPORT LIVE 7">
-    <display-name lang="fr">RMC SPORT LIVE 7</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_758.PNG" />
-    <url>http://www.canalsat.fr</url>
-  </channel>
-  <channel id="RMC SPORT LIVE 8">
-    <display-name lang="fr">RMC SPORT LIVE 8</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_759.PNG" />
-    <url>http://www.canalsat.fr</url>
-  </channel>
-  <channel id="RMC SPORT LIVE 9">
-    <display-name lang="fr">RMC SPORT LIVE 9</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_760.PNG" />
-    <url>http://www.canalsat.fr</url>
-  </channel>
-  <channel id="RMC SPORT LIVE 10">
-    <display-name lang="fr">RMC SPORT LIVE 10</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_761.PNG" />
-    <url>http://www.canalsat.fr</url>
-  </channel>
-  <channel id="RMC SPORT LIVE 11">
-    <display-name lang="fr">RMC SPORT LIVE 11</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_762.PNG" />
-    <url>http://www.canalsat.fr</url>
-  </channel>
-  <channel id="RMC SPORT LIVE 12">
-    <display-name lang="fr">RMC SPORT LIVE 12</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_763.PNG" />
-    <url>http://www.canalsat.fr</url>
-  </channel>
-  <channel id="RMC SPORT LIVE 13">
-    <display-name lang="fr">RMC SPORT LIVE 13</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_764.PNG" />
-    <url>http://www.canalsat.fr</url>
-  </channel>
-  <channel id="RMC SPORT LIVE 14">
-    <display-name lang="fr">RMC SPORT LIVE 14</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_765.PNG" />
-    <url>http://www.canalsat.fr</url>
-  </channel>
-  <channel id="RMC SPORT LIVE 15">
-    <display-name lang="fr">RMC SPORT LIVE 15</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_766.PNG" />
-    <url>http://www.canalsat.fr</url>
-  </channel>
-  <channel id="RMC SPORT LIVE 16">
-    <display-name lang="fr">RMC SPORT LIVE 16</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_767.PNG" />
-    <url>http://www.canalsat.fr</url>
-  </channel>
   <channel id="BEIN SPORTS 1">
     <display-name lang="fr">BEIN SPORTS 1</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_381.PNG" />
@@ -288,41 +264,6 @@
   <channel id="BEIN SPORTS 3">
     <display-name lang="fr">BEIN SPORTS 3</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_516.PNG" />
-    <url>http://www.canalsat.fr</url>
-  </channel>
-  <channel id="BEIN SPORTS MAX 4">
-    <display-name lang="fr">BEIN SPORTS MAX 4</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_596.PNG" />
-    <url>http://www.canalsat.fr</url>
-  </channel>
-  <channel id="BEIN SPORTS MAX 5">
-    <display-name lang="fr">BEIN SPORTS MAX 5</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_597.PNG" />
-    <url>http://www.canalsat.fr</url>
-  </channel>
-  <channel id="BEIN SPORTS MAX 6">
-    <display-name lang="fr">BEIN SPORTS MAX 6</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_598.PNG" />
-    <url>http://www.canalsat.fr</url>
-  </channel>
-  <channel id="BEIN SPORTS MAX 7">
-    <display-name lang="fr">BEIN SPORTS MAX 7</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_599.PNG" />
-    <url>http://www.canalsat.fr</url>
-  </channel>
-  <channel id="BEIN SPORTS MAX 8">
-    <display-name lang="fr">BEIN SPORTS MAX 8</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_603.PNG" />
-    <url>http://www.canalsat.fr</url>
-  </channel>
-  <channel id="BEIN SPORTS MAX 9">
-    <display-name lang="fr">BEIN SPORTS MAX 9</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_604.PNG" />
-    <url>http://www.canalsat.fr</url>
-  </channel>
-  <channel id="BEIN SPORTS MAX 10">
-    <display-name lang="fr">BEIN SPORTS MAX 10</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_605.PNG" />
     <url>http://www.canalsat.fr</url>
   </channel>
   <channel id="BT Sport 1">
@@ -1493,10 +1434,6 @@
     <display-name lang="vi">Discovery Channel-ClipTV</display-name>
     <url>http://www.cliptv.vn</url>
   </channel>
-  <channel id="RED BY HBO">
-    <display-name lang="vi">RED BY HBO</display-name>
-    <url>http://www.cliptv.vn</url>
-  </channel>
   <channel id="Boomerang">
     <display-name lang="vi">Boomerang</display-name>
     <url>http://www.cliptv.vn</url>
@@ -2040,6 +1977,106 @@
   <programme start="20190708000000 +0100" stop="20190708235900 +0100" channel="Example">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20190708220000 +0800" stop="20190708230000 +0800" channel="HBO">
+    <title lang="en">大小谎言 BIG LITTLE LIES S2 05: KILL ME</title>
+    <desc lang="en">Renata attempts to help Celeste; Bonnie relives painful memories of her mother. 第二季剧情描写谎言的恶意蔓延、坚定的友谊、脆弱的婚姻以及完美教养方式下的残忍真相。.(n)</desc>
+  </programme>
+  <programme start="20190708193500 +0800" stop="20190708211000 +0800" channel="HBO Hits">
+    <title lang="en">暴劫行动 ACTS OF VIOLENCE (2018)</title>
+    <desc lang="en">When his fiancé is kidnapped by human traffickers, Roman and his ex-military brothers set to out to track her down and save her before it is too late. 罗曼的未婚妻遭人口贩子绑架，他和从军中退役的兄弟们合力追查她的下落，设法在一切太迟之前解救她。.(n)</desc>
+  </programme>
+  <programme start="20190708211000 +0800" stop="20190708230000 +0800" channel="HBO Hits">
+    <title lang="en">温特的故事:泳不放弃2 DOLPHIN TALE 2</title>
+    <desc lang="en">The team at Clearwater Marine Hospital needs to find a new companion for Winter the dolphin soon before it is forced to move to another aquarium. 海洋医院的团队必须在海豚温特被迫转到别间水族馆之前，帮牠找到新的同伴。.(n)</desc>
+  </programme>
+  <programme start="20190708210500 +0800" stop="20190708224500 +0800" channel="HBO Family">
+    <title lang="en">超异能冒险 RACE TO WITCH MOUNTAIN</title>
+    <desc lang="en">When a Las Vegas cab driver picks up two teens with supernatural powers in his cab, he suddenly finds himself in the middle of an adventure. 一名拉斯韦加斯的出租车司机发现车上两名青少年竟拥有超能力，突然间他卷入了自己无法理解的冒险行动….(n)</desc>
+  </programme>
+  <programme start="20190708195500 +0800" stop="20190708220000 +0800" channel="HBO Signature">
+    <title lang="en">最黑暗的时刻 DARKEST HOUR</title>
+    <desc lang="en">As Hitler's forces close in on the United Kingdom, Winston Churchill is elected Prime Minister and is tasked to lead and protect his nation from the lethal threat. 正当希特勒的军队逐渐逼近英国时，温斯顿丘吉尔获选为英国首相，担负着领导及保护国家免于受到致命威胁的重任。.(n)</desc>
+  </programme>
+  <programme start="20190708220000 +0800" stop="20190708225500 +0800" channel="HBO Signature">
+    <title lang="en">怒海漂流S1:01 SAFE HARBOUR S1 01</title>
+    <desc lang="en">Five Australians on a yacht help a boatload of asylum seekers by towing them. With seven deaths, a mystery that reignites several years later, when they meet again. 五个澳洲人驾着游艇拖曳载满难民的船，试着救援这些难民。然而连接两船的绳索却被切断，导致七人死亡，这个未解的谜团在数年后他们再度相遇之时仍然疑云重重。.(n)</desc>
+  </programme>
+  <programme start="20190708225500 +0800" stop="20190708233500 +0800" channel="HBO Signature">
+    <title lang="en">环药房自行车赛 TOUR DE PHARMACY</title>
+    <desc lang="en">Andy Samberg and Murray Miller explore the high-stakes world of professional cycling in this sports mockumentary that deftly lampoons professional cycling and its checkered history with doping. 安迪山博格与墨瑞米勒在这出体育伪纪录片中探索高风险的职业自行车赛的世界，片中巧妙地讥讽职业自行车赛使用禁药的复杂历史。.(n)</desc>
+  </programme>
+  <programme start="20190708210500 +0800" stop="20190708220000 +0800" channel="Cinemax">
+    <title lang="en">女飞贼杰特S1:04 JETT S1 04: FRANK SWEENEY</title>
+    <desc lang="en">Jett tracks down a brutal gangster she and Blair worked for ten years earlier. 刚从牢里出来的世界级窃盗高手黛西”洁特＂科沃斯基被迫重操旧业，而一群行事诡异的罪犯纷纷想利用她…….(n)</desc>
+  </programme>
+  <programme start="20190708220000 +0800" stop="20190708234500 +0800" channel="Cinemax">
+    <title lang="en">推倒白宫的男人 MARK FELT: THE MAN WHO BROUGHT DOWN THE WHITE HOUSE</title>
+    <desc lang="en">Based on a true story of the most famous anonymous man in American history, Mark Felt, who was the "Deep Throat" whistleblower in the 1970s WaterGate scandal. 本片改编自真实事件，剧情描述美国史上最知名的匿名男子：马克费尔特，也是1970年代水门案丑闻的”深喉咙”的故事。.(n)</desc>
+  </programme>
+  <programme start="20190708200000 +0800" stop="20190708220000 +0800" channel="Red by HBO">
+    <title lang="en">DUDE'S MANUAL</title>
+    <desc lang="en">To quash rumours of them being together, school belle Guan Xin decides to help Xiaoyang pursue his dream girl, but their plans may be pointed in the wrong direction.(n)</desc>
+  </programme>
+  <programme start="20190708193000 +0800" stop="20190708200000 +0800" channel="Channel NewsAsia">
+    <title lang="en">老友万岁 Old Is Gold - EP 30</title>
+    <desc lang="en">Li E accuses Auntie Shan of being the third party who had caused their family to fall apart, as she had once witnessed her husband giving money to her. Xin Xin is not fully convinced, so she tries to find out more about Auntie Shan's past from Mei Fang, but it is to no avail. She asks around before finding out from Old Zhou that Auntie Shan once had a short lived marriage, but she is unable to get more details.  (PG)丽娥指善姨就是当年破坏她们家庭的小三，还曾亲眼目睹丈夫送钱给她。欣欣半信半疑，尝试从美芳口中探问善姨的过往，不得要领。后来她辗转找到老周，却只从老周口中得知善姨曾有过短暂婚姻，无法了解更多详情。.(n)</desc>
+  </programme>
+  <programme start="20190708200000 +0800" stop="20190708210000 +0800" channel="Channel NewsAsia">
+    <title lang="en">众里寻一  The Destined One - EP 2</title>
+    <desc lang="en">Six charming male panelists will be given a chance to let four pretty and talented female candidates know what they look for in a relationship. Celebrities will also play Cupid to give our contestants a hand in finding their Destined One. Only one candidate will remain and she can profess her feelings to one of the male panelists. Can she find her Destined One? 第二集，6位高颜值的男嘉宾，面对4位美丽动人的有缘人，到底男嘉宾们喜欢什么类型的女生？通过4位艺人红娘、月老的努力牵线，哪一位有缘人率先出局？男嘉宾一步一步了解有缘人，还会欣赏有缘人的才艺表演，他们会对谁心动呢？最后哪一对男女能否牵手成功？.(n)</desc>
+  </programme>
+  <programme start="20190708210000 +0800" stop="20190708220000 +0800" channel="Channel NewsAsia">
+    <title lang="en">一切从昏睡开始  While You Were Away - EP 11</title>
+    <desc lang="en">Zi Jun and the whole family celebrates Rui Kang's birthday at a chalet and Rui Xin uses Man Rong's mobile phone to play a birthday song sung by his favorite idol on television. Unexpectedly, the photos in Man Rong's mobile phone gets projected on the television and everyone is shock to see the selfie of Man Rong and a drunk Zi Jun. Man Rong is ashamed and leaves. Zi Jun explains to Sen Mei that he has no idea of the photos and Sen Mei is unable to let the matter rest.  (PG)子骏全家在度假屋为锐康庆祝生日，锐心借用曼蓉的手机播放偶像生日歌在电视上，不料却把手机里的照片也投影出来，众人看到曼蓉与喝醉的子骏自拍的照片，均感错愕。曼蓉无地自容离去，子骏向森美解释对照片一事并不知情，森美耿耿于怀。.(n)</desc>
+  </programme>
+  <programme start="20190708220000 +0800" stop="20190708224500 +0800" channel="Channel NewsAsia">
+    <title lang="en">晚间新闻包括国会摘要 News Tonight With Highlights From Parliament</title>
+    <desc lang="en">Daily evening updates on top local news and world news. 《晚间新闻》每日为您提供最全面的本地与全球新闻报道。.(n)</desc>
+  </programme>
+  <programme start="20190708224500 +0800" stop="20190708231500 +0800" channel="Channel NewsAsia">
+    <title lang="en">诡探 Detective Psycho - EP 15</title>
+    <desc lang="en">Cop Liang Jianhua reappears in Sai Kung 12 years after he went missing. His shirt and appearance remain unchanged from 12 years ago. Liang Jianhua called for help before he went missing and kept repeating the numbers 487021". (PG13-部分画面令人不安)警员梁建华失踪十二年后突然出现，服装和样貌跟十二年前失踪那一天一模一样。梁建华失踪前曾拨电向警方求救，但一直重复号码“487021”。.(n)</desc>
+  </programme>
+  <programme start="20190708193000 +0800" stop="20190708200000 +0800" channel="Nick Jr.">
+    <title lang="en">老友万岁 Old Is Gold - EP 30</title>
+    <desc lang="en">Li E accuses Auntie Shan of being the third party who had caused their family to fall apart, as she had once witnessed her husband giving money to her. Xin Xin is not fully convinced, so she tries to find out more about Auntie Shan's past from Mei Fang, but it is to no avail. She asks around before finding out from Old Zhou that Auntie Shan once had a short lived marriage, but she is unable to get more details.  (PG)丽娥指善姨就是当年破坏她们家庭的小三，还曾亲眼目睹丈夫送钱给她。欣欣半信半疑，尝试从美芳口中探问善姨的过往，不得要领。后来她辗转找到老周，却只从老周口中得知善姨曾有过短暂婚姻，无法了解更多详情。.(n)</desc>
+  </programme>
+  <programme start="20190708200000 +0800" stop="20190708210000 +0800" channel="Nick Jr.">
+    <title lang="en">众里寻一  The Destined One - EP 2</title>
+    <desc lang="en">Six charming male panelists will be given a chance to let four pretty and talented female candidates know what they look for in a relationship. Celebrities will also play Cupid to give our contestants a hand in finding their Destined One. Only one candidate will remain and she can profess her feelings to one of the male panelists. Can she find her Destined One? 第二集，6位高颜值的男嘉宾，面对4位美丽动人的有缘人，到底男嘉宾们喜欢什么类型的女生？通过4位艺人红娘、月老的努力牵线，哪一位有缘人率先出局？男嘉宾一步一步了解有缘人，还会欣赏有缘人的才艺表演，他们会对谁心动呢？最后哪一对男女能否牵手成功？.(n)</desc>
+  </programme>
+  <programme start="20190708210000 +0800" stop="20190708220000 +0800" channel="Nick Jr.">
+    <title lang="en">一切从昏睡开始  While You Were Away - EP 11</title>
+    <desc lang="en">Zi Jun and the whole family celebrates Rui Kang's birthday at a chalet and Rui Xin uses Man Rong's mobile phone to play a birthday song sung by his favorite idol on television. Unexpectedly, the photos in Man Rong's mobile phone gets projected on the television and everyone is shock to see the selfie of Man Rong and a drunk Zi Jun. Man Rong is ashamed and leaves. Zi Jun explains to Sen Mei that he has no idea of the photos and Sen Mei is unable to let the matter rest.  (PG)子骏全家在度假屋为锐康庆祝生日，锐心借用曼蓉的手机播放偶像生日歌在电视上，不料却把手机里的照片也投影出来，众人看到曼蓉与喝醉的子骏自拍的照片，均感错愕。曼蓉无地自容离去，子骏向森美解释对照片一事并不知情，森美耿耿于怀。.(n)</desc>
+  </programme>
+  <programme start="20190708220000 +0800" stop="20190708224500 +0800" channel="Nick Jr.">
+    <title lang="en">晚间新闻包括国会摘要 News Tonight With Highlights From Parliament</title>
+    <desc lang="en">Daily evening updates on top local news and world news. 《晚间新闻》每日为您提供最全面的本地与全球新闻报道。.(n)</desc>
+  </programme>
+  <programme start="20190708224500 +0800" stop="20190708231500 +0800" channel="Nick Jr.">
+    <title lang="en">诡探 Detective Psycho - EP 15</title>
+    <desc lang="en">Cop Liang Jianhua reappears in Sai Kung 12 years after he went missing. His shirt and appearance remain unchanged from 12 years ago. Liang Jianhua called for help before he went missing and kept repeating the numbers 487021". (PG13-部分画面令人不安)警员梁建华失踪十二年后突然出现，服装和样貌跟十二年前失踪那一天一模一样。梁建华失踪前曾拨电向警方求救，但一直重复号码“487021”。.(n)</desc>
+  </programme>
+  <programme start="20190708193000 +0800" stop="20190708200000 +0800" channel="Outdoor Channel">
+    <title lang="en">老友万岁 Old Is Gold - EP 30</title>
+    <desc lang="en">Li E accuses Auntie Shan of being the third party who had caused their family to fall apart, as she had once witnessed her husband giving money to her. Xin Xin is not fully convinced, so she tries to find out more about Auntie Shan's past from Mei Fang, but it is to no avail. She asks around before finding out from Old Zhou that Auntie Shan once had a short lived marriage, but she is unable to get more details.  (PG)丽娥指善姨就是当年破坏她们家庭的小三，还曾亲眼目睹丈夫送钱给她。欣欣半信半疑，尝试从美芳口中探问善姨的过往，不得要领。后来她辗转找到老周，却只从老周口中得知善姨曾有过短暂婚姻，无法了解更多详情。.(n)</desc>
+  </programme>
+  <programme start="20190708200000 +0800" stop="20190708210000 +0800" channel="Outdoor Channel">
+    <title lang="en">众里寻一  The Destined One - EP 2</title>
+    <desc lang="en">Six charming male panelists will be given a chance to let four pretty and talented female candidates know what they look for in a relationship. Celebrities will also play Cupid to give our contestants a hand in finding their Destined One. Only one candidate will remain and she can profess her feelings to one of the male panelists. Can she find her Destined One? 第二集，6位高颜值的男嘉宾，面对4位美丽动人的有缘人，到底男嘉宾们喜欢什么类型的女生？通过4位艺人红娘、月老的努力牵线，哪一位有缘人率先出局？男嘉宾一步一步了解有缘人，还会欣赏有缘人的才艺表演，他们会对谁心动呢？最后哪一对男女能否牵手成功？.(n)</desc>
+  </programme>
+  <programme start="20190708210000 +0800" stop="20190708220000 +0800" channel="Outdoor Channel">
+    <title lang="en">一切从昏睡开始  While You Were Away - EP 11</title>
+    <desc lang="en">Zi Jun and the whole family celebrates Rui Kang's birthday at a chalet and Rui Xin uses Man Rong's mobile phone to play a birthday song sung by his favorite idol on television. Unexpectedly, the photos in Man Rong's mobile phone gets projected on the television and everyone is shock to see the selfie of Man Rong and a drunk Zi Jun. Man Rong is ashamed and leaves. Zi Jun explains to Sen Mei that he has no idea of the photos and Sen Mei is unable to let the matter rest.  (PG)子骏全家在度假屋为锐康庆祝生日，锐心借用曼蓉的手机播放偶像生日歌在电视上，不料却把手机里的照片也投影出来，众人看到曼蓉与喝醉的子骏自拍的照片，均感错愕。曼蓉无地自容离去，子骏向森美解释对照片一事并不知情，森美耿耿于怀。.(n)</desc>
+  </programme>
+  <programme start="20190708220000 +0800" stop="20190708224500 +0800" channel="Outdoor Channel">
+    <title lang="en">晚间新闻包括国会摘要 News Tonight With Highlights From Parliament</title>
+    <desc lang="en">Daily evening updates on top local news and world news. 《晚间新闻》每日为您提供最全面的本地与全球新闻报道。.(n)</desc>
+  </programme>
+  <programme start="20190708224500 +0800" stop="20190708231500 +0800" channel="Outdoor Channel">
+    <title lang="en">诡探 Detective Psycho - EP 15</title>
+    <desc lang="en">Cop Liang Jianhua reappears in Sai Kung 12 years after he went missing. His shirt and appearance remain unchanged from 12 years ago. Liang Jianhua called for help before he went missing and kept repeating the numbers 487021". (PG13-部分画面令人不安)警员梁建华失踪十二年后突然出现，服装和样貌跟十二年前失踪那一天一模一样。梁建华失踪前曾拨电向警方求救，但一直重复号码“487021”。.(n)</desc>
   </programme>
   <programme start="20190708000000 +0100" stop="20190708030000 +0100" channel="NBC Sports Network">
     <title lang="en">Cycling</title>
@@ -5870,7 +5907,7 @@
   <programme start="20190708063000 +0100" stop="20190708070000 +0100" channel="RMC SPORT 1">
     <title lang="fr">Pépite RMC Sport</title>
     <category lang="fr">Doc. Sport</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1814.JPG" />
+    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1637.JPG" />
   </programme>
   <programme start="20190708070000 +0100" stop="20190708081500 +0100" channel="RMC SPORT 1">
     <title lang="fr">Le vestiaire</title>
@@ -6037,7 +6074,7 @@
   <programme start="20190708084500 +0100" stop="20190708090000 +0100" channel="RMC SPORT 3">
     <title lang="fr">Pépite RMC Sport</title>
     <category lang="fr">Doc. Sport</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1409.JPG" />
+    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1814.JPG" />
   </programme>
   <programme start="20190708090000 +0100" stop="20190708110000 +0100" channel="RMC SPORT 3">
     <title lang="fr">Equitation - Global Champions Tour 2019</title>
@@ -6091,7 +6128,7 @@
     <title lang="fr">Horse Series</title>
     <desc lang="fr">Le magazine 100% sports équestres revient sur toute l'actualité mondiale et nationale de l'équitation (jumping, dressage et attelage).(n)</desc>
     <category lang="fr">Mag. Sport</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1474.JPG" />
+    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1488.JPG" />
   </programme>
   <programme start="20190708220000 +0100" stop="20190709003000 +0100" channel="RMC SPORT 3">
     <title lang="fr">Equitation - Global Champions Tour 2019</title>
@@ -6104,7 +6141,7 @@
   <programme start="20190708060000 +0100" stop="20190708080000 +0100" channel="RMC SPORT 4">
     <title lang="fr">Sport de combat - Glory 67</title>
     <category lang="fr">Sport de combat</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1851.JPG" />
+    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1468.JPG" />
   </programme>
   <programme start="20190708080000 +0100" stop="20190708103000 +0100" channel="RMC SPORT 4">
     <title lang="fr">Sport de combat - Octofight</title>
@@ -6120,12 +6157,12 @@
     <title lang="fr">Sport de combat - Oktagon 2019</title>
     <desc lang="fr">Brandon Vieira, du Team Nasser Kacem, a participé, le 25 mai dernier en Italie, au plus grand show pieds-poings d'Europe, à savoir l'Oktagon.(n)</desc>
     <category lang="fr">Sport de combat</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1851.JPG" />
+    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1468.JPG" />
   </programme>
   <programme start="20190708131500 +0100" stop="20190708151500 +0100" channel="RMC SPORT 4">
     <title lang="fr">Sport de combat - Glory 67</title>
     <category lang="fr">Sport de combat</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1468.JPG" />
+    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1851.JPG" />
   </programme>
   <programme start="20190708151500 +0100" stop="20190708163000 +0100" channel="RMC SPORT 4">
     <title lang="fr">Arts martiaux - Open Shanghai Karaté Premier League 2019</title>
@@ -6143,18 +6180,18 @@
   <programme start="20190708183000 +0100" stop="20190708203000 +0100" channel="RMC SPORT 4">
     <title lang="fr">Boxe - Nordine Oubaali (Fra) / Arthur Villanueva (Phi)</title>
     <category lang="fr">Boxe</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1889.JPG" />
+    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1802.JPG" />
   </programme>
   <programme start="20190708203000 +0100" stop="20190708223000 +0100" channel="RMC SPORT 4">
     <title lang="fr">Arts martiaux - Grand Prix de Rome 2019</title>
     <desc lang="fr">Après les championnats du monde, retour à la compétition en Europe, avec le Grand Prix de Rome. L'an dernier, la Française Magda Wiet-Henin avait décroché un podium en Italie.(n)</desc>
     <category lang="fr">Arts martiaux</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1720.JPG" />
+    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1953.JPG" />
   </programme>
   <programme start="20190708223000 +0100" stop="20190709010000 +0100" channel="RMC SPORT 4">
     <title lang="fr">Arts martiaux - Francis Ngannou / Junior dos Santos</title>
     <category lang="fr">Arts martiaux</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1720.JPG" />
+    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1487.JPG" />
   </programme>
   <programme start="20190708060000 +0100" stop="20190708090000 +0100" channel="RMC SPORT NEWS">
     <title lang="fr">L'actu sport</title>
@@ -6174,13 +6211,13 @@
   <programme start="20190708150000 +0100" stop="20190708180000 +0100" channel="RMC SPORT NEWS">
     <title lang="fr">L'actu sport</title>
     <category lang="fr">Journal</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1920.JPG" />
+    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1616.JPG" />
   </programme>
   <programme start="20190708180000 +0100" stop="20190708200000 +0100" channel="RMC SPORT NEWS">
     <title lang="fr">Team Duga</title>
     <desc lang="fr">Christophe Dugarry et sa «Dream Team» débattent de l'actualité du ballon rond.(n)</desc>
     <category lang="fr">Mag. Football</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1898.JPG" />
+    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1448.JPG" />
   </programme>
   <programme start="20190708200000 +0100" stop="20190708210000 +0100" channel="RMC SPORT NEWS">
     <title lang="fr">Entre les potos</title>
@@ -6192,373 +6229,13 @@
     <title lang="fr">Buzzer Time</title>
     <desc lang="fr">NBA, Jeep Elite ou encore Euroligue, Stephen Brun, Pierre Dorian et Frédéric Weis présentent toute l'actualité du basket.(n)</desc>
     <category lang="fr">Mag. Basket-ball</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1881.JPG" />
+    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1890.JPG" />
   </programme>
   <programme start="20190708220000 +0100" stop="20190709000000 +0100" channel="RMC SPORT NEWS">
     <title lang="fr">After Foot</title>
     <desc lang="fr">Les matches de foot se prolongent avec les réactions des joueurs et entraîneurs en direct, les conférences d'après-match et des débats entre les supporters et les experts de la chaîne.(n)</desc>
     <category lang="fr">Mag. Football</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1898.JPG" />
-  </programme>
-  <programme start="20190708060000 +0100" stop="20190708090000 +0100" channel="RMC SPORT LIVE 5">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708090000 +0100" stop="20190708120000 +0100" channel="RMC SPORT LIVE 5">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708120000 +0100" stop="20190708150000 +0100" channel="RMC SPORT LIVE 5">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708150000 +0100" stop="20190708180000 +0100" channel="RMC SPORT LIVE 5">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708180000 +0100" stop="20190708210000 +0100" channel="RMC SPORT LIVE 5">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708210000 +0100" stop="20190709000000 +0100" channel="RMC SPORT LIVE 5">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708060000 +0100" stop="20190708090000 +0100" channel="RMC SPORT LIVE 6">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708090000 +0100" stop="20190708120000 +0100" channel="RMC SPORT LIVE 6">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708120000 +0100" stop="20190708150000 +0100" channel="RMC SPORT LIVE 6">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708150000 +0100" stop="20190708180000 +0100" channel="RMC SPORT LIVE 6">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708180000 +0100" stop="20190708210000 +0100" channel="RMC SPORT LIVE 6">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708210000 +0100" stop="20190709000000 +0100" channel="RMC SPORT LIVE 6">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708060000 +0100" stop="20190708090000 +0100" channel="RMC SPORT LIVE 7">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708090000 +0100" stop="20190708120000 +0100" channel="RMC SPORT LIVE 7">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708120000 +0100" stop="20190708150000 +0100" channel="RMC SPORT LIVE 7">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708150000 +0100" stop="20190708180000 +0100" channel="RMC SPORT LIVE 7">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708180000 +0100" stop="20190708210000 +0100" channel="RMC SPORT LIVE 7">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708210000 +0100" stop="20190709000000 +0100" channel="RMC SPORT LIVE 7">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708060000 +0100" stop="20190708090000 +0100" channel="RMC SPORT LIVE 8">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708090000 +0100" stop="20190708120000 +0100" channel="RMC SPORT LIVE 8">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708120000 +0100" stop="20190708150000 +0100" channel="RMC SPORT LIVE 8">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708150000 +0100" stop="20190708180000 +0100" channel="RMC SPORT LIVE 8">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708180000 +0100" stop="20190708210000 +0100" channel="RMC SPORT LIVE 8">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708210000 +0100" stop="20190709000000 +0100" channel="RMC SPORT LIVE 8">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708060000 +0100" stop="20190708090000 +0100" channel="RMC SPORT LIVE 9">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708090000 +0100" stop="20190708120000 +0100" channel="RMC SPORT LIVE 9">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708120000 +0100" stop="20190708150000 +0100" channel="RMC SPORT LIVE 9">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708150000 +0100" stop="20190708180000 +0100" channel="RMC SPORT LIVE 9">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708180000 +0100" stop="20190708210000 +0100" channel="RMC SPORT LIVE 9">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708210000 +0100" stop="20190709000000 +0100" channel="RMC SPORT LIVE 9">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708060000 +0100" stop="20190708090000 +0100" channel="RMC SPORT LIVE 10">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708090000 +0100" stop="20190708120000 +0100" channel="RMC SPORT LIVE 10">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708120000 +0100" stop="20190708150000 +0100" channel="RMC SPORT LIVE 10">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708150000 +0100" stop="20190708180000 +0100" channel="RMC SPORT LIVE 10">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708180000 +0100" stop="20190708210000 +0100" channel="RMC SPORT LIVE 10">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708210000 +0100" stop="20190709000000 +0100" channel="RMC SPORT LIVE 10">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708060000 +0100" stop="20190708090000 +0100" channel="RMC SPORT LIVE 11">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708090000 +0100" stop="20190708120000 +0100" channel="RMC SPORT LIVE 11">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708120000 +0100" stop="20190708150000 +0100" channel="RMC SPORT LIVE 11">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708150000 +0100" stop="20190708180000 +0100" channel="RMC SPORT LIVE 11">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708180000 +0100" stop="20190708210000 +0100" channel="RMC SPORT LIVE 11">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708210000 +0100" stop="20190709000000 +0100" channel="RMC SPORT LIVE 11">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708060000 +0100" stop="20190708090000 +0100" channel="RMC SPORT LIVE 12">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708090000 +0100" stop="20190708120000 +0100" channel="RMC SPORT LIVE 12">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708120000 +0100" stop="20190708150000 +0100" channel="RMC SPORT LIVE 12">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708150000 +0100" stop="20190708180000 +0100" channel="RMC SPORT LIVE 12">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708180000 +0100" stop="20190708210000 +0100" channel="RMC SPORT LIVE 12">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708210000 +0100" stop="20190709000000 +0100" channel="RMC SPORT LIVE 12">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708060000 +0100" stop="20190708090000 +0100" channel="RMC SPORT LIVE 13">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708090000 +0100" stop="20190708120000 +0100" channel="RMC SPORT LIVE 13">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708120000 +0100" stop="20190708150000 +0100" channel="RMC SPORT LIVE 13">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708150000 +0100" stop="20190708180000 +0100" channel="RMC SPORT LIVE 13">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708180000 +0100" stop="20190708210000 +0100" channel="RMC SPORT LIVE 13">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708210000 +0100" stop="20190709000000 +0100" channel="RMC SPORT LIVE 13">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708060000 +0100" stop="20190708090000 +0100" channel="RMC SPORT LIVE 14">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708090000 +0100" stop="20190708120000 +0100" channel="RMC SPORT LIVE 14">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708120000 +0100" stop="20190708150000 +0100" channel="RMC SPORT LIVE 14">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708150000 +0100" stop="20190708180000 +0100" channel="RMC SPORT LIVE 14">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708180000 +0100" stop="20190708210000 +0100" channel="RMC SPORT LIVE 14">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708210000 +0100" stop="20190709000000 +0100" channel="RMC SPORT LIVE 14">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708060000 +0100" stop="20190708090000 +0100" channel="RMC SPORT LIVE 15">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708090000 +0100" stop="20190708120000 +0100" channel="RMC SPORT LIVE 15">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708120000 +0100" stop="20190708150000 +0100" channel="RMC SPORT LIVE 15">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708150000 +0100" stop="20190708180000 +0100" channel="RMC SPORT LIVE 15">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708180000 +0100" stop="20190708210000 +0100" channel="RMC SPORT LIVE 15">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708210000 +0100" stop="20190709000000 +0100" channel="RMC SPORT LIVE 15">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708060000 +0100" stop="20190708090000 +0100" channel="RMC SPORT LIVE 16">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708090000 +0100" stop="20190708120000 +0100" channel="RMC SPORT LIVE 16">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708120000 +0100" stop="20190708150000 +0100" channel="RMC SPORT LIVE 16">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708150000 +0100" stop="20190708180000 +0100" channel="RMC SPORT LIVE 16">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708180000 +0100" stop="20190708210000 +0100" channel="RMC SPORT LIVE 16">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708210000 +0100" stop="20190709000000 +0100" channel="RMC SPORT LIVE 16">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
+    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1738.JPG" />
   </programme>
   <programme start="20190708060000 +0100" stop="20190708070000 +0100" channel="BEIN SPORTS 1">
     <title lang="fr">Brest / Lorient</title>
@@ -6584,7 +6261,7 @@
     <title lang="fr">Centre Court</title>
     <desc lang="fr">Tennis.(n)</desc>
     <category lang="fr">Mag. Sport</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1746.JPG" />
+    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1474.JPG" />
   </programme>
   <programme start="20190708120000 +0100" stop="20190708173000 +0100" channel="BEIN SPORTS 1">
     <title lang="fr">Tennis - Wimbledon 2019</title>
@@ -6719,46 +6396,6 @@
     <desc lang="fr">8es de finale dames et messieurs. A Londres (Angleterre).(n)</desc>
     <category lang="fr">Tennis</category>
     <icon src="http://epg.canal-plus.com/mycanal/img/STD169/JPG/231X130/STD169_22105669.JPG" />
-  </programme>
-  <programme start="20190708120000 +0100" stop="20190708180000 +0100" channel="BEIN SPORTS MAX 4">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708120000 +0100" stop="20190708181500 +0100" channel="BEIN SPORTS MAX 5">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708181500 +0100" stop="20190708203000 +0100" channel="BEIN SPORTS MAX 5">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708120000 +0100" stop="20190708180000 +0100" channel="BEIN SPORTS MAX 6">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
-  </programme>
-  <programme start="20190708210000 +0100" stop="20190709030000 +0100" channel="BEIN SPORTS MAX 7">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1510.JPG" />
-  </programme>
-  <programme start="20190708210000 +0100" stop="20190709030000 +0100" channel="BEIN SPORTS MAX 8">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708210000 +0100" stop="20190709030000 +0100" channel="BEIN SPORTS MAX 9">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1456.JPG" />
-  </programme>
-  <programme start="20190708210000 +0100" stop="20190709030000 +0100" channel="BEIN SPORTS MAX 10">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <category lang="fr">Divers</category>
-    <icon src="http://epg.canal-plus.com/mycanal/img/GEN169/JPG/231X130/GEN169_1604.JPG" />
   </programme>
   <programme start="20190708013000 +0100" stop="20190708020000 +0100" channel="BT Sport 1">
     <title lang="en">Formula E: Street Racers</title>
@@ -23540,17 +23177,17 @@
     <sub-title lang="en">German Bundesliga 2018/2019 Week 1</sub-title>
     <category lang="en">German League - Bundesliga</category>
   </programme>
-  <programme start="20190708191500 +0100" stop="20190708210000 +0100" channel="HD5">
+  <programme start="20190708191500 +0100" stop="20190708205500 +0100" channel="HD5">
     <title lang="en">Hertha Berlin vs 1. FC Nürnberg</title>
     <sub-title lang="en">German Bundesliga 2018/2019 Week 1</sub-title>
     <category lang="en">German League - Bundesliga</category>
   </programme>
-  <programme start="20190708210000 +0100" stop="20190708224500 +0100" channel="HD5">
+  <programme start="20190708205500 +0100" stop="20190708224500 +0100" channel="HD5">
     <title lang="en">FC Schalke 04 vs Hertha Berlin</title>
     <sub-title lang="en">German Bundesliga 2018/2019 Week 2</sub-title>
     <category lang="en">German League - Bundesliga</category>
   </programme>
-  <programme start="20190708224500 +0100" stop="20190709003000 +0100" channel="HD5">
+  <programme start="20190708224500 +0100" stop="20190709003200 +0100" channel="HD5">
     <title lang="en">TSG 1899 Hoffenheim vs SportClub Freiburg</title>
     <sub-title lang="en">German Bundesliga 2018/2019 Week 2</sub-title>
     <category lang="en">German League - Bundesliga</category>
@@ -23617,12 +23254,12 @@
     <sub-title lang="en">French Ligue 1 2018/2019 Week 37</sub-title>
     <category lang="en">French League - Ligue 1</category>
   </programme>
-  <programme start="20190708202900 +0100" stop="20190708210000 +0100" channel="HD6">
+  <programme start="20190708202900 +0100" stop="20190708210100 +0100" channel="HD6">
     <title lang="en">Marseille</title>
     <sub-title lang="en">Best Goals Ligue 1 2018/2019</sub-title>
     <category lang="en">French League - Ligue 1</category>
   </programme>
-  <programme start="20190708210000 +0100" stop="20190708224500 +0100" channel="HD6">
+  <programme start="20190708210100 +0100" stop="20190708224500 +0100" channel="HD6">
     <title lang="en">Amiens vs Guingamp</title>
     <sub-title lang="en">French Ligue 1 2018/2019 Week 38</sub-title>
     <category lang="en">French League - Ligue 1</category>
@@ -24315,26 +23952,6 @@
     <title lang="en">BEIN REPLAY</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20190708003500 +0100" stop="20190708013000 +0100" channel="SportsHD15">
-    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20190708013000 +0100" stop="20190708013500 +0100" channel="SportsHD15">
-    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20190708013500 +0100" stop="20190708021500 +0100" channel="SportsHD15">
-    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20190708021500 +0100" stop="20190708025000 +0100" channel="SportsHD15">
-    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20190708025000 +0100" stop="20190708040000 +0100" channel="SportsHD15">
-    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
-    <category lang="en">Sports General</category>
-  </programme>
   <programme start="20190708040000 +0100" stop="20190708045000 +0100" channel="SportsHD15">
     <title lang="en">CA SE PASSE SUR beIN SPORTS</title>
     <category lang="en">Sports General</category>
@@ -24387,25 +24004,9 @@
     <sub-title lang="en">J22: JUVENTUS PARME</sub-title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20190708224500 +0100" stop="20190709040000 +0100" channel="SportsHD15">
+  <programme start="20190708224500 +0100" stop="20190709004500 +0100" channel="SportsHD15">
     <title lang="en">BUNDESLIGA</title>
     <sub-title lang="en">J21: DORTMUND HOFFENHEIM</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20190708001000 +0100" stop="20190708001500 +0100" channel="SportsHD16">
-    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20190708001500 +0100" stop="20190708013000 +0100" channel="SportsHD16">
-    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20190708013000 +0100" stop="20190708020500 +0100" channel="SportsHD16">
-    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20190708020500 +0100" stop="20190708040000 +0100" channel="SportsHD16">
-    <title lang="en">CA SE PASSE SUR BEIN SPORTS</title>
     <category lang="en">Sports General</category>
   </programme>
   <programme start="20190708040000 +0100" stop="20190708045000 +0100" channel="SportsHD16">
@@ -24460,7 +24061,7 @@
     <title lang="en">CA SE PASSE SUR beIN SPORTS</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20190708234000 +0100" stop="20190709040000 +0100" channel="SportsHD16">
+  <programme start="20190708234000 +0100" stop="20190709003000 +0100" channel="SportsHD16">
     <title lang="en">CA SE PASSE SUR beIN SPORTS</title>
     <category lang="en">Sports General</category>
   </programme>
@@ -24601,7 +24202,7 @@
     <category lang="en">Movies</category>
   </programme>
   <programme start="20190708180000 +0100" stop="20190708200000 +0100" channel="MoviesHD1">
-    <title lang="en">Lying And Stealing</title>
+    <title lang="en">Almost Friends</title>
     <category lang="en">Movies</category>
   </programme>
   <programme start="20190708200000 +0100" stop="20190708220000 +0100" channel="MoviesHD1">
@@ -26302,7 +25903,7 @@
     <sub-title lang="en">Score</sub-title>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20190708234500 +0100" stop="20190709030000 +0100" channel="Jeem">
+  <programme start="20190708234500 +0100" stop="20190709000000 +0100" channel="Jeem">
     <title lang="en">Jungle Bunch To The Rescue</title>
     <sub-title lang="en">The Poisonous Berry</sub-title>
     <category lang="en">Kids</category>
@@ -26837,14 +26438,10 @@
     <sub-title lang="en">alasdekaa wal kora</sub-title>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20190708195900 +0100" stop="20190709030000 +0100" channel="Baraem">
+  <programme start="20190708195900 +0100" stop="20190709030100 +0100" channel="Baraem">
     <title lang="en">Baraem Programs Openers and Closers</title>
     <sub-title lang="en">Imagine and dream Block Nam al Qa</sub-title>
     <category lang="en">Kids</category>
-  </programme>
-  <programme start="20190708020000 +0100" stop="20190708024500 +0100" channel="CartoonNetworkAR">
-    <title lang="en">Teen Titans Go! To the Movies</title>
-    <category lang="en">Movies</category>
   </programme>
   <programme start="20190708024500 +0100" stop="20190708030800 +0100" channel="CartoonNetworkAR">
     <title lang="en">Bakugan</title>
@@ -31624,15 +31221,6 @@
     <sub-title lang="en">Bridal Cover Up</sub-title>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20190708013000 +0100" stop="20190708033000 +0100" channel="HD1FR">
-    <title lang="en">Coupe d'Afrique des Nations Total</title>
-    <sub-title lang="en">Maroc / Bénin</sub-title>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20190708033000 +0100" stop="20190708040000 +0100" channel="HD1FR">
-    <title lang="en">Ça se passe sur beIN SPORTS</title>
-    <category lang="en">Emission</category>
-  </programme>
   <programme start="20190708040000 +0100" stop="20190708050000 +0100" channel="HD1FR">
     <title lang="en">Domino's Ligue 2</title>
     <sub-title lang="en">Brest / Lorient</sub-title>
@@ -31686,14 +31274,6 @@
     <sub-title lang="en">Ouganda / Sénégal</sub-title>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20190708001500 +0100" stop="20190708040000 +0100" channel="HD2FR">
-    <title lang="en">Ça se passe sur beIN SPORTS</title>
-    <category lang="en">Emission</category>
-  </programme>
-  <programme start="20190708040000 +0100" stop="20190708060000 +0100" channel="HD2FR">
-    <title lang="en">Ça se passe sur beIN SPORTS</title>
-    <category lang="en">Emission</category>
-  </programme>
   <programme start="20190708060000 +0100" stop="20190708080000 +0100" channel="HD2FR">
     <title lang="en">Coupe d'Afrique des Nations Total</title>
     <sub-title lang="en">Nigeria / Cameroun</sub-title>
@@ -31743,10 +31323,6 @@
     <title lang="en">Coupe d'Afrique des Nations Total</title>
     <sub-title lang="en">Maroc / Bénin</sub-title>
     <category lang="en">Football</category>
-  </programme>
-  <programme start="20190708040000 +0100" stop="20190708070000 +0100" channel="HD3FR">
-    <title lang="en">Ça se passe sur beIN SPORTS</title>
-    <category lang="en">Emission</category>
   </programme>
   <programme start="20190708070000 +0100" stop="20190708090000 +0100" channel="HD3FR">
     <title lang="en">Wimbledon 2019</title>
@@ -33081,19 +32657,6 @@
     <title lang="en">Newcastle Jets vs Sydney FC</title>
     <category lang="en">Hyundai A-League 2018/19</category>
   </programme>
-  <programme start="20190708170000 +0700" stop="20190708170500 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">Thời sự 17h</title>
-  </programme>
-  <programme start="20190708170500 +0700" stop="20190708173000 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">Cải cách hành chính</title>
-    <desc lang="vi">Vì nền hành chính Quốc gia.(n)</desc>
-  </programme>
-  <programme start="20190708173000 +0700" stop="20190708183000 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">Việt Nam hôm nay</title>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708190000 +0700" channel="VTV1 HD-ClipTV">
-    <title lang="vi">Chuyển Động 24h</title>
-  </programme>
   <programme start="20190708190000 +0700" stop="20190708194000 +0700" channel="VTV1 HD-ClipTV">
     <title lang="vi">Thời Sự 19h</title>
   </programme>
@@ -33158,22 +32721,6 @@
   <programme start="20190708233000 +0700" stop="20190708234500 +0700" channel="VTV1 HD-ClipTV">
     <title lang="vi">Ký sự</title>
   </programme>
-  <programme start="20190708173000 +0700" stop="20190708174500 +0700" channel="VTV2 HD-ClipTV">
-    <title lang="vi">Nhà nông vui vẻ</title>
-  </programme>
-  <programme start="20190708174500 +0700" stop="20190708180000 +0700" channel="VTV2 HD-ClipTV">
-    <title lang="vi">Lăng kính của con</title>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708181500 +0700" channel="VTV2 HD-ClipTV">
-    <title lang="vi">Kỹ năng tham gia giao thông</title>
-  </programme>
-  <programme start="20190708181500 +0700" stop="20190708183000 +0700" channel="VTV2 HD-ClipTV">
-    <title lang="vi">Phát triển bền vững</title>
-    <desc lang="vi">Hướng tới khu đô thị du lịch xanh.(n)</desc>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708190000 +0700" channel="VTV2 HD-ClipTV">
-    <title lang="vi">Chuyển động 24 giờ</title>
-  </programme>
   <programme start="20190708190000 +0700" stop="20190708195000 +0700" channel="VTV2 HD-ClipTV">
     <title lang="vi">Phim truyện</title>
     <desc lang="vi">Tây du ký - Tập 1.(n)</desc>
@@ -33204,21 +32751,6 @@
   <programme start="20190708230000 +0700" stop="20190708234500 +0700" channel="VTV2 HD-ClipTV">
     <title lang="vi">Khám phá thế giới</title>
     <desc lang="vi">Nước Áo từ trên cao - Tập 1.(n)</desc>
-  </programme>
-  <programme start="20190708165000 +0700" stop="20190708170400 +0700" channel="VTV3 HD-ClipTV">
-    <title lang="vi">Mỗi ngày một niềm vui</title>
-  </programme>
-  <programme start="20190708170400 +0700" stop="20190708170500 +0700" channel="VTV3 HD-ClipTV">
-    <title lang="vi">Thời tiết</title>
-  </programme>
-  <programme start="20190708170500 +0700" stop="20190708171000 +0700" channel="VTV3 HD-ClipTV">
-    <title lang="vi">Thông tin 260</title>
-  </programme>
-  <programme start="20190708171000 +0700" stop="20190708172000 +0700" channel="VTV3 HD-ClipTV">
-    <title lang="vi">Khu dân cư rắc rối</title>
-  </programme>
-  <programme start="20190708172000 +0700" stop="20190708181000 +0700" channel="VTV3 HD-ClipTV">
-    <title lang="vi">Cô Giáo Ô Sun-Nam (Tập 67+68)</title>
   </programme>
   <programme start="20190708181000 +0700" stop="20190708185500 +0700" channel="VTV3 HD-ClipTV">
     <title lang="vi">Phim truyện</title>
@@ -33252,22 +32784,6 @@
   </programme>
   <programme start="20190708223000 +0700" stop="20190708232000 +0700" channel="VTV3 HD-ClipTV">
     <title lang="vi">Vỏ Bọc (Tập 51)</title>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708174500 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Đường lên đỉnh Olympia</title>
-    <desc lang="vi">Cuộc 40.(n)</desc>
-  </programme>
-  <programme start="20190708174500 +0700" stop="20190708180000 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Khoảnh khắc</title>
-    <desc lang="vi">Số 14.(n)</desc>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708181500 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Âm nhạc Việt Nam những chặng đường</title>
-    <desc lang="vi">Số 21.(n)</desc>
-  </programme>
-  <programme start="20190708181500 +0700" stop="20190708190000 +0700" channel="VTV4 HD-ClipTV">
-    <title lang="vi">Talk Vietnam</title>
-    <desc lang="vi">Embracing differences - Tôn trọng sự khác biệt.(n)</desc>
   </programme>
   <programme start="20190708190000 +0700" stop="20190708193000 +0700" channel="VTV4 HD-ClipTV">
     <title lang="vi">Bản tin tiếng Trung</title>
@@ -33317,26 +32833,6 @@
   <programme start="20190708230000 +0700" stop="20190708233000 +0700" channel="VTV4 HD-ClipTV">
     <title lang="vi">Bản tin tiếng Nga</title>
   </programme>
-  <programme start="20190708170000 +0700" stop="20190708174500 +0700" channel="VTV5 HD-ClipTV">
-    <title lang="vi">Phim truyện</title>
-    <desc lang="vi">Ngày mai ánh sang - Tập 40.(n)</desc>
-  </programme>
-  <programme start="20190708174500 +0700" stop="20190708180000 +0700" channel="VTV5 HD-ClipTV">
-    <title lang="vi">Khám phá Việt Nam</title>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708182000 +0700" channel="VTV5 HD-ClipTV">
-    <title lang="vi">Thời sự</title>
-  </programme>
-  <programme start="20190708182000 +0700" stop="20190708182300 +0700" channel="VTV5 HD-ClipTV">
-    <title lang="vi">Bản tin thời tiết</title>
-  </programme>
-  <programme start="20190708182300 +0700" stop="20190708183000 +0700" channel="VTV5 HD-ClipTV">
-    <title lang="vi">Bản tin thị trường</title>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708183500 +0700" channel="VTV5 HD-ClipTV">
-    <title lang="vi">Gia đình vàng</title>
-    <desc lang="vi">Khi con bị bạo lực học đường.(n)</desc>
-  </programme>
   <programme start="20190708183500 +0700" stop="20190708190000 +0700" channel="VTV5 HD-ClipTV">
     <title lang="vi">Phim hoạt hình</title>
     <desc lang="vi">Bố đầu to, con đầu nhỏ - Tập 21, 22.(n)</desc>
@@ -33366,20 +32862,6 @@
   <programme start="20190708224500 +0700" stop="20190708233000 +0700" channel="VTV5 HD-ClipTV">
     <title lang="vi">Khám phá thế giới</title>
     <desc lang="vi">Thế giới của sắc màu - Phần 3.(n)</desc>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708173000 +0700" channel="VTV6 HD-ClipTV">
-    <title lang="vi">Thể thao</title>
-  </programme>
-  <programme start="20190708173000 +0700" stop="20190708180000 +0700" channel="VTV6 HD-ClipTV">
-    <title lang="vi">Phim hoạt hình</title>
-    <desc lang="vi">Đi tìm công lý - Tập 31.(n)</desc>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708183000 +0700" channel="VTV6 HD-ClipTV">
-    <title lang="vi">Hôm nay ai đến</title>
-    <desc lang="vi">Số 53.(n)</desc>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708185500 +0700" channel="VTV6 HD-ClipTV">
-    <title lang="vi">Bản tin thế hệ số</title>
   </programme>
   <programme start="20190708185500 +0700" stop="20190708190000 +0700" channel="VTV6 HD-ClipTV">
     <title lang="vi">Thời tiết</title>
@@ -33413,26 +32895,6 @@
   </programme>
   <programme start="20190708223000 +0700" stop="20190708230000 +0700" channel="VTV6 HD-ClipTV">
     <title lang="vi">Bản tin thế hệ số</title>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708171400 +0700" channel="VTV7 HD-ClipTV">
-    <title lang="vi">Follow us</title>
-    <desc lang="vi">Số 20 - Craft villages.(n)</desc>
-  </programme>
-  <programme start="20190708171400 +0700" stop="20190708180100 +0700" channel="VTV7 HD-ClipTV">
-    <title lang="vi">Jumping with TOEIC</title>
-    <desc lang="vi">Số 60.(n)</desc>
-  </programme>
-  <programme start="20190708180100 +0700" stop="20190708181500 +0700" channel="VTV7 HD-ClipTV">
-    <title lang="vi">Tayo xe buýt bé nhỏ</title>
-    <desc lang="vi">Tập 29.(n)</desc>
-  </programme>
-  <programme start="20190708181500 +0700" stop="20190708183000 +0700" channel="VTV7 HD-ClipTV">
-    <title lang="vi">Tayo xe buýt bé nhỏ</title>
-    <desc lang="vi">Tập 30.(n)</desc>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708185000 +0700" channel="VTV7 HD-ClipTV">
-    <title lang="vi">Ô cửa khoa học</title>
-    <desc lang="vi">Số 32 - Các dụng cụ thí nghiệm.(n)</desc>
   </programme>
   <programme start="20190708185000 +0700" stop="20190708190000 +0700" channel="VTV7 HD-ClipTV">
     <title lang="vi">Stream toán học</title>
@@ -33497,18 +32959,6 @@
     <title lang="vi">Đường đến trường</title>
     <desc lang="vi">Không có mưa.(n)</desc>
   </programme>
-  <programme start="20190708170000 +0700" stop="20190708175000 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Người Đàm Phán (Tập 32)</title>
-  </programme>
-  <programme start="20190708175000 +0700" stop="20190708180000 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Thông tin - Thông báo</title>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708183000 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Bản tin</title>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708184500 +0700" channel="VTV8 HD-ClipTV">
-    <title lang="vi">Kinh tế - Thị trường 24 7</title>
-  </programme>
   <programme start="20190708184500 +0700" stop="20190708185500 +0700" channel="VTV8 HD-ClipTV">
     <title lang="vi">Theo dòng thời sự</title>
   </programme>
@@ -33567,16 +33017,6 @@
     <title lang="vi">Phim Sitcom</title>
     <desc lang="vi">Gia đình vui nhộn - Tập 51: Sen mê súng.(n)</desc>
   </programme>
-  <programme start="20190708170000 +0700" stop="20190708174500 +0700" channel="VTV9 HD-ClipTV">
-    <title lang="vi">Phim truyện</title>
-    <desc lang="vi">Lấp lánh mưa bay - Tập 28.(n)</desc>
-  </programme>
-  <programme start="20190708174500 +0700" stop="20190708180000 +0700" channel="VTV9 HD-ClipTV">
-    <title lang="vi">Tám công sở</title>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708184500 +0700" channel="VTV9 HD-ClipTV">
-    <title lang="vi">Toàn cảnh 24h</title>
-  </programme>
   <programme start="20190708184500 +0700" stop="20190708190000 +0700" channel="VTV9 HD-ClipTV">
     <title lang="vi">Cà phê tử tế</title>
   </programme>
@@ -33627,35 +33067,19 @@
   <programme start="20190708232500 +0700" stop="20190708234500 +0700" channel="VTV9 HD-ClipTV">
     <title lang="vi">Ca nhạc</title>
   </programme>
-  <programme start="20190708180000 +0700" stop="20190708195100 +0700" channel="K+1-HD">
-    <title lang="vi">Đại Thủy Chiến</title>
-    <desc lang="vi">Roaring Currents.(n)</desc>
-  </programme>
-  <programme start="20190708195100 +0700" stop="20190708200100 +0700" channel="K+1-HD">
+  <programme start="20190708195100 +0700" stop="20190708200200 +0700" channel="K+1-HD">
     <title lang="vi">Clip ca nhạc music clip</title>
   </programme>
-  <programme start="20190708200100 +0700" stop="20190708215100 +0700" channel="K+1-HD">
+  <programme start="20190708200200 +0700" stop="20190708215100 +0700" channel="K+1-HD">
     <title lang="vi">Săn Lùng Quái Thú</title>
     <desc lang="vi">Monstrum.(n)</desc>
   </programme>
-  <programme start="20190708215100 +0700" stop="20190708220000 +0700" channel="K+1-HD">
+  <programme start="20190708215100 +0700" stop="20190708220100 +0700" channel="K+1-HD">
     <title lang="vi">(the girl from yesterday ost) tinh tho</title>
   </programme>
-  <programme start="20190708220000 +0700" stop="20190708225400 +0700" channel="K+1-HD">
+  <programme start="20190708220100 +0700" stop="20190708225400 +0700" channel="K+1-HD">
     <title lang="vi">Ranh Giới Cuối Cùng (Phần 2 - Tập 5)</title>
     <desc lang="vi">No Limit S2 Ep05.(n)</desc>
-  </programme>
-  <programme start="20190708165900 +0700" stop="20190708174500 +0700" channel="K+NS-HD">
-    <title lang="vi">Liên Minh Quân Sư (Phần 2)</title>
-  </programme>
-  <programme start="20190708174500 +0700" stop="20190708175100 +0700" channel="K+NS-HD">
-    <title lang="vi">Trailer k+ content 2019</title>
-  </programme>
-  <programme start="20190708175100 +0700" stop="20190708180000 +0700" channel="K+NS-HD">
-    <title lang="vi">Clip ca nhạc music clip</title>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708184800 +0700" channel="K+NS-HD">
-    <title lang="vi">Nếu Ốc Sên Có Tình Yêu (Tập 6)</title>
   </programme>
   <programme start="20190708184800 +0700" stop="20190708185900 +0700" channel="K+NS-HD">
     <title lang="vi">Clip ca nhạc music clip</title>
@@ -33687,66 +33111,41 @@
   <programme start="20190708225200 +0700" stop="20190708225900 +0700" channel="K+NS-HD">
     <title lang="vi">Clip ca nhạc music clip</title>
   </programme>
-  <programme start="20190708165200 +0700" stop="20190708175200 +0700" channel="K+PC-HD">
-    <title lang="vi">Vòng 14 V.League 2019: Hải Phòng - Hà Nội</title>
-  </programme>
-  <programme start="20190708175200 +0700" stop="20190708175700 +0700" channel="K+PC-HD">
-    <title lang="vi">Trailer k+ content 2019</title>
-  </programme>
-  <programme start="20190708175700 +0700" stop="20190708185200 +0700" channel="K+PC-HD">
-    <title lang="vi">Hải phòng - hà nội (h2) v.league 2019 vòng 14</title>
-  </programme>
-  <programme start="20190708185200 +0700" stop="20190708195200 +0700" channel="K+PC-HD">
+  <programme start="20190708185300 +0700" stop="20190708195300 +0700" channel="K+PC-HD">
     <title lang="vi">Tổng Hợp ATP 500 Noventi Mở Rộng 2019</title>
   </programme>
-  <programme start="20190708195200 +0700" stop="20190708204700 +0700" channel="K+PC-HD">
+  <programme start="20190708195300 +0700" stop="20190708204800 +0700" channel="K+PC-HD">
     <title lang="vi">Tổng hợp korn ferry tour 2019 korn ferry tour 2019 highlights no.04</title>
   </programme>
-  <programme start="20190708204700 +0700" stop="20190708205200 +0700" channel="K+PC-HD">
+  <programme start="20190708204800 +0700" stop="20190708205300 +0700" channel="K+PC-HD">
     <title lang="vi">Người dẫn đầu 2019 – travelers championship - ngày 2</title>
   </programme>
-  <programme start="20190708205200 +0700" stop="20190708222300 +0700" channel="K+PC-HD">
+  <programme start="20190708205300 +0700" stop="20190708222400 +0700" channel="K+PC-HD">
     <title lang="vi">Golf pga tour 3m mở rộng 2019 – ngày 1</title>
   </programme>
-  <programme start="20190708222300 +0700" stop="20190708225200 +0700" channel="K+PC-HD">
+  <programme start="20190708222400 +0700" stop="20190708225300 +0700" channel="K+PC-HD">
     <title lang="vi">đội hình trong mơ dream team no.15</title>
   </programme>
-  <programme start="20190708165600 +0700" stop="20190708174900 +0700" channel="K+PM-HD">
-    <title lang="vi">Brazil - Argentina (H2) Copa America 2019: Bán Kết</title>
-  </programme>
-  <programme start="20190708174900 +0700" stop="20190708175700 +0700" channel="K+PM-HD">
-    <title lang="vi">Trận đấu 5 phút: colombia - chile</title>
-  </programme>
-  <programme start="20190708175700 +0700" stop="20190708182900 +0700" channel="K+PM-HD">
-    <title lang="vi">Hành Trình Copa America 2019</title>
-  </programme>
-  <programme start="20190708182900 +0700" stop="20190708185700 +0700" channel="K+PM-HD">
-    <title lang="vi">Cột mốc 100: michael owen pl 100 s1 no.05: michael owen</title>
-  </programme>
-  <programme start="20190708185700 +0700" stop="20190708195200 +0700" channel="K+PM-HD">
+  <programme start="20190708190000 +0700" stop="20190708195500 +0700" channel="K+PM-HD">
     <title lang="vi">Tổng Hợp Các Bàn Thắng Ngoại Hạng Anh 2018 19</title>
   </programme>
-  <programme start="20190708195200 +0700" stop="20190708195700 +0700" channel="K+PM-HD">
+  <programme start="20190708195500 +0700" stop="20190708200000 +0700" channel="K+PM-HD">
     <title lang="vi">Highlights brazil - argentina bán kết copa america 2019</title>
   </programme>
-  <programme start="20190708195700 +0700" stop="20190708205600 +0700" channel="K+PM-HD">
+  <programme start="20190708200000 +0700" stop="20190708205900 +0700" channel="K+PM-HD">
     <title lang="vi">Brazil – Peru (H1) Copa America 2019: Chung Kết</title>
   </programme>
-  <programme start="20190708205600 +0700" stop="20190708215300 +0700" channel="K+PM-HD">
+  <programme start="20190708205900 +0700" stop="20190708215400 +0700" channel="K+PM-HD">
     <title lang="vi">Brazil – Peru (H2) Copa America 2019: Chung Kết</title>
   </programme>
-  <programme start="20190708215300 +0700" stop="20190708220700 +0700" channel="K+PM-HD">
+  <programme start="20190708215400 +0700" stop="20190708221400 +0700" channel="K+PM-HD">
+    <title lang="vi">Lễ trao giải copa america 2019</title>
+  </programme>
+  <programme start="20190708221400 +0700" stop="20190708222800 +0700" channel="K+PM-HD">
     <title lang="vi">Thế giới bàn thắng goal stream</title>
   </programme>
-  <programme start="20190708220700 +0700" stop="20190708230200 +0700" channel="K+PM-HD">
+  <programme start="20190708222800 +0700" stop="20190708232300 +0700" channel="K+PM-HD">
     <title lang="vi">Man City – Wolverhampton (H1) Premier League 2018 19: Vòng 22</title>
-  </programme>
-  <programme start="20190708230200 +0700" stop="20190708235200 +0700" channel="K+PM-HD">
-    <title lang="vi">Man City – Wolverhampton (H2) Premier League 2018 19: Vòng 22</title>
-  </programme>
-  <programme start="20190708181000 +0700" stop="20190708200000 +0700" channel="Fox Movies HD-ClipTV">
-    <title lang="vi">Cớm Tập Sự 2</title>
-    <desc lang="vi">Ride Along 2.(n)</desc>
   </programme>
   <programme start="20190708200000 +0700" stop="20190708214000 +0700" channel="Fox Movies HD-ClipTV">
     <title lang="vi">Sức Mạnh Siêu Phàm</title>
@@ -33756,10 +33155,6 @@
     <title lang="vi">Jack Và Đại Chiến Người Khổng Lồ</title>
     <desc lang="vi">Jack The Giant Slayer.(n)</desc>
   </programme>
-  <programme start="20190708172000 +0700" stop="20190708190000 +0700" channel="Fox Family Movies HD-ClipTV">
-    <title lang="vi">Elle: Lọ Lem Thời Hiện Đại</title>
-    <desc lang="vi">Elle: A Modern Cinderella Tale.(n)</desc>
-  </programme>
   <programme start="20190708190000 +0700" stop="20190708204500 +0700" channel="Fox Family Movies HD-ClipTV">
     <title lang="vi">Tiến Hóa</title>
     <desc lang="vi">Evolution.(n)</desc>
@@ -33767,18 +33162,6 @@
   <programme start="20190708204500 +0700" stop="20190708225500 +0700" channel="Fox Family Movies HD-ClipTV">
     <title lang="vi">Bobby Jones: Thiên Tài Bị Đột Quỵ</title>
     <desc lang="vi">Bobby Jones: Stroke Of Genius.(n)</desc>
-  </programme>
-  <programme start="20190708170500 +0700" stop="20190708180000 +0700" channel="Fox Life HD-ClipTV">
-    <title lang="vi">Vụ Bê Bối (Phần 6 - Tập 12)</title>
-    <desc lang="vi">Scandal S6 Ep12.(n)</desc>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708183000 +0700" channel="Fox Life HD-ClipTV">
-    <title lang="vi">Chuyến Bay Từ L.a đến Las Vegas (tập 5)</title>
-    <desc lang="vi">La To Vegas Ep5.(n)</desc>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708190000 +0700" channel="Fox Life HD-ClipTV">
-    <title lang="vi">Chuyến Bay Từ L.a Đến Las Vegas (Tập 6)</title>
-    <desc lang="vi">La To Vegas Ep6.(n)</desc>
   </programme>
   <programme start="20190708190000 +0700" stop="20190708200000 +0700" channel="Fox Life HD-ClipTV">
     <title lang="vi">Vua Đầu Bếp Nhí Mỹ (Mùa 6 - Tập 5)</title>
@@ -33804,18 +33187,6 @@
     <title lang="vi">Bác Sĩ Phẫu Thuật (phần 15 - Tập 2)</title>
     <desc lang="vi">Grey's Anatomy S15 Ep2.(n)</desc>
   </programme>
-  <programme start="20190708170000 +0700" stop="20190708173000 +0700" channel="Fox HD-ClipTV">
-    <title lang="vi">World's Funniest Videos: Top 10 Countdown S2 Ep29</title>
-    <desc lang="vi">Wide Open Spaces.(n)</desc>
-  </programme>
-  <programme start="20190708173000 +0700" stop="20190708182000 +0700" channel="Fox HD-ClipTV">
-    <title lang="vi">Magnum P.i. Ep15</title>
-    <desc lang="vi">Day The Past Came Back.(n)</desc>
-  </programme>
-  <programme start="20190708182000 +0700" stop="20190708191000 +0700" channel="Fox HD-ClipTV">
-    <title lang="vi">Đặc Nhiệm Magnum (Tập 16)</title>
-    <desc lang="vi">Magnum P.i.(n)</desc>
-  </programme>
   <programme start="20190708191000 +0700" stop="20190708200000 +0700" channel="Fox HD-ClipTV">
     <title lang="vi">Hành Vi Phạm Tội (phần 14 - Tập 13)</title>
     <desc lang="vi">Criminal Minds S14 Ep13.(n)</desc>
@@ -33840,9 +33211,6 @@
     <title lang="vi">Đặc Nhiệm Magnum (Tập 15)</title>
     <desc lang="vi">Magnum P.i.(n)</desc>
   </programme>
-  <programme start="20190708175500 +0700" stop="20190708184500 +0700" channel="KBS World-ClipTV">
-    <title lang="vi">Entertainment Weekly</title>
-  </programme>
   <programme start="20190708184500 +0700" stop="20190708192000 +0700" channel="KBS World-ClipTV">
     <title lang="vi">Tổ Ấm Ngày Hạ</title>
   </programme>
@@ -33857,18 +33225,6 @@
   </programme>
   <programme start="20190708224000 +0700" stop="20190708225000 +0700" channel="KBS World-ClipTV">
     <title lang="vi">Music Bank K-Chart</title>
-  </programme>
-  <programme start="20190708170500 +0700" stop="20190708173500 +0700" channel="Baby TV HD-ClipTV">
-    <title lang="vi">Play &amp; Learn With Happy Birthday To You</title>
-    <desc lang="vi">Songs &amp; Rhymes.(n)</desc>
-  </programme>
-  <programme start="20190708173500 +0700" stop="20190708180500 +0700" channel="Baby TV HD-ClipTV">
-    <title lang="vi">Guessing Games With Puzzle Games &amp; Friends</title>
-    <desc lang="vi">In The Animal World.(n)</desc>
-  </programme>
-  <programme start="20190708180500 +0700" stop="20190708183500 +0700" channel="Baby TV HD-ClipTV">
-    <title lang="vi">Family Fun Time &amp; Rhymes</title>
-    <desc lang="vi">Gee-raffa.(n)</desc>
   </programme>
   <programme start="20190708183500 +0700" stop="20190708190500 +0700" channel="Baby TV HD-ClipTV">
     <title lang="vi">Family Fun Time &amp; Rhymes</title>
@@ -33910,12 +33266,6 @@
     <title lang="vi">Dreamy Nights</title>
     <desc lang="vi">Flowers.(n)</desc>
   </programme>
-  <programme start="20190708171000 +0700" stop="20190708180500 +0700" channel="AXN-ClipTV">
-    <title lang="vi">Chiến Binh Ninja Mỹ: Ninja Đối Đầu</title>
-  </programme>
-  <programme start="20190708180500 +0700" stop="20190708190000 +0700" channel="AXN-ClipTV">
-    <title lang="vi">Các Nguyên Tố: Cosentino</title>
-  </programme>
   <programme start="20190708190000 +0700" stop="20190708195500 +0700" channel="AXN-ClipTV">
     <title lang="vi">Chiến Binh Ninja Mỹ (Phần 9)</title>
   </programme>
@@ -33930,15 +33280,6 @@
   </programme>
   <programme start="20190708224000 +0700" stop="20190708233500 +0700" channel="AXN-ClipTV">
     <title lang="vi">Gia Đình Cảnh Sát (Phần 9)</title>
-  </programme>
-  <programme start="20190708165000 +0700" stop="20190708174000 +0700" channel="WARNER TV">
-    <title lang="vi">Rizzoli &amp; Isles (Tập 4)</title>
-  </programme>
-  <programme start="20190708174000 +0700" stop="20190708183000 +0700" channel="WARNER TV">
-    <title lang="vi">Sự Lừa Gạt (Phần 1 - Tập 1)</title>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708192000 +0700" channel="WARNER TV">
-    <title lang="vi">Huyền Thoại Tương Lai (Phần 4 - Tập 15)</title>
   </programme>
   <programme start="20190708192000 +0700" stop="20190708194500 +0700" channel="WARNER TV">
     <title lang="vi">Học Thuyết Vụ Nổ Lớn (Phần 8 - Tập 10)</title>
@@ -33957,22 +33298,6 @@
   </programme>
   <programme start="20190708232000 +0700" stop="20190708234500 +0700" channel="WARNER TV">
     <title lang="vi">Những Kẻ Thích Đùa Dại Dột (Tập 16)</title>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708173000 +0700" channel="CARTOON NETWORK">
-    <title lang="vi">Thế Giới Kì Diệu Của Gumball</title>
-    <desc lang="vi">Tập 2A\/Tập 2B.(n)</desc>
-  </programme>
-  <programme start="20190708173000 +0700" stop="20190708180000 +0700" channel="CARTOON NETWORK">
-    <title lang="vi">Ben 10</title>
-    <desc lang="vi">Tập 155\/Tập 156.(n)</desc>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708183000 +0700" channel="CARTOON NETWORK">
-    <title lang="vi">Cậu Bé Craig Và Con Suối Nhỏ</title>
-    <desc lang="vi">Tập 11\/Tập 12.(n)</desc>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708190000 +0700" channel="CARTOON NETWORK">
-    <title lang="vi">Cuộc Đua Của Các Tuyển Thủ</title>
-    <desc lang="vi">Tập 23\/Tập 24.(n)</desc>
   </programme>
   <programme start="20190708190000 +0700" stop="20190708193000 +0700" channel="CARTOON NETWORK">
     <title lang="vi">Chúng Tôi Đơn Giản Là Gấu</title>
@@ -33997,9 +33322,6 @@
     <title lang="vi">Steven Universe</title>
     <desc lang="vi">Tập 51\/Tập 52\/Tập 53\/Tập 54\/Tập 55.(n)</desc>
   </programme>
-  <programme start="20190708170000 +0700" stop="20190708190000 +0700" channel="BLOOMBERG">
-    <title lang="vi">Bloomberg Surveillance</title>
-  </programme>
   <programme start="20190708190000 +0700" stop="20190708210000 +0700" channel="BLOOMBERG">
     <title lang="vi">Bloomberg Markets</title>
   </programme>
@@ -34009,38 +33331,11 @@
   <programme start="20190708220000 +0700" stop="20190708230000 +0700" channel="BLOOMBERG">
     <title lang="vi">Bloomberg Markets: Americas</title>
   </programme>
-  <programme start="20190708175000 +0700" stop="20190708193000 +0700" channel="CINEMA WORLD">
-    <title lang="vi">Liệu Pháp Trò Chơi</title>
-  </programme>
   <programme start="20190708193000 +0700" stop="20190708210000 +0700" channel="CINEMA WORLD">
     <title lang="vi">Nghệ Thuật Nhái</title>
   </programme>
   <programme start="20190708210000 +0700" stop="20190708223500 +0700" channel="CINEMA WORLD">
     <title lang="vi">Bảo Mẫu: Tới đảo Mauritius</title>
-  </programme>
-  <programme start="20190708165500 +0700" stop="20190708170000 +0700" channel="FASHION TV">
-    <title lang="vi">Fashion Week</title>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708172500 +0700" channel="FASHION TV">
-    <title lang="vi">Fashion Flix</title>
-  </programme>
-  <programme start="20190708172500 +0700" stop="20190708173000 +0700" channel="FASHION TV">
-    <title lang="vi">F-people</title>
-  </programme>
-  <programme start="20190708173000 +0700" stop="20190708175500 +0700" channel="FASHION TV">
-    <title lang="vi">Fashion Flix</title>
-  </programme>
-  <programme start="20190708175500 +0700" stop="20190708180000 +0700" channel="FASHION TV">
-    <title lang="vi">Fashion Week</title>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708182500 +0700" channel="FASHION TV">
-    <title lang="vi">Made In Germany</title>
-  </programme>
-  <programme start="20190708182500 +0700" stop="20190708183000 +0700" channel="FASHION TV">
-    <title lang="vi">F-people</title>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708185500 +0700" channel="FASHION TV">
-    <title lang="vi">Made In Germany</title>
   </programme>
   <programme start="20190708185500 +0700" stop="20190708190000 +0700" channel="FASHION TV">
     <title lang="vi">Fashion Week</title>
@@ -34089,27 +33384,6 @@
   </programme>
   <programme start="20190708233000 +0700" stop="20190708235500 +0700" channel="FASHION TV">
     <title lang="vi">Midnite Secrets</title>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708171600 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">News</title>
-  </programme>
-  <programme start="20190708171600 +0700" stop="20190708173000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">Encore</title>
-  </programme>
-  <programme start="20190708173000 +0700" stop="20190708174500 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">News</title>
-  </programme>
-  <programme start="20190708174500 +0700" stop="20190708180000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">Middle East Matters</title>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708181600 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">News</title>
-  </programme>
-  <programme start="20190708181600 +0700" stop="20190708183000 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">Top Story</title>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708184600 +0700" channel="France 24 English-ClipTV">
-    <title lang="vi">News</title>
   </programme>
   <programme start="20190708184600 +0700" stop="20190708185100 +0700" channel="France 24 English-ClipTV">
     <title lang="vi">Business</title>
@@ -34183,27 +33457,6 @@
   <programme start="20190708234600 +0700" stop="20190708235100 +0700" channel="France 24 English-ClipTV">
     <title lang="vi">Sports</title>
   </programme>
-  <programme start="20190708170000 +0700" stop="20190708171500 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal</title>
-  </programme>
-  <programme start="20190708171500 +0700" stop="20190708173000 +0700" channel="France 24-ClipTV">
-    <title lang="vi">· L'affiche</title>
-  </programme>
-  <programme start="20190708173000 +0700" stop="20190708174500 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal</title>
-  </programme>
-  <programme start="20190708174500 +0700" stop="20190708180000 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Express Orient</title>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708181600 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal</title>
-  </programme>
-  <programme start="20190708181600 +0700" stop="20190708183000 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Fait Du Jour</title>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708184800 +0700" channel="France 24-ClipTV">
-    <title lang="vi">Le Journal</title>
-  </programme>
   <programme start="20190708184800 +0700" stop="20190708190000 +0700" channel="France 24-ClipTV">
     <title lang="vi">Chronique Sports</title>
   </programme>
@@ -34270,21 +33523,6 @@
   <programme start="20190708233000 +0700" stop="20190708235000 +0700" channel="France 24-ClipTV">
     <title lang="vi">Le Journal</title>
   </programme>
-  <programme start="20190708171000 +0700" stop="20190708174000 +0700" channel="BBC WORLD NEWS">
-    <title lang="vi">Global With Matthew Amroliwala</title>
-  </programme>
-  <programme start="20190708174000 +0700" stop="20190708175500 +0700" channel="BBC WORLD NEWS">
-    <title lang="vi">Global With Matthew Amroliwala</title>
-  </programme>
-  <programme start="20190708175500 +0700" stop="20190708181000 +0700" channel="BBC WORLD NEWS">
-    <title lang="vi">Sport Today</title>
-  </programme>
-  <programme start="20190708181000 +0700" stop="20190708182500 +0700" channel="BBC WORLD NEWS">
-    <title lang="vi">Global With Matthew Amroliwala</title>
-  </programme>
-  <programme start="20190708182500 +0700" stop="20190708184000 +0700" channel="BBC WORLD NEWS">
-    <title lang="vi">Global Business</title>
-  </programme>
   <programme start="20190708184000 +0700" stop="20190708191000 +0700" channel="BBC WORLD NEWS">
     <title lang="vi">Focus On Africa</title>
   </programme>
@@ -34318,12 +33556,6 @@
   <programme start="20190708234000 +0700" stop="20190708235500 +0700" channel="BBC WORLD NEWS">
     <title lang="vi">Asia Business Report</title>
   </programme>
-  <programme start="20190708172000 +0700" stop="20190708181000 +0700" channel="BBC EARTH">
-    <title lang="vi">Robson Green: Tay Câu Mạo Hiểm (Tập 4)</title>
-  </programme>
-  <programme start="20190708181000 +0700" stop="20190708191000 +0700" channel="BBC EARTH">
-    <title lang="vi">Dòng Mê Kông Cùng Sue Perkins (Tập 2)</title>
-  </programme>
   <programme start="20190708191000 +0700" stop="20190708193500 +0700" channel="BBC EARTH">
     <title lang="vi">Nhà Máy Thực Phẩm</title>
     <desc lang="vi">Tập 11.(n)</desc>
@@ -34344,18 +33576,6 @@
   </programme>
   <programme start="20190708224500 +0700" stop="20190708233500 +0700" channel="BBC EARTH">
     <title lang="vi">Gặp Gỡ Con Người (Tập 2)</title>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708173000 +0700" channel="Boomerang-ClipTV">
-    <title lang="vi">Chương Trình Tom Và Jerry</title>
-    <desc lang="vi">Tập 215\/Tập 227\/Tập 239.(n)</desc>
-  </programme>
-  <programme start="20190708173000 +0700" stop="20190708180000 +0700" channel="Boomerang-ClipTV">
-    <title lang="vi">Gấu Xám Và Những Chú Chuột Lemmut</title>
-    <desc lang="vi">Tập 90\/Tập 107\/Tập 124.(n)</desc>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708190000 +0700" channel="Boomerang-ClipTV">
-    <title lang="vi">Bình Tĩnh, Scooby-doo</title>
-    <desc lang="vi">Tập 8\/Tập 34.(n)</desc>
   </programme>
   <programme start="20190708190000 +0700" stop="20190708193000 +0700" channel="Boomerang-ClipTV">
     <title lang="vi">Những Giai Điệu Ngốc Nghếch</title>
@@ -34379,9 +33599,6 @@
   <programme start="20190708230000 +0700" stop="20190708233000 +0700" channel="Boomerang-ClipTV">
     <title lang="vi">Taffy</title>
     <desc lang="vi">Tập 4\/Tập 12\/Tập 20.(n)</desc>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708183500 +0700" channel="ABC AUSTRALIA">
-    <title lang="vi">Abc News Tonight</title>
   </programme>
   <programme start="20190708183500 +0700" stop="20190708194000 +0700" channel="ABC AUSTRALIA">
     <title lang="vi">Q&amp;a</title>
@@ -34407,15 +33624,6 @@
   <programme start="20190708233000 +0700" stop="20190708234500 +0700" channel="ABC AUSTRALIA">
     <title lang="vi">Abc News Overnight</title>
   </programme>
-  <programme start="20190708170500 +0700" stop="20190708180000 +0700" channel="BBC LIFESTYLE">
-    <title lang="vi">Britain's Best Home Cook</title>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708182500 +0700" channel="BBC LIFESTYLE">
-    <title lang="vi">Grand Designs</title>
-  </programme>
-  <programme start="20190708182500 +0700" stop="20190708185500 +0700" channel="BBC LIFESTYLE">
-    <title lang="vi">Rick Stein's Long Weekends</title>
-  </programme>
   <programme start="20190708185500 +0700" stop="20190708192000 +0700" channel="BBC LIFESTYLE">
     <title lang="vi">Gordon Ramsay's 24 Hrs To Hell And Back</title>
   </programme>
@@ -34433,27 +33641,6 @@
   </programme>
   <programme start="20190708225000 +0700" stop="20190708234500 +0700" channel="BBC LIFESTYLE">
     <title lang="vi">Britain's Best Home Cook</title>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708171500 +0700" channel="DW-ClipTV">
-    <title lang="vi">Dw News</title>
-  </programme>
-  <programme start="20190708171500 +0700" stop="20190708173000 +0700" channel="DW-ClipTV">
-    <title lang="vi">Business</title>
-  </programme>
-  <programme start="20190708173000 +0700" stop="20190708174500 +0700" channel="DW-ClipTV">
-    <title lang="vi">Dw News</title>
-  </programme>
-  <programme start="20190708174500 +0700" stop="20190708180000 +0700" channel="DW-ClipTV">
-    <title lang="vi">Arts And Culture</title>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708181500 +0700" channel="DW-ClipTV">
-    <title lang="vi">Dw News</title>
-  </programme>
-  <programme start="20190708181500 +0700" stop="20190708183000 +0700" channel="DW-ClipTV">
-    <title lang="vi">Business</title>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708184500 +0700" channel="DW-ClipTV">
-    <title lang="vi">Dw News</title>
   </programme>
   <programme start="20190708184500 +0700" stop="20190708190000 +0700" channel="DW-ClipTV">
     <title lang="vi">Arts And Culture</title>
@@ -34500,9 +33687,6 @@
   <programme start="20190708233000 +0700" stop="20190708234500 +0700" channel="DW-ClipTV">
     <title lang="vi">Business</title>
   </programme>
-  <programme start="20190708170000 +0700" stop="20190708190000 +0700" channel="FOX SPORTS 3-ClipTV">
-    <title lang="vi">Sbk Superbike World Championship 2019 - Superpole</title>
-  </programme>
   <programme start="20190708190000 +0700" stop="20190708200000 +0700" channel="FOX SPORTS 3-ClipTV">
     <title lang="vi">Max Power</title>
   </programme>
@@ -34515,15 +33699,6 @@
   <programme start="20190708223000 +0700" stop="20190708230000 +0700" channel="FOX SPORTS 3-ClipTV">
     <title lang="vi">Ultra-trail World Tour</title>
   </programme>
-  <programme start="20190708170000 +0700" stop="20190708180000 +0700" channel="Channel V HD-ClipTV">
-    <title lang="vi">[v] Loop</title>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708183000 +0700" channel="Channel V HD-ClipTV">
-    <title lang="vi">Double Shot</title>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708193000 +0700" channel="Channel V HD-ClipTV">
-    <title lang="vi">Xo</title>
-  </programme>
   <programme start="20190708193000 +0700" stop="20190708203000 +0700" channel="Channel V HD-ClipTV">
     <title lang="vi">[v] Loop</title>
   </programme>
@@ -34532,14 +33707,6 @@
   </programme>
   <programme start="20190708210000 +0700" stop="20190708220000 +0700" channel="Channel V HD-ClipTV">
     <title lang="vi">Xo</title>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708180000 +0700" channel="National Geographic HD-ClipTV">
-    <title lang="vi">Cold Water Gold E5</title>
-    <desc lang="vi">Take It To The Limit.(n)</desc>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708190000 +0700" channel="National Geographic HD-ClipTV">
-    <title lang="vi">Time Scanners E5</title>
-    <desc lang="vi">St. Paul's Cathedral.(n)</desc>
   </programme>
   <programme start="20190708190000 +0700" stop="20190708193000 +0700" channel="National Geographic HD-ClipTV">
     <title lang="vi">David Rocco's Dolce India E3</title>
@@ -34565,14 +33732,6 @@
     <title lang="vi">Cold Water Gold E6</title>
     <desc lang="vi">Holy Mackerel!(n)</desc>
   </programme>
-  <programme start="20190708173000 +0700" stop="20190708183000 +0700" channel="Nat Geo Wild HD-ClipTV">
-    <title lang="vi">The Monster Project Ep1</title>
-    <desc lang="vi">Jersey Devil.(n)</desc>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708193000 +0700" channel="Nat Geo Wild HD-ClipTV">
-    <title lang="vi">Shark Men S2 Ep1</title>
-    <desc lang="vi">Beach Patrol.(n)</desc>
-  </programme>
   <programme start="20190708193000 +0700" stop="20190708203000 +0700" channel="Nat Geo Wild HD-ClipTV">
     <title lang="vi">World's Deadliest Compilations Ep3</title>
     <desc lang="vi">Dangerous Games.(n)</desc>
@@ -34588,15 +33747,6 @@
   <programme start="20190708223000 +0700" stop="20190708233000 +0700" channel="Nat Geo Wild HD-ClipTV">
     <title lang="vi">Dr. K's Exotic Animal Er S4.5 Ep6</title>
     <desc lang="vi">Silly Rabbit...(n)</desc>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708174000 +0700" channel="Arirang">
-    <title lang="vi">Newscenter [l</title>
-  </programme>
-  <programme start="20190708174000 +0700" stop="20190708180000 +0700" channel="Arirang">
-    <title lang="vi">News In-depth [l</title>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708185000 +0700" channel="Arirang">
-    <title lang="vi">Seeking Korean Treasures</title>
   </programme>
   <programme start="20190708185000 +0700" stop="20190708190000 +0700" channel="Arirang">
     <title lang="vi">Now</title>
@@ -34628,12 +33778,6 @@
   <programme start="20190708223000 +0700" stop="20190708230000 +0700" channel="Arirang">
     <title lang="vi">Heart To Heart</title>
   </programme>
-  <programme start="20190708172000 +0700" stop="20190708181500 +0700" channel="Animal Planet-ClipTV">
-    <title lang="vi">Chuyện Chưa Kể Về Loài Chó (Tập 4)</title>
-  </programme>
-  <programme start="20190708181500 +0700" stop="20190708191000 +0700" channel="Animal Planet-ClipTV">
-    <title lang="vi">Sở Thú (Phần 2 - Tập 1)</title>
-  </programme>
   <programme start="20190708191000 +0700" stop="20190708200500 +0700" channel="Animal Planet-ClipTV">
     <title lang="vi">Những Hòn Đảo Hoang Dã Nhất Indonesia (Tập 4)</title>
   </programme>
@@ -34648,12 +33792,6 @@
   </programme>
   <programme start="20190708225000 +0700" stop="20190708234500 +0700" channel="Animal Planet-ClipTV">
     <title lang="vi">Quái Vật Trong Tôi (Phần 2 - Tập 3)</title>
-  </programme>
-  <programme start="20190708172000 +0700" stop="20190708174500 +0700" channel="Travel - Living (TLC)">
-    <title lang="vi">Say Yes To The Dress: Uk (s3)</title>
-  </programme>
-  <programme start="20190708174500 +0700" stop="20190708191000 +0700" channel="Travel - Living (TLC)">
-    <title lang="vi">Masterchef Australia (s7)</title>
   </programme>
   <programme start="20190708191000 +0700" stop="20190708200500 +0700" channel="Travel - Living (TLC)">
     <title lang="vi">Bake You Rich (s1)</title>
@@ -34672,19 +33810,6 @@
   </programme>
   <programme start="20190708225000 +0700" stop="20190708234500 +0700" channel="Travel - Living (TLC)">
     <title lang="vi">Window Warriors (s1)</title>
-  </programme>
-  <programme start="20190708165000 +0700" stop="20190708171500 +0700" channel="Discovery Asia-ClipTV">
-    <title lang="vi">Chào Mừng Đến Với Hệ Thống Đường Sắt Nhật Bản (Tập 1)</title>
-  </programme>
-  <programme start="20190708171500 +0700" stop="20190708174000 +0700" channel="Discovery Asia-ClipTV">
-    <title lang="vi">Chào Mừng Đến Với Hệ Thống Đường Sắt Nhật Bản (Tập 2)</title>
-  </programme>
-  <programme start="20190708174000 +0700" stop="20190708183000 +0700" channel="Discovery Asia-ClipTV">
-    <title lang="vi">Sống Cùng Kẻ ăn Thịt Người</title>
-    <desc lang="vi">Tập 2.(n)</desc>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708185500 +0700" channel="Discovery Asia-ClipTV">
-    <title lang="vi">Trao Đổi Đầu Bếp (Tập 2)</title>
   </programme>
   <programme start="20190708185500 +0700" stop="20190708192000 +0700" channel="Discovery Asia-ClipTV">
     <title lang="vi">Nhà Hàng Bobby Chinn (Tập 2)</title>
@@ -34714,17 +33839,6 @@
     <title lang="vi">Trao đổi đầu Bếp</title>
     <desc lang="vi">Tập 3.(n)</desc>
   </programme>
-  <programme start="20190708172500 +0700" stop="20190708175000 +0700" channel="Discovery Channel-ClipTV">
-    <title lang="vi">Cách Thức Chế Tạo (phần 13)</title>
-    <desc lang="vi">Tập 17.(n)</desc>
-  </programme>
-  <programme start="20190708175000 +0700" stop="20190708181500 +0700" channel="Discovery Channel-ClipTV">
-    <title lang="vi">Cách Thức Chế Tạo? (phần 13)</title>
-    <desc lang="vi">Tập 7.(n)</desc>
-  </programme>
-  <programme start="20190708181500 +0700" stop="20190708191000 +0700" channel="Discovery Channel-ClipTV">
-    <title lang="vi">Những Bậc Thầy Làm Nhà Trên Cây (Phần 6 - Tập 12)</title>
-  </programme>
   <programme start="20190708191000 +0700" stop="20190708200500 +0700" channel="Discovery Channel-ClipTV">
     <title lang="vi">Nhanh Và Ồn Ào (Phần 3 - Tập 8)</title>
   </programme>
@@ -34740,18 +33854,6 @@
   </programme>
   <programme start="20190708225000 +0700" stop="20190708234500 +0700" channel="Discovery Channel-ClipTV">
     <title lang="vi">Huyền Thoại Kho Vàng Do Cá Sấu Canh Giữ (Tập 6)</title>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708173000 +0700" channel="Boomerang">
-    <title lang="vi">Chương Trình Tom Và Jerry</title>
-    <desc lang="vi">Tập 215\/Tập 227\/Tập 239.(n)</desc>
-  </programme>
-  <programme start="20190708173000 +0700" stop="20190708180000 +0700" channel="Boomerang">
-    <title lang="vi">Gấu Xám Và Những Chú Chuột Lemmut</title>
-    <desc lang="vi">Tập 90\/Tập 107\/Tập 124.(n)</desc>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708190000 +0700" channel="Boomerang">
-    <title lang="vi">Bình Tĩnh, Scooby-doo</title>
-    <desc lang="vi">Tập 8\/Tập 34.(n)</desc>
   </programme>
   <programme start="20190708190000 +0700" stop="20190708193000 +0700" channel="Boomerang">
     <title lang="vi">Những Giai Điệu Ngốc Nghếch</title>
@@ -34775,15 +33877,6 @@
   <programme start="20190708230000 +0700" stop="20190708233000 +0700" channel="Boomerang">
     <title lang="vi">Taffy</title>
     <desc lang="vi">Tập 4\/Tập 12\/Tập 20.(n)</desc>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708180000 +0700" channel="VTC1-ClipTV">
-    <title lang="vi">Phù Dao Hoàng Hậu (Tập 32)</title>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708183000 +0700" channel="VTC1-ClipTV">
-    <title lang="vi">Chào buổi tối</title>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708194500 +0700" channel="VTC1-ClipTV">
-    <title lang="vi">Bản tin tối</title>
   </programme>
   <programme start="20190708194500 +0700" stop="20190708204500 +0700" channel="VTC1-ClipTV">
     <title lang="vi">Phim truyện bộ</title>
@@ -34814,24 +33907,6 @@
   </programme>
   <programme start="20190708234000 +0700" stop="20190708234500 +0700" channel="VTC1-ClipTV">
     <title lang="vi">thời tiết</title>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708174000 +0700" channel="VTC14-ClipTV">
-    <title lang="vi">Nhịp sống đỏ</title>
-    <desc lang="vi">Rối loạn nhịp tim và những câu hỏi thường gặp.(n)</desc>
-  </programme>
-  <programme start="20190708174000 +0700" stop="20190708175500 +0700" channel="VTC14-ClipTV">
-    <title lang="vi">Giao Thông An Toàn</title>
-  </programme>
-  <programme start="20190708175500 +0700" stop="20190708180000 +0700" channel="VTC14-ClipTV">
-    <title lang="vi">Thời tiết Nông vụ</title>
-    <desc lang="vi">Thời tiết Nông vụ.(n)</desc>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708183000 +0700" channel="VTC14-ClipTV">
-    <title lang="vi">Chào buổi tối</title>
-    <desc lang="vi">Chào buổi tối.(n)</desc>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708184500 +0700" channel="VTC14-ClipTV">
-    <title lang="vi">Chuyện Đông Chuyện Tây</title>
   </programme>
   <programme start="20190708184500 +0700" stop="20190708190000 +0700" channel="VTC14-ClipTV">
     <title lang="vi">Ngon Và Lành</title>
@@ -34871,22 +33946,6 @@
   <programme start="20190708230000 +0700" stop="20190708233000 +0700" channel="VTC14-ClipTV">
     <title lang="vi">Nhật Ký Cuộc Sống</title>
   </programme>
-  <programme start="20190708170500 +0700" stop="20190708171000 +0700" channel="VTC16-ClipTV">
-    <title lang="vi">Thị trường nông sản</title>
-    <desc lang="vi">Thị trường nông sản.(n)</desc>
-  </programme>
-  <programme start="20190708171000 +0700" stop="20190708172000 +0700" channel="VTC16-ClipTV">
-    <title lang="vi">Phim truyện nước ngoài</title>
-    <desc lang="vi">Phụ nữ đào hoa - Tập 32.(n)</desc>
-  </programme>
-  <programme start="20190708172000 +0700" stop="20190708180000 +0700" channel="VTC16-ClipTV">
-    <title lang="vi">Cẩm nang nội trợ</title>
-    <desc lang="vi">Cẩm nang nội trợ.(n)</desc>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708185000 +0700" channel="VTC16-ClipTV">
-    <title lang="vi">Thời sự Nông thôn</title>
-    <desc lang="vi">Thời sự Nông thôn.(n)</desc>
-  </programme>
   <programme start="20190708185000 +0700" stop="20190708190000 +0700" channel="VTC16-ClipTV">
     <title lang="vi">Nhà nông tin dùng</title>
     <desc lang="vi">Phân hữu cơ vinh sinh - Giải pháp canh tác bền vững cho nhà nông.(n)</desc>
@@ -34915,18 +33974,6 @@
     <title lang="vi">Phim truyện</title>
     <desc lang="vi">Vòng tròn 12 số - Tập 44.(n)</desc>
   </programme>
-  <programme start="20190708165500 +0700" stop="20190708170000 +0700" channel="HTV2-ClipTV">
-    <title lang="vi">Thông Tin Tổng Hợp Htv2</title>
-    <desc lang="vi">Tự giới thiệu VN.(n)</desc>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708180000 +0700" channel="HTV2-ClipTV">
-    <title lang="vi">Quả Báo (Tập 44)</title>
-    <desc lang="vi">Phim truyện TL (50T).(n)</desc>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708190000 +0700" channel="HTV2-ClipTV">
-    <title lang="vi">Vợ Tôi Là Số 1 (Tập 42)</title>
-    <desc lang="vi">Phim truyện VN (44T).(n)</desc>
-  </programme>
   <programme start="20190708190000 +0700" stop="20190708200000 +0700" channel="HTV2-ClipTV">
     <title lang="vi">Níu Em Trong Tay (Tập 4)</title>
     <desc lang="vi">Phim truyện TL (30T).(n)</desc>
@@ -34946,18 +33993,6 @@
   <programme start="20190708230000 +0700" stop="20190708233000 +0700" channel="HTV2-ClipTV">
     <title lang="vi">Bản Tin Buổi Tối</title>
     <desc lang="vi">Thời sự VN.(n)</desc>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708173000 +0700" channel="HTV3-ClipTV">
-    <title lang="vi">Heo Peppa</title>
-  </programme>
-  <programme start="20190708173000 +0700" stop="20190708180000 +0700" channel="HTV3-ClipTV">
-    <title lang="vi">Doraemon Chú mèo máy đến từ tương lai</title>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708183000 +0700" channel="HTV3-ClipTV">
-    <title lang="vi">Thám tử lừng danh Conan</title>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708190000 +0700" channel="HTV3-ClipTV">
-    <title lang="vi">Biệt đội Badanamu</title>
   </programme>
   <programme start="20190708190000 +0700" stop="20190708193000 +0700" channel="HTV3-ClipTV">
     <title lang="vi">Thủ lĩnh thẻ bài</title>
@@ -34983,15 +34018,6 @@
   <programme start="20190708230000 +0700" stop="20190708233000 +0700" channel="HTV3-ClipTV">
     <title lang="vi">Thủ lĩnh thẻ bài</title>
   </programme>
-  <programme start="20190708164500 +0700" stop="20190708165500 +0700" channel="HTV7 HD-ClipTV">
-    <title lang="vi">Bữa cơm gia đình</title>
-  </programme>
-  <programme start="20190708165500 +0700" stop="20190708170000 +0700" channel="HTV7 HD-ClipTV">
-    <title lang="vi">Gương soi phố phường</title>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708183000 +0700" channel="HTV7 HD-ClipTV">
-    <title lang="vi">Bạch Phát Vương Phi</title>
-  </programme>
   <programme start="20190708183000 +0700" stop="20190708190000 +0700" channel="HTV7 HD-ClipTV">
     <title lang="vi">60 Giây</title>
   </programme>
@@ -35015,21 +34041,6 @@
   </programme>
   <programme start="20190708225000 +0700" stop="20190708232000 +0700" channel="HTV7 HD-ClipTV">
     <title lang="vi">Bạn Muốn Hẹn Hò</title>
-  </programme>
-  <programme start="20190708164500 +0700" stop="20190708171000 +0700" channel="HTV9 HD-ClipTV">
-    <title lang="vi">Cái Giá Của Tham Vọng</title>
-  </programme>
-  <programme start="20190708171000 +0700" stop="20190708173500 +0700" channel="HTV9 HD-ClipTV">
-    <title lang="vi">Sống để yêu thương</title>
-  </programme>
-  <programme start="20190708173500 +0700" stop="20190708180500 +0700" channel="HTV9 HD-ClipTV">
-    <title lang="vi">Tâm điểm hôm nay</title>
-  </programme>
-  <programme start="20190708180500 +0700" stop="20190708181000 +0700" channel="HTV9 HD-ClipTV">
-    <title lang="vi">Tiêu điểm y tế</title>
-  </programme>
-  <programme start="20190708181000 +0700" stop="20190708183000 +0700" channel="HTV9 HD-ClipTV">
-    <title lang="vi">Phim Sitcom :Chồng à, vợ ơi</title>
   </programme>
   <programme start="20190708183000 +0700" stop="20190708190000 +0700" channel="HTV9 HD-ClipTV">
     <title lang="vi">Chương trình 60 giây</title>
@@ -35076,16 +34087,6 @@
   <programme start="20190708230500 +0700" stop="20190708231500 +0700" channel="HTV9 HD-ClipTV">
     <title lang="vi">Sức khỏe cho mọi người :Điều trị kịp thời nhồi máu cơ tim</title>
   </programme>
-  <programme start="20190708170000 +0700" stop="20190708175500 +0700" channel="HTVC PHU NU HD">
-    <title lang="vi">Tuổi Thanh Xuân Của Băng Và Lửa (Tập 18)</title>
-  </programme>
-  <programme start="20190708175500 +0700" stop="20190708180000 +0700" channel="HTVC PHU NU HD">
-    <title lang="vi">Ẩm thực</title>
-    <desc lang="vi">Thanh gà chiên sốt cay.(n)</desc>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708190000 +0700" channel="HTVC PHU NU HD">
-    <title lang="vi">Công Chúa Ohrora (Tập 99)</title>
-  </programme>
   <programme start="20190708190000 +0700" stop="20190708200000 +0700" channel="HTVC PHU NU HD">
     <title lang="vi">Vòng Vây Hoa Hồng (Tập 24)</title>
   </programme>
@@ -35098,18 +34099,6 @@
   </programme>
   <programme start="20190708220000 +0700" stop="20190708230000 +0700" channel="HTVC PHU NU HD">
     <title lang="vi">Cười Lên Vợ Ơi (Tập 61+62)</title>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708173000 +0700" channel="HTVC GIA DINH">
-    <title lang="vi">Chuyên đề thiếu nhi: Vui cùng hoa lúa</title>
-  </programme>
-  <programme start="20190708173000 +0700" stop="20190708180000 +0700" channel="HTVC GIA DINH">
-    <title lang="vi">Chuyên đề thiếu nhi: Ước mơ của em</title>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708183000 +0700" channel="HTVC GIA DINH">
-    <title lang="vi">Hài kịch (Hội ngộ danh hài)</title>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708190000 +0700" channel="HTVC GIA DINH">
-    <title lang="vi">Hẻm Không Sợ Vợ</title>
   </programme>
   <programme start="20190708190000 +0700" stop="20190708200000 +0700" channel="HTVC GIA DINH">
     <title lang="vi">Ỷ Thiên Đồ Long Ký (Tập 23)</title>
@@ -35129,15 +34118,9 @@
   <programme start="20190708232000 +0700" stop="20190708234000 +0700" channel="HTVC GIA DINH">
     <title lang="vi">Chuyên đề: Thường thức gia đình</title>
   </programme>
-  <programme start="20190708180100 +0700" stop="20190708200100 +0700" channel="HTVC Phim HD">
-    <title lang="vi">Mẹ Yêu, Đừng Khóc</title>
-  </programme>
   <programme start="20190708200100 +0700" stop="20190708220100 +0700" channel="HTVC Phim HD">
     <title lang="vi">Kế Hoạch Bắt Cóc</title>
     <desc lang="vi">Phim Hành động Hàn Quốc.(n)</desc>
-  </programme>
-  <programme start="20190708174500 +0700" stop="20190708184500 +0700" channel="HTVC THUAN VIET HD">
-    <title lang="vi">Khi Em Đã Lớn (Tập Cuối)</title>
   </programme>
   <programme start="20190708184500 +0700" stop="20190708194500 +0700" channel="HTVC THUAN VIET HD">
     <title lang="vi">Phim truyện Việt Nam</title>
@@ -35155,13 +34138,6 @@
   <programme start="20190708214500 +0700" stop="20190708224500 +0700" channel="HTVC THUAN VIET HD">
     <title lang="vi">Hạnh Phúc Bất Tận</title>
   </programme>
-  <programme start="20190708170000 +0700" stop="20190708180000 +0700" channel="HTVC THUAN VIET">
-    <title lang="vi">Ca nhạc thiếu nhi</title>
-    <desc lang="vi">Những hộp quà xinh.(n)</desc>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708190000 +0700" channel="HTVC THUAN VIET">
-    <title lang="vi">Cà Phê Ngã 8 (Tập 7)</title>
-  </programme>
   <programme start="20190708190000 +0700" stop="20190708200000 +0700" channel="HTVC THUAN VIET">
     <title lang="vi">Trái Tim Của Sói (Tập 1)</title>
   </programme>
@@ -35170,15 +34146,6 @@
   </programme>
   <programme start="20190708210000 +0700" stop="20190708220000 +0700" channel="HTVC THUAN VIET">
     <title lang="vi">Ngọn Cỏ Gió Đùa (Tập 45)</title>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708180000 +0700" channel="TODAYTV">
-    <title lang="vi">Của Hồi Môn (Tập 91)</title>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708181500 +0700" channel="TODAYTV">
-    <title lang="vi">Today 18h</title>
-  </programme>
-  <programme start="20190708181500 +0700" stop="20190708190000 +0700" channel="TODAYTV">
-    <title lang="vi">Thả Lưới Bắt Em (Tập 71)</title>
   </programme>
   <programme start="20190708190000 +0700" stop="20190708200000 +0700" channel="TODAYTV">
     <title lang="vi">Cạm Bẫy Thị Thành (Tập 10)</title>
@@ -35191,17 +34158,6 @@
   </programme>
   <programme start="20190708220000 +0700" stop="20190708230000 +0700" channel="TODAYTV">
     <title lang="vi">Oan Gia Ngõ Hẹp (Tập 23)</title>
-  </programme>
-  <programme start="20190708173000 +0700" stop="20190708174500 +0700" channel="ANTV">
-    <title lang="vi">An ninh với cuộc sống (7)</title>
-    <desc lang="vi">Lừa đảo qua điện thoại, Tập 1.(n)</desc>
-  </programme>
-  <programme start="20190708174500 +0700" stop="20190708180000 +0700" channel="ANTV">
-    <title lang="vi">SITCOM</title>
-    <desc lang="vi">Khu phố Ùm Bà Lằng, tập 181\/186.(n)</desc>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708184500 +0700" channel="ANTV">
-    <title lang="vi">An Ninh 24h</title>
   </programme>
   <programme start="20190708184500 +0700" stop="20190708190000 +0700" channel="ANTV">
     <title lang="vi">An toàn sống</title>
@@ -35256,21 +34212,6 @@
     <title lang="vi">Việt Nam quê hương tôi</title>
     <desc lang="vi">Hội quán Phước Kiến.(n)</desc>
   </programme>
-  <programme start="20190708170000 +0700" stop="20190708170500 +0700" channel="HANOITV 1">
-    <title lang="vi">Thông tin tiêu dùng</title>
-  </programme>
-  <programme start="20190708170500 +0700" stop="20190708175000 +0700" channel="HANOITV 1">
-    <title lang="vi">Thanh Xuân Năm Ấy Chúng Ta Gặp Nhau (Tập 17)</title>
-  </programme>
-  <programme start="20190708175000 +0700" stop="20190708180000 +0700" channel="HANOITV 1">
-    <title lang="vi">Sống và làm việc theo pháp luật</title>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708183000 +0700" channel="HANOITV 1">
-    <title lang="vi">Hà Nội 18:00</title>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708190000 +0700" channel="HANOITV 1">
-    <title lang="vi">Thời sự</title>
-  </programme>
   <programme start="20190708190000 +0700" stop="20190708194500 +0700" channel="HANOITV 1">
     <title lang="vi">Tiếp sóng chương trình thời sự Đài THVN</title>
   </programme>
@@ -35305,15 +34246,6 @@
   <programme start="20190708231500 +0700" stop="20190708234000 +0700" channel="HANOITV 1">
     <title lang="vi">Bản tin tiếng Trung Quốc</title>
   </programme>
-  <programme start="20190708170000 +0700" stop="20190708173000 +0700" channel="THVL1 HD">
-    <title lang="vi">Con Ông Hai Lúa</title>
-  </programme>
-  <programme start="20190708173000 +0700" stop="20190708183000 +0700" channel="THVL1 HD">
-    <title lang="vi">Đại Thời Đại (Tập 101)</title>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708190000 +0700" channel="THVL1 HD">
-    <title lang="vi">Thời sự Vĩnh Long</title>
-  </programme>
   <programme start="20190708190000 +0700" stop="20190708190700 +0700" channel="THVL1 HD">
     <title lang="vi">Thời tiết nông vụ</title>
   </programme>
@@ -35338,12 +34270,6 @@
   <programme start="20190708221500 +0700" stop="20190708230500 +0700" channel="THVL1 HD">
     <title lang="vi">Tình Yêu Và Thù Hận (Tập 65)</title>
   </programme>
-  <programme start="20190708170000 +0700" stop="20190708183000 +0700" channel="THVL2 HD">
-    <title lang="vi">Quá Khứ Tội Lỗi (Tập 129 + 130)</title>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708190000 +0700" channel="THVL2 HD">
-    <title lang="vi">Người đưa tin 24G</title>
-  </programme>
   <programme start="20190708190000 +0700" stop="20190708194500 +0700" channel="THVL2 HD">
     <title lang="vi">Thời sự Việt Nam</title>
   </programme>
@@ -35353,15 +34279,6 @@
   <programme start="20190708200000 +0700" stop="20190708210000 +0700" channel="THVL2 HD">
     <title lang="vi">Vợ Tôi Là Cảnh Sát (Tập 225)</title>
   </programme>
-  <programme start="20190708170000 +0700" stop="20190708182000 +0700" channel="THVL3 HD">
-    <title lang="vi">Giải trí truyền hình: Ai sẽ thành sao 2019</title>
-  </programme>
-  <programme start="20190708182000 +0700" stop="20190708183000 +0700" channel="THVL3 HD">
-    <title lang="vi">Bóng mát tâm hồn</title>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708190000 +0700" channel="THVL3 HD">
-    <title lang="vi">Phụ nữ ngày nay</title>
-  </programme>
   <programme start="20190708190000 +0700" stop="20190708200000 +0700" channel="THVL3 HD">
     <title lang="vi">Phim Việt Nam: Một chàng ba nàng – T.21</title>
   </programme>
@@ -35370,12 +34287,6 @@
   </programme>
   <programme start="20190708204500 +0700" stop="20190708210000 +0700" channel="THVL3 HD">
     <title lang="vi">Phút thư giãn</title>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708174500 +0700" channel="THVL4 HD">
-    <title lang="vi">Phim Việt Nam: Lời nguyền – T.23</title>
-  </programme>
-  <programme start="20190708174500 +0700" stop="20190708190000 +0700" channel="THVL4 HD">
-    <title lang="vi">Giải trí truyền hình: Người hát tình ca</title>
   </programme>
   <programme start="20190708190000 +0700" stop="20190708194500 +0700" channel="THVL4 HD">
     <title lang="vi">Tiếp chuyển TSTHVN</title>
@@ -35391,25 +34302,6 @@
   </programme>
   <programme start="20190708214500 +0700" stop="20190708220000 +0700" channel="THVL4 HD">
     <title lang="vi">Phút thư giãn</title>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708171500 +0700" channel="QUOC PHONG VIET NAM HD">
-    <title lang="vi">BẢN TIN QUỐC TẾ</title>
-  </programme>
-  <programme start="20190708171500 +0700" stop="20190708174500 +0700" channel="QUOC PHONG VIET NAM HD">
-    <title lang="vi">8 PHIM</title>
-    <desc lang="vi">Con đường theo đuổi nghiệp diễn hài của diễn viên Mạnh Dũng.(n)</desc>
-  </programme>
-  <programme start="20190708174500 +0700" stop="20190708181500 +0700" channel="QUOC PHONG VIET NAM HD">
-    <title lang="vi">SỰ KIỆN NHÂN CHỨNG</title>
-    <desc lang="vi">Xây dựng phát triển lực lượng Phòng không Lục quân, Phòng kh...(n)</desc>
-  </programme>
-  <programme start="20190708181500 +0700" stop="20190708183000 +0700" channel="QUOC PHONG VIET NAM HD">
-    <title lang="vi">QUỐC PHÒNG ĐỊA PHƯƠNG</title>
-    <desc lang="vi">Số 1037: Xây dựng nền quốc phòng toàn dân vững mạnh.(n)</desc>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708190000 +0700" channel="QUOC PHONG VIET NAM HD">
-    <title lang="vi">RUBIK CUỘC SỐNG</title>
-    <desc lang="vi">Số 490.(n)</desc>
   </programme>
   <programme start="20190708190000 +0700" stop="20190708194500 +0700" channel="QUOC PHONG VIET NAM HD">
     <title lang="vi">TIẾP SÓNG THỜI SỰ VTV1</title>
@@ -35461,16 +34353,6 @@
     <title lang="vi">QUỐC PHÒNG ĐỊA PHƯƠNG</title>
     <desc lang="vi">Số 1027: Luyện quân cùng sao vuông.(n)</desc>
   </programme>
-  <programme start="20190708171500 +0700" stop="20190708180000 +0700" channel="HANOITV 2">
-    <title lang="vi">Phim truyện</title>
-    <desc lang="vi">Liêu trai tân truyện (Tập 7).(n)</desc>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708183000 +0700" channel="HANOITV 2">
-    <title lang="vi">Hà Nội 18:00</title>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708190000 +0700" channel="HANOITV 2">
-    <title lang="vi">Thời sự</title>
-  </programme>
   <programme start="20190708190000 +0700" stop="20190708194500 +0700" channel="HANOITV 2">
     <title lang="vi">Phim truyện</title>
     <desc lang="vi">Đường cung yến (phim Trung Quốc - tập 37).(n)</desc>
@@ -35503,33 +34385,6 @@
   <programme start="20190708230500 +0700" stop="20190708231500 +0700" channel="HANOITV 2">
     <title lang="vi">Chuyện quanh ta</title>
     <desc lang="vi">Quán nước lưu động.(n)</desc>
-  </programme>
-  <programme start="20190708165500 +0700" stop="20190708170000 +0700" channel="TH QUANG NINH 1">
-    <title lang="vi">Bản tin tiếng Trung</title>
-    <desc lang="vi">Chiều ngày 08\/07\/2019.(n)</desc>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708173000 +0700" channel="TH QUANG NINH 1">
-    <title lang="vi">Ca nhạc quốc tế</title>
-  </programme>
-  <programme start="20190708173000 +0700" stop="20190708174500 +0700" channel="TH QUANG NINH 1">
-    <title lang="vi">Hoạt hình</title>
-    <desc lang="vi">Tib và Tatoum.T7.(n)</desc>
-  </programme>
-  <programme start="20190708174500 +0700" stop="20190708180000 +0700" channel="TH QUANG NINH 1">
-    <title lang="vi">Bản tin tài chính</title>
-    <desc lang="vi">Chiều ngày 08\/07\/2019.(n)</desc>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708182000 +0700" channel="TH QUANG NINH 1">
-    <title lang="vi">Nhịp sống 365</title>
-    <desc lang="vi">Chiều ngày 08\/07\/2019.(n)</desc>
-  </programme>
-  <programme start="20190708182000 +0700" stop="20190708183500 +0700" channel="TH QUANG NINH 1">
-    <title lang="vi">Phóng sự</title>
-    <desc lang="vi">Những người đi tìm địa danh Quảng Ninh.(n)</desc>
-  </programme>
-  <programme start="20190708183500 +0700" stop="20190708184500 +0700" channel="TH QUANG NINH 1">
-    <title lang="vi">Nhịp sống thể thao</title>
-    <desc lang="vi">Tối ngày 08\/07\/2019.(n)</desc>
   </programme>
   <programme start="20190708184500 +0700" stop="20190708190000 +0700" channel="TH QUANG NINH 1">
     <title lang="vi">Sống khỏe 360</title>
@@ -35574,18 +34429,6 @@
     <title lang="vi">Phim truyện</title>
     <desc lang="vi">Điệp vụ chân dài. T24.(n)</desc>
   </programme>
-  <programme start="20190708172500 +0700" stop="20190708174500 +0700" channel="TH NINH BINH">
-    <title lang="vi">Thời sự Trong nước và Quốc tế</title>
-    <desc lang="vi">Tin tức tổng hợp.(n)</desc>
-  </programme>
-  <programme start="20190708174500 +0700" stop="20190708183500 +0700" channel="TH NINH BINH">
-    <title lang="vi">Phim truyện</title>
-    <desc lang="vi">Tào Tháo - Tập 28.(n)</desc>
-  </programme>
-  <programme start="20190708183500 +0700" stop="20190708190000 +0700" channel="TH NINH BINH">
-    <title lang="vi">Khoa học kỹ thuật và công nghệ</title>
-    <desc lang="vi">Ứng dụng khoa học kỹ thuật trong sản xuất đá mỹ nghệ.(n)</desc>
-  </programme>
   <programme start="20190708190000 +0700" stop="20190708195000 +0700" channel="TH NINH BINH">
     <title lang="vi">Tiếp sóng VTV</title>
     <desc lang="vi">Chương trình thời sự VTV1.(n)</desc>
@@ -35614,38 +34457,6 @@
     <title lang="vi">Bản tin thời sự cuối ngày</title>
     <desc lang="vi">Tin tức tổng hợp.(n)</desc>
   </programme>
-  <programme start="20190708170000 +0700" stop="20190708171000 +0700" channel="TH DA NANG 1">
-    <title lang="vi">Chương trình</title>
-    <desc lang="vi">Pops Kids Số 123.(n)</desc>
-  </programme>
-  <programme start="20190708171000 +0700" stop="20190708171500 +0700" channel="TH DA NANG 1">
-    <title lang="vi">Bản tin thể thao</title>
-    <desc lang="vi">Bản tin thể thao.(n)</desc>
-  </programme>
-  <programme start="20190708171500 +0700" stop="20190708173000 +0700" channel="TH DA NANG 1">
-    <title lang="vi">Chuyên mục</title>
-    <desc lang="vi">Quốc phòng toàn dân.(n)</desc>
-  </programme>
-  <programme start="20190708173000 +0700" stop="20190708180000 +0700" channel="TH DA NANG 1">
-    <title lang="vi">Pops Music</title>
-    <desc lang="vi">Số 122.(n)</desc>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708182000 +0700" channel="TH DA NANG 1">
-    <title lang="vi">Tiêu điểm 24h</title>
-    <desc lang="vi">Tiêu điểm 24h.(n)</desc>
-  </programme>
-  <programme start="20190708182000 +0700" stop="20190708182500 +0700" channel="TH DA NANG 1">
-    <title lang="vi">Bản tin thị trường</title>
-    <desc lang="vi">Bản tin thị trường.(n)</desc>
-  </programme>
-  <programme start="20190708182500 +0700" stop="20190708183000 +0700" channel="TH DA NANG 1">
-    <title lang="vi">Dự báo thời tiết – Quảng cáo</title>
-    <desc lang="vi">Dự báo thời tiết – Quảng cáo.(n)</desc>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708190000 +0700" channel="TH DA NANG 1">
-    <title lang="vi">Thời sự PT-TH Đà Nẵng</title>
-    <desc lang="vi">Thời sự PT-TH Đà Nẵng.(n)</desc>
-  </programme>
   <programme start="20190708190000 +0700" stop="20190708200000 +0700" channel="TH DA NANG 1">
     <title lang="vi">Phim truyện</title>
     <desc lang="vi">Thiện nữ u hồn Tập 14.(n)</desc>
@@ -35673,23 +34484,6 @@
   <programme start="20190708231000 +0700" stop="20190708232000 +0700" channel="TH DA NANG 1">
     <title lang="vi">Bản tin tiếng Anh</title>
     <desc lang="vi">Bản tin tiếng Anh.(n)</desc>
-  </programme>
-  <programme start="20190708170000 +0700" stop="20190708171700 +0700" channel="TH CA MAU">
-    <title lang="vi">ản tin</title>
-  </programme>
-  <programme start="20190708171700 +0700" stop="20190708180000 +0700" channel="TH CA MAU">
-    <title lang="vi">Phim truyện Trung Quốc</title>
-    <desc lang="vi">Truyền thuyết Lão Tử (tập 3)\/33.(n)</desc>
-  </programme>
-  <programme start="20190708180000 +0700" stop="20190708181500 +0700" channel="TH CA MAU">
-    <title lang="vi">him Hoạt hình</title>
-    <desc lang="vi">Bí ẩn đại dương sâu thẳm (tập 24).(n)</desc>
-  </programme>
-  <programme start="20190708181500 +0700" stop="20190708183000 +0700" channel="TH CA MAU">
-    <title lang="vi">hông tin cần biết</title>
-  </programme>
-  <programme start="20190708183000 +0700" stop="20190708190000 +0700" channel="TH CA MAU">
-    <title lang="vi">hời sự Đài PT-TH Cà Mau (CTV) - Dự báo thời tiết</title>
   </programme>
   <programme start="20190708190000 +0700" stop="20190708194500 +0700" channel="TH CA MAU">
     <title lang="vi">iếp sóng Thời sự Đài THVN (VTV)</title>
